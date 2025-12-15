@@ -1,0 +1,22 @@
+services:
+  app:
+    container_name: mybeans-backend
+    build:
+      context: ../../
+      dockerfile: docker/local/dockerfile-server
+    env_file:
+      - .env
+    ports:
+      - ${SERVER_PORT}:${SERVER_PORT}
+    networks:
+      - network-mybeans-backend
+    volumes:
+      - ../../src:/usr/app/mybeans-backend/src
+    command:
+      - bash
+      - -c
+      - npm run start
+
+networks:
+  network-mybeans-backend:
+    external: true

@@ -1,0 +1,1660 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "므쵸베리 블렌드 스페셜티 원두",
+    "nameEn": "Muchoberry Blend Specialty Beans",
+    "thumbnailUrl": "므쵸베리 블렌드 스페셜티 원두_0.png",
+    "price": 13500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 14500
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 32500
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["므쵸베리 블렌드 스페셜티 원두_1.png", "므쵸베리 블렌드 스페셜티 원두_2.png"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          {
+            "origin_kr": "에티오피아",
+            "origin_en": "Ethiopia",
+            "ratio": 70
+          },
+          {
+            "origin_kr": "콜롬비아",
+            "origin_en": "Colombia",
+            "ratio": 30
+          }
+        ],
+        "origin_typicity_kr": "에티오피아의 밝고 화사한 산미와 콜롬비아의 부드러운 단맛이 어우러진 조화로운 블렌드",
+        "origin_typicity_en": "A harmonious blend combining Ethiopia's bright acidity and Colombia's smooth sweetness"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 라이트",
+        "roast_level_en": "Medium Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "50",
+        "color_track_en": "50",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "에티오피아 70% / 콜롬비아 30%",
+        "bean_ratio_en": "Ethiopia 70% / Colombia 30%",
+        "color_stage_kr": "Medium Light",
+        "color_stage_en": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 5,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["믹스베리", "체리", "메이플시럽", "쥬시"],
+      "tasting_note_en": ["Mixed Berry", "Cherry", "Maple Syrup", "Juicy"],
+      "keywords_kr": [
+        "믹스베리",
+        "체리",
+        "메이플시럽",
+        "쥬시",
+        "스페셜티",
+        "미디엄 라이트",
+        "에티오피아",
+        "콜롬비아"
+      ],
+      "keywords_en": [
+        "Mixed Berry",
+        "Cherry",
+        "Maple Syrup",
+        "Juicy",
+        "Specialty",
+        "Medium Light",
+        "Ethiopia",
+        "Colombia"
+      ],
+      "summary_kr": "에티오피아의 밝은 산미와 콜롬비아의 단맛이 어우러진 믹스베리 향의 미디엄 라이트 블렌드",
+      "summary_en": "A medium light blend with mixed berry aroma combining Ethiopia’s bright acidity and Colombia’s sweetness",
+      "tags_kr": [
+        "밝은 산미",
+        "중간 바디",
+        "중간 단맛",
+        "블렌드",
+        "미디엄 라이트",
+        "주시",
+        "에티오피아",
+        "콜롬비아"
+      ],
+      "tags_en": [
+        "Bright acidity",
+        "Medium body",
+        "Medium sweetness",
+        "Blend",
+        "Medium Light",
+        "Juicy",
+        "Ethiopia",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "볼리비아 알라시타스 모스토 애너로빅 워시드",
+    "nameEn": "Bolivia Alasitas Mosto Anaerobic Washed",
+    "thumbnailUrl": "볼리비아 알라시타스 모스토 애너로빅 워시드_0.jpeg",
+    "price": 14400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": [
+      "볼리비아 알라시타스 모스토 애너로빅 워시드_1.png",
+      "볼리비아 알라시타스 모스토 애너로빅 워시드_2.png"
+    ],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "볼리비아",
+        "country_en": "Bolivia",
+        "region_kr": "카라나비",
+        "region_en": "Caranavi",
+        "farm_kr": "알라시타스",
+        "farm_en": "Alasitas",
+        "producer_kr": "로스 로드리게즈",
+        "producer_en": "Los Rodriguez",
+        "altitude_m": 1642,
+        "variety_kr": "카투라",
+        "variety_en": "Caturra",
+        "process_kr": "모스토 애너로빅 워시드",
+        "process_en": "Mosto Anaerobic Washed",
+        "origin_typicity_kr": "고산지대에서 생산된 복합적 향미의 고품질 마이크로랏",
+        "origin_typicity_en": "High-quality micro-lot with complex flavors from high altitude region"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 라이트",
+        "roast_level_en": "Medium Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "47",
+        "color_track_en": "47",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "원두 100% (컬러비아 100%)",
+        "bean_ratio_en": "100% beans (Colombia 100%)",
+        "color_stage_kr": "Medium Light",
+        "color_stage_en": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "36시간 동안 체리 발효 후 탈과, 다시 36시간 발효 후 세척",
+        "fermentation_en": "Cherry fermentation for 36 hours, depulped, then fermented again for 36 hours before washing",
+        "special_technique_kr": "더블 발효(Double Fermentation)",
+        "special_technique_en": "Double Fermentation",
+        "must_usage_kr": "발효 시 체리 주스를 함께 사용 (Mosto)",
+        "must_usage_en": "Cherry juice (Mosto) used during fermentation"
+      },
+      "acidity": 7,
+      "body": 5,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["헤이즐넛", "말린 사과", "브랜디", "시트러스"],
+      "tasting_note_en": ["Hazelnut", "Dried Apple", "Brandy", "Citrus"],
+      "keywords_kr": [
+        "헤이즐넛",
+        "말린 사과",
+        "브랜디",
+        "시트러스",
+        "애너로빅 워시드",
+        "미디엄 라이트",
+        "스페셜티",
+        "볼리비아",
+        "로스 로드리게즈",
+        "모모스커피"
+      ],
+      "keywords_en": [
+        "Hazelnut",
+        "Dried Apple",
+        "Brandy",
+        "Citrus",
+        "Anaerobic Washed",
+        "Medium Light",
+        "Specialty",
+        "Bolivia",
+        "Los Rodriguez",
+        "Momos Coffee"
+      ],
+      "summary_kr": "브랜디와 시트러스의 향미가 조화된 고도 1600m 이상 고지대 생산 싱글 오리진 마이크로랏",
+      "summary_en": "A single origin micro-lot from over 1600m altitude with harmonious brandy and citrus notes",
+      "tags_kr": [
+        "싱글 오리진",
+        "복합적 향미",
+        "강한 단맛",
+        "중간 바디",
+        "고산지 커피",
+        "애너로빅 발효",
+        "볼리비아",
+        "브랜디 향",
+        "시트러스",
+        "와인같은 애프터"
+      ],
+      "tags_en": [
+        "Single origin",
+        "Complex flavor",
+        "Strong sweetness",
+        "Medium body",
+        "High-altitude coffee",
+        "Anaerobic fermentation",
+        "Bolivia",
+        "Brandy aroma",
+        "Citrus",
+        "Wine-like aftertaste"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "볼리비아 왈리키 게이샤 애너로빅",
+    "nameEn": "Bolivia Waliki Geisha Anaerobic Natural",
+    "thumbnailUrl": "볼리비아 왈리키 게이샤 애너로빅_1.jpeg",
+    "price": 23000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 3,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["볼리비아 왈리키 게이샤 애너로빅_2.png", "볼리비아 왈리키 게이샤 애너로빅_3.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "볼리비아",
+        "country_en": "Bolivia",
+        "region_kr": "카라나비",
+        "region_en": "Caranavi",
+        "farm_kr": "왈라키 (핀카 왈라키)",
+        "farm_en": "Waliki (Finca Waliki)",
+        "producer_kr": "로스 로드리게즈",
+        "producer_en": "Los Rodriguez",
+        "altitude_m": 1620,
+        "variety_kr": "게이샤",
+        "variety_en": "Geisha",
+        "process_kr": "애너로빅 내추럴",
+        "process_en": "Anaerobic Natural",
+        "origin_typicity_kr": "게이샤 품종 특유의 섬세한 향과 볼리비아 고지대의 투명한 산미가 어우러진 커피",
+        "origin_typicity_en": "A coffee with Geisha’s delicate floral aroma and Bolivia's clean high-altitude acidity"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 라이트",
+        "roast_level_en": "Medium Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "45",
+        "color_track_en": "45",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "원두 100% (볼리비아 100%)",
+        "bean_ratio_en": "100% beans (Bolivia 100%)",
+        "color_stage_kr": "Medium Light",
+        "color_stage_en": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "무산소 상태에서 체리 상태로 발효 후 건조",
+        "fermentation_en": "Fermented in cherry under anaerobic conditions and then dried",
+        "special_technique_kr": "게이샤 품종의 특성을 극대화하기 위한 정제 발효 및 내추럴 방식",
+        "special_technique_en": "Refined anaerobic natural process to maximize Geisha characteristics",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 9,
+      "body": 3,
+      "sweetness": 7,
+      "aroma": 9,
+      "tasting_note_kr": ["꽃", "열대 자스민", "캐슈넛", "루이보스티"],
+      "tasting_note_en": ["Floral", "Tropical Jasmine", "Cashew Nut", "Rooibos Tea"],
+      "keywords_kr": [
+        "게이샤",
+        "꽃향",
+        "자스민",
+        "루이보스티",
+        "애너로빅 내추럴",
+        "볼리비아",
+        "싱글 오리진",
+        "미디엄 라이트"
+      ],
+      "keywords_en": [
+        "Geisha",
+        "Floral",
+        "Jasmine",
+        "Rooibos Tea",
+        "Anaerobic Natural",
+        "Bolivia",
+        "Single Origin",
+        "Medium Light"
+      ],
+      "summary_kr": "꽃향과 열대 자스민의 섬세함이 돋보이는 볼리비아 고산지 게이샤 커피",
+      "summary_en": "A high-altitude Bolivian Geisha coffee highlighted by delicate floral and tropical jasmine notes",
+      "tags_kr": [
+        "게이샤",
+        "플로럴",
+        "싱글 오리진",
+        "애너로빅",
+        "내추럴",
+        "고산지",
+        "가벼운 바디",
+        "맑은 산미",
+        "미디엄 라이트"
+      ],
+      "tags_en": [
+        "Geisha",
+        "Floral",
+        "Single Origin",
+        "Anaerobic",
+        "Natural",
+        "High Altitude",
+        "Light Body",
+        "Clean Acidity",
+        "Medium Light"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "부산 블렌드 스페셜티 원두",
+    "nameEn": "Busan Blend Specialty Beans",
+    "thumbnailUrl": "부산 블렌드 스페셜티 원두_0.png",
+    "price": 12600,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 13400
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 30400
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["부산 블렌드 스페셜티 원두_1.png", "부산 블렌드 스페셜티 원두_2.png"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          {
+            "origin_kr": "브라질",
+            "origin_en": "Brazil",
+            "ratio": 80
+          },
+          {
+            "origin_kr": "에티오피아",
+            "origin_en": "Ethiopia",
+            "ratio": 20
+          }
+        ],
+        "origin_typicity_kr": "브라질의 고소한 너트류 향과 에티오피아의 과일향이 어우러진 밸런스형 블렌드",
+        "origin_typicity_en": "A balanced blend of nutty Brazil and fruity Ethiopia"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄",
+        "roast_level_en": "Medium",
+        "roaster_kr": "PROBAT P60",
+        "roaster_en": "PROBAT P60",
+        "color_track_kr": "60",
+        "color_track_en": "60",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "브라질 80% / 에티오피아 20%",
+        "bean_ratio_en": "Brazil 80% / Ethiopia 20%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 3,
+      "body": 5,
+      "sweetness": 5,
+      "aroma": 6,
+      "tasting_note_kr": ["로스티드 너트", "카라멜", "건과일", "웰벨런스드"],
+      "tasting_note_en": ["Roasted Nuts", "Caramel", "Dried Fruit", "Well-balanced"],
+      "keywords_kr": [
+        "로스티드 너트",
+        "카라멜",
+        "건과일",
+        "브라질",
+        "에티오피아",
+        "스페셜티 블렌드",
+        "웰밸런스드",
+        "미디엄 로스트"
+      ],
+      "keywords_en": [
+        "Roasted Nuts",
+        "Caramel",
+        "Dried Fruit",
+        "Brazil",
+        "Ethiopia",
+        "Specialty Blend",
+        "Well-balanced",
+        "Medium Roast"
+      ],
+      "summary_kr": "로스티드 너트와 카라멜의 고소함이 조화로운 브라질 중심의 밸런스형 블렌드 커피",
+      "summary_en": "A balanced Brazil-based blend with nutty roasted flavors and caramel sweetness",
+      "tags_kr": [
+        "고소함",
+        "중간 바디",
+        "중간 단맛",
+        "약한 산미",
+        "웰밸런스",
+        "브라질",
+        "에티오피아",
+        "미디엄 로스팅",
+        "블렌드"
+      ],
+      "tags_en": [
+        "Nutty",
+        "Medium body",
+        "Medium sweetness",
+        "Low acidity",
+        "Well-balanced",
+        "Brazil",
+        "Ethiopia",
+        "Medium roasting",
+        "Blend"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에스쇼콜라 블렌드 스페셜티 원두",
+    "nameEn": "Es Chocolat Blend Specialty Beans",
+    "thumbnailUrl": "에스쇼콜라 블렌드 스페셜티 원두_0.png",
+    "price": 12600,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 10600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 25900
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에스쇼콜라 블렌드 스페셜티 원두_1.png", "에스쇼콜라 블렌드 스페셜티 원두_2.png"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          {
+            "origin_kr": "콜롬비아",
+            "origin_en": "Colombia",
+            "ratio": 45
+          },
+          {
+            "origin_kr": "코스타리카",
+            "origin_en": "Costa Rica",
+            "ratio": 35
+          },
+          {
+            "origin_kr": "기타",
+            "origin_en": "Etc.",
+            "ratio": 20
+          }
+        ],
+        "origin_typicity_kr": "콜롬비아의 단맛과 코스타리카의 클린컵이 조화를 이루는 진한 초콜릿 향의 블렌드",
+        "origin_typicity_en": "A rich chocolatey blend combining Colombia's sweetness and Costa Rica's clean cup"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 다크",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": "PROBAT P60",
+        "roaster_en": "PROBAT P60",
+        "color_track_kr": "62",
+        "color_track_en": "62",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "콜롬비아 45% / 코스타리카 35% / 기타 20%",
+        "bean_ratio_en": "Colombia 45% / Costa Rica 35% / Etc. 20%",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 2,
+      "body": 8,
+      "sweetness": 5,
+      "aroma": 7,
+      "tasting_note_kr": ["초콜릿", "프랄린 피칸", "크리미"],
+      "tasting_note_en": ["Chocolate", "Praline Pecan", "Creamy"],
+      "keywords_kr": [
+        "초콜릿",
+        "프랄린",
+        "피칸",
+        "크리미",
+        "콜롬비아",
+        "코스타리카",
+        "진한 커피",
+        "에스프레소",
+        "미디엄 다크"
+      ],
+      "keywords_en": [
+        "Chocolate",
+        "Praline",
+        "Pecan",
+        "Creamy",
+        "Colombia",
+        "Costa Rica",
+        "Bold Coffee",
+        "Espresso",
+        "Medium Dark"
+      ],
+      "summary_kr": "진한 초콜릿과 프랄린 피칸 향이 어우러진 무거운 바디감의 미디엄 다크 블렌드",
+      "summary_en": "A medium dark blend with rich chocolate and praline pecan notes and a heavy body",
+      "tags_kr": [
+        "진한 바디",
+        "낮은 산미",
+        "중간 단맛",
+        "초콜릿향",
+        "에스프레소용",
+        "콜롬비아",
+        "코스타리카",
+        "미디엄 다크"
+      ],
+      "tags_en": [
+        "Heavy body",
+        "Low acidity",
+        "Medium sweetness",
+        "Chocolate aroma",
+        "Espresso",
+        "Colombia",
+        "Costa Rica",
+        "Medium Dark"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에콰도르 CVM 라 노리아 그린 게샤",
+    "nameEn": "Ecuador CVM La Noria Green Gesha Washed",
+    "thumbnailUrl": "에콰도르 CVM 라 노리아 그린 게샤_1.jpeg",
+    "price": 29000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 3,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": [
+      "에콰도르 CVM 라 노리아 그린 게샤_2.png",
+      "에콰도르 CVM 라 노리아 그린 게샤_3.png"
+    ],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "에콰도르",
+        "country_en": "Ecuador",
+        "region_kr": "로하",
+        "region_en": "Loja",
+        "farm_kr": "라 노리아",
+        "farm_en": "La Noria",
+        "producer_kr": "팀 리히",
+        "producer_en": "Tim Leahy",
+        "altitude_m": 2070,
+        "variety_kr": "그린 게이샤",
+        "variety_en": "Green Gesha",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "에콰도르 고지대의 맑고 정제된 산미와 게이샤 품종의 섬세한 향미가 조화된 커피",
+        "origin_typicity_en": "A coffee from Ecuador's highlands with clean acidity and delicate Geisha aromas"
+      },
+      "roasting": {
+        "roast_level_kr": "라이트",
+        "roast_level_en": "Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "45",
+        "color_track_en": "45",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "원두 100% (에콰도르)",
+        "bean_ratio_en": "100% beans (Ecuador)",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "워시드 공정 중 클린컵 중심의 정제 발효 진행",
+        "fermentation_en": "Refined fermentation for clean cup during washed process",
+        "special_technique_kr": "CVM 품질 관리 기준에 따라 엄선된 체리 선별 및 건조",
+        "special_technique_en": "Careful cherry selection and drying under CVM quality standards",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 9,
+      "body": 3,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["아프리콧", "라임껍질", "화이트 플로럴", "샤프한 산미"],
+      "tasting_note_en": ["Apricot", "Lime Peel", "White Floral", "Sharp Acidity"],
+      "keywords_kr": [
+        "에콰도르",
+        "게이샤",
+        "라 노리아",
+        "라이트 로스팅",
+        "화이트 플로럴",
+        "아프리콧",
+        "샤프한 산미",
+        "워시드"
+      ],
+      "keywords_en": [
+        "Ecuador",
+        "Geisha",
+        "La Noria",
+        "Light Roasting",
+        "White Floral",
+        "Apricot",
+        "Sharp Acidity",
+        "Washed"
+      ],
+      "summary_kr": "아프리콧과 라임껍질의 산뜻함, 플로럴한 향이 어우러진 에콰도르 고지대 게이샤 커피",
+      "summary_en": "A high-altitude Ecuadorian Geisha with apricot, lime peel brightness, and floral elegance",
+      "tags_kr": [
+        "게이샤",
+        "에콰도르",
+        "고산지",
+        "라이트 로스트",
+        "플로럴",
+        "클린컵",
+        "워시드",
+        "화이트 플라워",
+        "상쾌한 산미"
+      ],
+      "tags_en": [
+        "Geisha",
+        "Ecuador",
+        "High Altitude",
+        "Light Roast",
+        "Floral",
+        "Clean Cup",
+        "Washed",
+        "White Flower",
+        "Refreshing Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 웨시 티마 워시드",
+    "nameEn": "Ethiopia Wessi Tima Washed",
+    "thumbnailUrl": "에티오피아 웨시 티마 워시드_0.jpeg",
+    "price": 14400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 15600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아 웨시 티마 워시드_1.png", "에티오피아 웨시 티마 워시드_2.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "에티오피아",
+        "country_en": "Ethiopia",
+        "region_kr": "구지, 샤키소",
+        "region_en": "Guji, Shaakkiso",
+        "farm_kr": "",
+        "farm_en": "",
+        "producer_kr": "40 소농",
+        "producer_en": "40 Small Farmers",
+        "altitude_m": 2000,
+        "altitude_range_kr": "2,000–2,178",
+        "altitude_range_en": "2,000–2,178",
+        "variety_kr": "74110, 74112",
+        "variety_en": "74110, 74112",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "에티오피아 고지대 특유의 자스민과 복숭아 향, 맑은 산미와 루이보스티 같은 깔끔한 뒷맛",
+        "origin_typicity_en": "Ethiopia highland coffee with jasmine, peach, clean acidity, and rooibos tea-like finish"
+      },
+      "roasting": {
+        "roast_level_kr": "라이트",
+        "roast_level_en": "Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "43",
+        "color_track_en": "43",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "에티오피아 100%",
+        "bean_ratio_en": "Ethiopia 100%",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "워시드 공정 기반의 세척 및 정제 발효",
+        "fermentation_en": "Washed process with refined fermentation and cleaning",
+        "special_technique_kr": "Sookoo Coffee와 파트너쉽을 통한 고도 정선 및 고산지 조밀 건조",
+        "special_technique_en": "High-precision sorting and dense high-altitude drying in partnership with Sookoo Coffee",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 9,
+      "body": 3,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["자스민", "복숭아", "오렌지", "루이보스티"],
+      "tasting_note_en": ["Jasmine", "Peach", "Orange", "Rooibos Tea"],
+      "keywords_kr": [
+        "자스민",
+        "복숭아",
+        "오렌지",
+        "루이보스티",
+        "에티오피아",
+        "워시드",
+        "라이트 로스트",
+        "클린컵",
+        "Sookoo Coffee"
+      ],
+      "keywords_en": [
+        "Jasmine",
+        "Peach",
+        "Orange",
+        "Rooibos Tea",
+        "Ethiopia",
+        "Washed",
+        "Light Roast",
+        "Clean Cup",
+        "Sookoo Coffee"
+      ],
+      "summary_kr": "자스민과 복숭아의 꽃향과 과일향이 맑은 산미와 어우러진 에티오피아 고산지 워시드 커피",
+      "summary_en": "A washed Ethiopian highland coffee with floral jasmine, fruity peach, and bright, clean acidity",
+      "tags_kr": [
+        "플로럴",
+        "클린컵",
+        "라이트 로스트",
+        "고산지",
+        "복숭아 향",
+        "티라이크",
+        "에티오피아",
+        "자스민",
+        "루이보스티"
+      ],
+      "tags_en": [
+        "Floral",
+        "Clean Cup",
+        "Light Roast",
+        "High Altitude",
+        "Peach Aroma",
+        "Tea-like",
+        "Ethiopia",
+        "Jasmine",
+        "Rooibos Tea"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 모모스셀렉션 디카페인",
+    "nameEn": "Costa Rica MOMOS SELECTION DECAF",
+    "thumbnailUrl": "코스타리카 모모스셀렉션 디카페인_0.png",
+    "price": 16000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 16000
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": [
+      "코스타리카 모모스셀렉션 디카페인_1.png",
+      "코스타리카 모모스셀렉션 디카페인_2.png"
+    ],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "코스타리카",
+        "country_en": "Costa Rica",
+        "region_kr": "따라주",
+        "region_en": "Tarrazu",
+        "farm_kr": "엘 크루세 / 벤다발 / 라 에스페란사",
+        "farm_en": "El Cruce / Vendaval / La Esperanza",
+        "producer_kr": "루이스 & 오스카 / 칼데론 패밀리",
+        "producer_en": "Luis & Oscar / Calderon Family",
+        "altitude_m": 1750,
+        "altitude_range_kr": "1,750–2,100",
+        "altitude_range_en": "1,750–2,100",
+        "variety_kr": "카투라, 카투아이",
+        "variety_en": "Caturra, Catuai",
+        "process_kr": "화이트 허니 디카페인",
+        "process_en": "White Honey DECAF",
+        "origin_typicity_kr": "코스타리카 따라주 지역 고지대에서 생산된 달콤하고 균형 잡힌 디카페인 커피",
+        "origin_typicity_en": "A balanced and sweet decaf coffee from Costa Rica’s high-altitude Tarrazu region"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 다크",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": "PROBAT P60",
+        "roaster_en": "PROBAT P60",
+        "color_track_kr": "62",
+        "color_track_en": "62",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "코스타리카 100%",
+        "bean_ratio_en": "Costa Rica 100%",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "Mountain Water Process(MWP)를 활용한 천연 디카페인 방식",
+        "fermentation_en": "Natural decaffeination using Mountain Water Process (MWP)",
+        "special_technique_kr": "멕시코 청정수(MWP)를 이용한 저온 수용 추출법",
+        "special_technique_en": "Low-temperature water extraction using Mexico's clean MWP",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 5,
+      "body": 6,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["초콜릿", "브라운 슈가", "누가", "무화과"],
+      "tasting_note_en": ["Chocolate", "Brown Sugar", "Nougat", "Fig"],
+      "keywords_kr": [
+        "디카페인",
+        "초콜릿",
+        "누가",
+        "브라운슈가",
+        "무화과",
+        "코스타리카",
+        "따라주",
+        "미디엄 다크",
+        "화이트 허니"
+      ],
+      "keywords_en": [
+        "Decaf",
+        "Chocolate",
+        "Nougat",
+        "Brown Sugar",
+        "Fig",
+        "Costa Rica",
+        "Tarrazu",
+        "Medium Dark",
+        "White Honey"
+      ],
+      "summary_kr": "따라주 고지대에서 생산된 초콜릿과 무화과 향의 균형 잡힌 디카페인 커피",
+      "summary_en": "A balanced decaf coffee from Tarrazu highlands with chocolate and fig notes",
+      "tags_kr": [
+        "디카페인",
+        "화이트 허니",
+        "MWP",
+        "초콜릿향",
+        "부드러운 단맛",
+        "코스타리카",
+        "따라주",
+        "중간 바디",
+        "미디엄 다크"
+      ],
+      "tags_en": [
+        "Decaf",
+        "White Honey",
+        "MWP",
+        "Chocolate aroma",
+        "Smooth sweetness",
+        "Costa Rica",
+        "Tarrazu",
+        "Medium body",
+        "Medium Dark"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 페르가미노 타비",
+    "nameEn": "Colombia Pergamino Tabi Washed",
+    "thumbnailUrl": "콜롬비아 페르가미노 타비_1.jpeg",
+    "price": 16000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 16000
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아 페르가미노 타비_2.png", "콜롬비아 페르가미노 타비_3.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "콜롬비아",
+        "country_en": "Colombia",
+        "region_kr": "인사, 카우카",
+        "region_en": "Inza, Cauca",
+        "farm_kr": "",
+        "farm_en": "",
+        "producer_kr": "아르눌포 킨테로",
+        "producer_en": "Arnulfo Quintero",
+        "altitude_m": 1700,
+        "altitude_range_kr": "1,700–1,900",
+        "altitude_range_en": "1,700–1,900",
+        "variety_kr": "타비",
+        "variety_en": "Tabi",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "콜롬비아 국립커피연구소가 개발한 Tabi 품종의 균형잡힌 단맛과 산미가 돋보이는 워시드 커피",
+        "origin_typicity_en": "A washed coffee highlighting the balanced sweetness and acidity of the Tabi variety developed by Colombia's National Coffee Research Center"
+      },
+      "roasting": {
+        "roast_level_kr": "라이트",
+        "roast_level_en": "Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "46",
+        "color_track_en": "46",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "콜롬비아 100%",
+        "bean_ratio_en": "Colombia 100%",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "워시드 공정 기반의 클린컵 중심 세척 발효",
+        "fermentation_en": "Clean cup-focused washed fermentation process",
+        "special_technique_kr": "콜롬비아 FNC의 품종 개발 프로젝트 기반 Tabi 품종 선별",
+        "special_technique_en": "Selection of Tabi variety based on Colombia FNC varietal development project",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 3,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["핵과류", "귤", "마카다미아 넛"],
+      "tasting_note_en": ["Stone Fruit", "Tangerine", "Macadamia Nut"],
+      "keywords_kr": [
+        "타비",
+        "콜롬비아",
+        "핵과류",
+        "귤",
+        "마카다미아",
+        "FNC",
+        "워시드",
+        "라이트 로스트"
+      ],
+      "keywords_en": [
+        "Tabi",
+        "Colombia",
+        "Stone Fruit",
+        "Tangerine",
+        "Macadamia",
+        "FNC",
+        "Washed",
+        "Light Roast"
+      ],
+      "summary_kr": "콜롬비아 고지대에서 재배된 타비 품종의 핵과류와 마카다미아 향미가 특징인 워시드 커피",
+      "summary_en": "A washed coffee from Colombia's highlands with Tabi varietal, featuring stone fruit and macadamia notes",
+      "tags_kr": [
+        "라이트 로스트",
+        "클린컵",
+        "워시드",
+        "콜롬비아",
+        "타비",
+        "부드러운 산미",
+        "고소한 여운",
+        "FNC 품종"
+      ],
+      "tags_en": [
+        "Light Roast",
+        "Clean Cup",
+        "Washed",
+        "Colombia",
+        "Tabi",
+        "Smooth Acidity",
+        "Nutty Finish",
+        "FNC Variety"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "프루티봉봉 블렌드 스페셜티 원두",
+    "nameEn": "Fruity Bonbon Blend Specialty Beans",
+    "thumbnailUrl": "프루티봉봉 블렌드 스페셜티 원두_0.png",
+    "price": 13500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 14500
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 32500
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["프루티봉봉 블렌드 스페셜티 원두_1.png", "프루티봉봉 블렌드 스페셜티 원두_2.png"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          { "origin_kr": "에티오피아", "origin_en": "Ethiopia", "ratio": 80 },
+          { "origin_kr": "콜롬비아", "origin_en": "Colombia", "ratio": 20 }
+        ],
+        "origin_typicity_kr": "에티오피아의 신맛과 과일향, 콜롬비아의 균형 잡힌 바디감을 결합한 밝고 경쾌한 블렌드",
+        "origin_typicity_en": "A bright and lively blend of fruity Ethiopian acidity and Colombian body balance"
+      },
+      "roasting": {
+        "roast_level_kr": "미디엄 라이트",
+        "roast_level_en": "Medium Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": "48",
+        "color_track_en": "48",
+        "color_track_version_kr": "Color Track VER.",
+        "color_track_version_en": "Color Track VER.",
+        "bean_ratio_kr": "에티오피아 80% / 콜롬비아 20%",
+        "bean_ratio_en": "Ethiopia 80% / Colombia 20%",
+        "color_stage_kr": "Medium Light",
+        "color_stage_en": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 3,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["핵과류", "시트러스", "허니", "쥬시"],
+      "tasting_note_en": ["Stone Fruit", "Citrus", "Honey", "Juicy"],
+      "keywords_kr": [
+        "프루티",
+        "쥬시",
+        "시트러스",
+        "허니",
+        "핵과류",
+        "에티오피아",
+        "콜롬비아",
+        "미디엄 라이트",
+        "스페셜티 블렌드"
+      ],
+      "keywords_en": [
+        "Fruity",
+        "Juicy",
+        "Citrus",
+        "Honey",
+        "Stone Fruit",
+        "Ethiopia",
+        "Colombia",
+        "Medium Light",
+        "Specialty Blend"
+      ],
+      "summary_kr": "과일 사탕 같은 쥬시한 향미가 돋보이는 에티오피아 중심의 미디엄 라이트 블렌드",
+      "summary_en": "A juicy, candy-like blend led by Ethiopia with bright acidity and fruity notes",
+      "tags_kr": [
+        "프루티",
+        "쥬시",
+        "시트러스",
+        "가벼운 바디",
+        "미디엄 라이트",
+        "스페셜티 블렌드",
+        "에티오피아",
+        "콜롬비아"
+      ],
+      "tags_en": [
+        "Fruity",
+        "Juicy",
+        "Citrus",
+        "Light Body",
+        "Medium Light",
+        "Specialty Blend",
+        "Ethiopia",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 뚱구리 AA 풀리 워시드",
+    "nameEn": "Kenya Thunguri AA Fully Washed",
+    "thumbnailUrl": "원두 케냐 뚱구리 AA_0.jpeg",
+    "price": 17100,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 18900
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["원두 케냐 뚱구리 AA_1.png", "원두 케냐 뚱구리 AA_2.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "케냐",
+        "country_en": "Kenya",
+        "region_kr": "무쿠레-이니 밸리, 니에리 카운티",
+        "region_en": "Mukure-ini Valleys, Nyeri County",
+        "farm_kr": "",
+        "farm_en": "",
+        "producer_kr": "루무키아 협동조합",
+        "producer_en": "Rumukia Farmers Cooperative Society",
+        "altitude_m": 1650,
+        "altitude_range_kr": "1,650–1,710",
+        "altitude_range_en": "1,650–1,710",
+        "variety_kr": "SL28, SL34",
+        "variety_en": "SL-Selection (SL28 & SL34)",
+        "process_kr": "풀리 워시드",
+        "process_en": "Fully Washed",
+        "origin_typicity_kr": "케냐 중부 고산지대의 SL 품종 특유의 밝고 화사한 산미와 풍부한 과일향",
+        "origin_typicity_en": "Bright acidity and rich fruity notes from SL varieties in Kenya's highlands"
+      },
+      "roasting": {
+        "roast_level_kr": "라이트",
+        "roast_level_en": "Light",
+        "roaster_kr": "Loring S35",
+        "roaster_en": "Loring S35",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": "업데이트 예정 (Color Track VER.)",
+        "color_track_version_en": "To be updated (Color Track VER.)",
+        "bean_ratio_kr": "케냐 100%",
+        "bean_ratio_en": "Kenya 100%",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "케냐 전통의 Fully Washed 공정",
+        "fermentation_en": "Traditional Kenyan fully washed process",
+        "special_technique_kr": "SL28/SL34 품종 중심의 고도 맞춤 세척 건조 방식",
+        "special_technique_en": "Altitude-tuned washed drying method centered on SL28/SL34 varieties",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 9,
+      "body": 5,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["블랙베리", "라임", "카라멜", "클린컵"],
+      "tasting_note_en": ["Blackberry", "Lime", "Caramel", "Clean Cup"],
+      "keywords_kr": [
+        "케냐",
+        "SL28",
+        "SL34",
+        "블랙베리",
+        "라임",
+        "카라멜",
+        "클린컵",
+        "라이트 로스트",
+        "고산지"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "SL28",
+        "SL34",
+        "Blackberry",
+        "Lime",
+        "Caramel",
+        "Clean Cup",
+        "Light Roast",
+        "High Altitude"
+      ],
+      "summary_kr": "케냐 고산지대에서 생산된 SL28과 SL34 품종의 밝은 산미와 클린컵이 돋보이는 싱글 오리진 커피",
+      "summary_en": "Single origin Kenyan coffee with SL28 & SL34, known for its bright acidity and clean cup",
+      "tags_kr": [
+        "싱글 오리진",
+        "클린컵",
+        "라이트 로스팅",
+        "밝은 산미",
+        "블랙베리",
+        "카라멜",
+        "고산지",
+        "케냐",
+        "워시드"
+      ],
+      "tags_en": [
+        "Single Origin",
+        "Clean Cup",
+        "Light Roasting",
+        "Bright Acidity",
+        "Blackberry",
+        "Caramel",
+        "High Altitude",
+        "Kenya",
+        "Washed"
+      ]
+    }
+  }
+]

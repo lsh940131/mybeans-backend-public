@@ -1,0 +1,658 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model Cart {
+  id                     Int                      @id @default(autoincrement())
+  userId                 Int                      @map("user_id")
+  productId              Int                      @map("product_id")
+  qty                    Int
+  orderedAt              DateTime?                @map("ordered_at")
+  createdAt              DateTime                 @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt              DateTime?                @map("updated_at")
+  deletedAt              DateTime?                @map("deleted_at")
+  product                Product                  @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cart.product_id__product.id")
+  user                   User                     @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cart.user_id__user.id")
+  cartProductOptionValue CartProductOptionValue[]
+
+  @@index([productId], map: "fk_cart.product_id__product.id")
+  @@index([userId], map: "fk_cart.user_id__user.id")
+  @@map("cart")
+}
+
+model Category {
+  id                  Int                   @id @default(autoincrement())
+  parentId            Int?                  @map("parent_id")
+  nameKr              String                @map("name_kr") @db.VarChar(100)
+  nameEn              String                @map("name_en") @db.VarChar(100)
+  createdAt           DateTime              @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt           DateTime?             @map("updated_at")
+  deletedAt           DateTime?             @map("deleted_at")
+  category            Category?             @relation("categoryTocategory", fields: [parentId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_category.parent_id__category.id")
+  otherCategory       Category[]            @relation("categoryTocategory")
+  categoryOption      CategoryOption[]
+  product             Product[]
+  productManipulation ProductManipulation[]
+
+  @@index([parentId], map: "fk_category.parent_id__category.id")
+  @@map("category")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model Order {
+  id               Int            @id @default(autoincrement())
+  no               String         @unique(map: "no") @db.Char(18)
+  orderCheckoutId  Int            @unique(map: "order_checkout_id") @map("order_checkout_id")
+  userId           Int            @map("user_id")
+  totalMerchandise Int            @map("total_merchandise")
+  totalShippingFee Int            @map("total_shipping_fee")
+  totalAmount      Int            @map("total_amount")
+  createdAt        DateTime       @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt        DateTime?      @map("updated_at")
+  orderCheckout    OrderCheckout  @relation(fields: [orderCheckoutId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order.order_checkout_id__oc.id")
+  user             User           @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order.user_id__user.id")
+  orderClaim       OrderClaim[]
+  orderProduct     OrderProduct[]
+  payment          Payment[]
+  shipment         Shipment[]
+
+  @@index([userId], map: "fk_order.user_id__user.id")
+  @@map("order")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model OrderProduct {
+  id                   Int                    @id @default(autoincrement())
+  orderId              Int                    @map("order_id")
+  status               String                 @db.Char(50)
+  productId            Int                    @map("product_id")
+  qty                  Int
+  optionValueIds       String?                @map("option_value_ids") @db.VarChar(100)
+  price                Int
+  totalPrice           Int                    @map("total_price")
+  shipmentReqMsg       String?                @map("shipment_req_msg") @db.VarChar(1000)
+  createdAt            DateTime               @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt            DateTime?              @map("updated_at")
+  deletedAt            DateTime?              @map("deleted_at")
+  orderClaim           OrderClaim[]
+  order                Order                  @relation(fields: [orderId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order_product.order_id__order.id")
+  product              Product                @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order_product.product_id__product.id")
+  paymentCancelProduct PaymentCancelProduct[]
+  shipmentProduct      ShipmentProduct?
+
+  @@index([orderId], map: "fk_order_product.order_id__order.id")
+  @@index([productId], map: "fk_order_product.product_id__product.id")
+  @@map("order_product")
+}
+
+model Product {
+  id                   Int                   @id @default(autoincrement())
+  categoryId           Int                   @map("category_id")
+  sellerId             Int                   @map("seller_id")
+  status               String                @default("A") @db.Char(2)
+  nameKr               String                @map("name_kr") @db.VarChar(100)
+  nameEn               String                @map("name_en") @db.VarChar(100)
+  thumbnailUrl         String?               @map("thumbnail_url") @db.VarChar(1000)
+  price                Int
+  shippingFee          Int                   @map("shipping_fee")
+  createdAt            DateTime              @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt            DateTime?             @map("updated_at")
+  deletedAt            DateTime?             @map("deleted_at")
+  cart                 Cart[]
+  orderProduct         OrderProduct[]
+  category             Category              @relation(fields: [categoryId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_product.category_id__category.id")
+  seller               Seller                @relation(fields: [sellerId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_product.seller_id__seller.id")
+  productCoffeeProfile ProductCoffeeProfile?
+  productImage         ProductImage[]
+  productManipulation  ProductManipulation[]
+  productOption        ProductOption[]
+  productWatchHistory  ProductWatchHistory[]
+
+  @@index([categoryId], map: "fk_product.category_id__category.id")
+  @@index([sellerId], map: "fk_product.seller_id__seller.id")
+  @@map("product")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductOption {
+  id                 Int                  @id @default(autoincrement())
+  productId          Int?                 @map("product_id")
+  categoryOptionId   Int?                 @map("category_option_id")
+  isRequired         Boolean              @default(true) @map("is_required")
+  createdAt          DateTime             @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt          DateTime?            @map("updated_at")
+  deletedAt          DateTime?            @map("deleted_at")
+  categoryOption     CategoryOption?      @relation(fields: [categoryOptionId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_po.option_id__option.id")
+  product            Product?             @relation(fields: [productId], references: [id], onDelete: Cascade, map: "fk_product_option.product_id__product.id")
+  productOptionValue ProductOptionValue[]
+
+  @@index([categoryOptionId], map: "fk_po.option_id__option.id")
+  @@index([productId], map: "fk_po.product_id__product.id")
+  @@map("product_option")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model Seller {
+  id                    Int                   @id @default(autoincrement())
+  sellerApplicationId   Int                   @map("seller_application_id")
+  userId                Int                   @map("user_id")
+  name                  String                @db.VarChar(100)
+  image                 String?               @db.VarChar(1000)
+  freeShippingThreshold Int?                  @map("free_shipping_threshold")
+  createdAt             DateTime              @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt             DateTime?             @map("updated_at")
+  deletedAt             DateTime?             @map("deleted_at")
+  product               Product[]
+  productManipulation   ProductManipulation[]
+  user                  User                  @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_seller.user_id__user.id")
+  sellerInfo            SellerInfo?
+  sellerSns             SellerSns[]
+
+  @@index([userId], map: "fk_seller.user_id__user.id")
+  @@map("seller")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model SellerInfo {
+  sellerId             Int       @id @map("seller_id")
+  businessNumber       String    @map("business_number") @db.VarChar(50)
+  ecommerceNumber      String?   @map("ecommerce_number") @db.VarChar(50)
+  operationStatus      String?   @map("operation_status") @db.VarChar(50)
+  businessType         String?   @map("business_type") @db.Char(2)
+  companyName          String?   @map("company_name") @db.VarChar(100)
+  ceoName              String?   @map("ceo_name") @db.VarChar(100)
+  phone                String?   @db.VarChar(20)
+  sellingMethod        String?   @map("selling_method") @db.VarChar(50)
+  itemCategory         String?   @map("item_category") @db.VarChar(50)
+  email                String?   @db.VarChar(300)
+  registrationDate     DateTime? @map("registration_date") @db.Date
+  businessAddress      String?   @map("business_address") @db.VarChar(500)
+  businessAddressRoad  String?   @map("business_address_road") @db.VarChar(500)
+  homepageUrl          String?   @map("homepage_url") @db.VarChar(1000)
+  hostingServerAddress String?   @map("hosting_server_address") @db.VarChar(500)
+  authorityName        String?   @map("authority_name") @db.VarChar(100)
+  authorityPhone       String?   @map("authority_phone") @db.VarChar(20)
+  seller               Seller    @relation(fields: [sellerId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_seller_info.seller_id__seller.id")
+
+  @@map("seller_info")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model SellerSns {
+  id        Int       @id @default(autoincrement())
+  sellerId  Int       @map("seller_id")
+  type      String    @db.Char(2)
+  value     String    @db.VarChar(1000)
+  createdAt DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt DateTime? @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  seller    Seller    @relation(fields: [sellerId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_seller_sns.seller_id__seller.id")
+
+  @@index([sellerId], map: "fk_seller_sns.seller_id__seller.id")
+  @@map("seller_sns")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model User {
+  id                                                  Int                    @id @default(autoincrement())
+  signupType                                          String                 @map("signup_type") @db.Char(2)
+  name                                                String                 @db.VarChar(100)
+  email                                               String?                @db.VarChar(300)
+  pwd                                                 String?                @db.VarChar(300)
+  image                                               String?                @db.VarChar(1000)
+  isSeller                                            Boolean                @default(false) @map("is_seller")
+  isAdmin                                             Boolean                @default(false) @map("is_admin")
+  createdAt                                           DateTime               @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt                                           DateTime?              @map("deleted_at")
+  cart                                                Cart[]
+  order                                               Order[]
+  orderCheckout                                       OrderCheckout[]
+  orderClaim                                          OrderClaim[]
+  productManipulation                                 ProductManipulation[]
+  productSearchHistory                                ProductSearchHistory[]
+  productWatchHistory                                 ProductWatchHistory[]
+  seller                                              Seller[]
+  sellerApplicationSellerApplicationEvaluatorIdTouser SellerApplication[]    @relation("seller_application_evaluator_idTouser")
+  sellerApplication                                   SellerApplication[]
+  userAddress                                         UserAddress[]
+  userPwdHistory                                      UserPwdHistory[]
+  userSnsSign                                         UserSnsSign[]
+  userToken                                           UserToken[]
+
+  @@index([email], map: "user_index_0")
+  @@index([deletedAt], map: "user_index_1")
+  @@map("user")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model UserSnsSign {
+  id        Int       @id @default(autoincrement())
+  userId    Int       @map("user_id")
+  type      String    @db.Char(2)
+  value     String    @db.VarChar(1000)
+  createdAt DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt DateTime? @map("deleted_at")
+  user      User      @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_usl.user_id__user.id")
+
+  @@index([userId], map: "fk_usl.user_id__user.id")
+  @@map("user_sns_sign")
+}
+
+model UserToken {
+  id                    Int       @id @default(autoincrement())
+  userId                Int       @map("user_id")
+  refreshToken          String    @map("refresh_token") @db.VarChar(500)
+  refreshTokenExpiredAt DateTime? @map("refresh_token_expired_at")
+  accessToken           String    @map("access_token") @db.VarChar(500)
+  accessTokenExpiredAt  DateTime  @map("access_token_expired_at")
+  createdAt             DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt             DateTime? @map("deleted_at")
+  user                  User      @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_ut.user_id__user.id")
+
+  @@index([userId], map: "fk_ut.user_id__user.id")
+  @@map("user_token")
+}
+
+model UserPwdHistory {
+  id        Int      @id @default(autoincrement())
+  userId    Int      @map("user_id")
+  pwd       String?  @db.VarChar(300)
+  createdAt DateTime @default(dbgenerated("(now(3))")) @map("created_at")
+  user      User     @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_uph.user_id__user.id")
+
+  @@index([userId], map: "fk_uph.user_id__user.id")
+  @@map("user_pwd_history")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model SellerApplication {
+  id                                     Int                     @id @default(autoincrement())
+  userId                                 Int                     @map("user_id")
+  step                                   Int                     @default(1)
+  status                                 String                  @db.Char(2)
+  businessNumber                         String?                 @map("business_number") @db.VarChar(20)
+  storeName                              String?                 @map("store_name") @db.VarChar(100)
+  businessType                           String?                 @map("business_type") @db.Char(2)
+  businessAddress                        String?                 @map("business_address") @db.VarChar(500)
+  businessCategory                       String?                 @map("business_category") @db.VarChar(100)
+  businessItem                           String?                 @map("business_item") @db.VarChar(100)
+  mailOrderSalesNumber                   String?                 @map("mail_order_sales_number") @db.VarChar(100)
+  ownerType                              String?                 @map("owner_type") @db.Char(1)
+  ownerName                              String?                 @map("owner_name") @db.VarChar(100)
+  ownerBirth                             DateTime?               @map("owner_birth") @db.Date
+  ownerGender                            String?                 @map("owner_gender") @db.Char(1)
+  ownerNationality                       String?                 @map("owner_nationality") @db.Char(1)
+  ownerPhone                             String?                 @map("owner_phone") @db.VarChar(20)
+  ownerAddress                           String?                 @map("owner_address") @db.VarChar(500)
+  ownerEmail                             String?                 @map("owner_email") @db.VarChar(300)
+  ownerBankCode                          String?                 @map("owner_bank_code") @db.VarChar(10)
+  ownerAccount                           String?                 @map("owner_account") @db.VarChar(50)
+  ownerJob                               String?                 @map("owner_job") @db.VarChar(50)
+  shippingName                           String?                 @map("shipping_name") @db.VarChar(100)
+  shippingAddress                        String?                 @map("shipping_address") @db.VarChar(500)
+  shippingPhone1                         String?                 @map("shipping_phone1") @db.VarChar(20)
+  shippingPhone2                         String?                 @map("shipping_phone2") @db.VarChar(20)
+  returnName                             String?                 @map("return_name") @db.VarChar(100)
+  returnAddress                          String?                 @map("return_address") @db.VarChar(500)
+  returnPhone1                           String?                 @map("return_phone1") @db.VarChar(20)
+  returnPhone2                           String?                 @map("return_phone2") @db.VarChar(20)
+  bankCode                               String?                 @map("bank_code") @db.VarChar(10)
+  accountHolder                          String?                 @map("account_holder") @db.VarChar(100)
+  accountNumber                          String?                 @map("account_number") @db.VarChar(50)
+  contactName                            String?                 @map("contact_name") @db.VarChar(100)
+  contactPhone                           String?                 @map("contact_phone") @db.VarChar(20)
+  contactEmail                           String?                 @map("contact_email") @db.VarChar(300)
+  evaluatorId                            Int?                    @map("evaluator_id")
+  evaluatedAt                            DateTime?               @map("evaluated_at")
+  reviseReason                           String?                 @map("revise_reason") @db.VarChar(1000)
+  rejectReason                           String?                 @map("reject_reason") @db.VarChar(1000)
+  createdAt                              DateTime                @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt                              DateTime?               @map("updated_at")
+  deletedAt                              DateTime?               @map("deleted_at")
+  userSellerApplicationEvaluatorIdTouser User?                   @relation("seller_application_evaluator_idTouser", fields: [evaluatorId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_sa.evaluator_id__user.id")
+  user                                   User                    @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_sa.user_id__user.id")
+  sellerApplicationFile                  SellerApplicationFile[]
+
+  @@index([userId], map: "fk_sa.user_id__user.id")
+  @@index([evaluatorId], map: "fk_sa.evaluator_id__user.id")
+  @@map("seller_application")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model SellerApplicationFile {
+  id                  Int               @id @default(autoincrement())
+  sellerApplicationId Int               @map("seller_application_id")
+  url                 String            @db.VarChar(1000)
+  createdAt           DateTime          @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt           DateTime?         @map("deleted_at")
+  sellerApplication   SellerApplication @relation(fields: [sellerApplicationId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_saf.sai__sa.id")
+
+  @@index([sellerApplicationId], map: "fk_saf.sai__sa.id")
+  @@map("seller_application_file")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model CategoryOption {
+  id                  Int                   @id @default(autoincrement())
+  categoryId          Int                   @map("category_id")
+  nameKr              String                @map("name_kr") @db.VarChar(100)
+  nameEn              String                @map("name_en") @db.VarChar(100)
+  sortOrder           Int                   @map("sort_order")
+  createdAt           DateTime              @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt           DateTime?             @map("updated_at")
+  deletedAt           DateTime?             @map("deleted_at")
+  category            Category              @relation(fields: [categoryId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_co.category_id")
+  categoryOptionValue CategoryOptionValue[]
+  productOption       ProductOption[]
+
+  @@index([categoryId], map: "fk_co.category_id")
+  @@map("category_option")
+}
+
+model ProductImage {
+  id        Int       @id @default(autoincrement())
+  productId Int       @map("product_id")
+  url       String    @db.VarChar(1000)
+  sortOrder Int       @map("sort_order")
+  createdAt DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt DateTime? @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+  product   Product   @relation(fields: [productId], references: [id], onDelete: Cascade, map: "fk_pi.product_id__product.id")
+
+  @@index([productId], map: "fk_pi.product_id__product.id")
+  @@map("product_image")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model CartProductOptionValue {
+  id                   Int                @id @default(autoincrement())
+  cartId               Int                @map("cart_id")
+  productOptionValueId Int                @map("product_option_value_id")
+  createdAt            DateTime           @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt            DateTime?          @map("updated_at")
+  deletedAt            DateTime?          @map("deleted_at")
+  cart                 Cart               @relation(fields: [cartId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cpov.cart_id__cart.id")
+  productOptionValue   ProductOptionValue @relation(fields: [productOptionValueId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cpov.product_option_value_id__pod.id")
+
+  @@index([cartId], map: "fk_cpov.cart_id__cart.id")
+  @@index([productOptionValueId], map: "fk_cpov.product_option_value_id__pod.id")
+  @@map("cart_product_option_value")
+}
+
+model CategoryOptionValue {
+  id                 Int                  @id @default(autoincrement())
+  categoryOptionId   Int                  @map("category_option_id")
+  valueKr            String               @map("value_kr") @db.VarChar(50)
+  valueEn            String               @map("value_en") @db.VarChar(50)
+  sortOrder          Int                  @map("sort_order")
+  createdAt          DateTime             @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt          DateTime?            @map("updated_at")
+  deletedAt          DateTime?            @map("deleted_at")
+  categoryOption     CategoryOption       @relation(fields: [categoryOptionId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cov.option_id")
+  productOptionValue ProductOptionValue[]
+
+  @@index([categoryOptionId], map: "fk_cov.option_id")
+  @@map("category_option_value")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductOptionValue {
+  id                     Int                      @id @default(autoincrement())
+  productOptionId        Int                      @map("product_option_id")
+  categoryOptionValueId  Int                      @map("category_option_value_id")
+  extraCharge            Int?                     @map("extra_charge")
+  createdAt              DateTime                 @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt              DateTime?                @map("updated_at")
+  deletedAt              DateTime?                @map("deleted_at")
+  cartProductOptionValue CartProductOptionValue[]
+  categoryOptionValue    CategoryOptionValue      @relation(fields: [categoryOptionValueId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pov.category_option_value_id__product_option.id")
+  productOption          ProductOption            @relation(fields: [productOptionId], references: [id], onDelete: Cascade, map: "fk_pov.product_option_id__product_option.id")
+
+  @@index([categoryOptionValueId], map: "fk_pov.category_option_value_id__product_option.id")
+  @@index([productOptionId], map: "fk_pov.product_option_id__product_option.id")
+  @@map("product_option_value")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductManipulation {
+  id           Int       @id @default(autoincrement())
+  action       String    @db.Char(2)
+  status       String    @db.Char(2)
+  sellerId     Int       @map("seller_id")
+  categoryId   Int?      @map("category_id")
+  productId    Int?      @map("product_id")
+  value        Json?
+  evaluatorId  Int?      @map("evaluator_id")
+  evaluatedAt  DateTime? @map("evaluated_at")
+  reviseReason String?   @map("revise_reason") @db.VarChar(1000)
+  rejectReason String?   @map("reject_reason") @db.VarChar(1000)
+  submitedAt   DateTime? @map("submited_at")
+  createdAt    DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt    DateTime? @map("updated_at")
+  deletedAt    DateTime? @map("deleted_at")
+  category     Category? @relation(fields: [categoryId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pmr.category_id__category.id")
+  user         User?     @relation(fields: [evaluatorId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pmr.evaluator_id__user.id")
+  product      Product?  @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pmr.product_id__product.id")
+  seller       Seller    @relation(fields: [sellerId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pmr.seller_id__seller.id")
+
+  @@index([categoryId], map: "fk_pmr.category_id__category.id")
+  @@index([evaluatorId], map: "fk_pmr.evaluator_id__user.id")
+  @@index([productId], map: "fk_pmr.product_id__product.id")
+  @@index([sellerId], map: "fk_pmr.seller_id__seller.id")
+  @@map("product_manipulation")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductCoffeeProfile {
+  productId   Int     @id @map("product_id")
+  isSingle    Boolean @default(false) @map("is_single")
+  isBlend     Boolean @default(false) @map("is_blend")
+  isSpecialty Boolean @default(false) @map("is_specialty")
+  isDecaf     Boolean @default(false) @map("is_decaf")
+  value       Json?
+  product     Product @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pcp.product_id__product.id")
+
+  @@map("product_coffee_profile")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductWatchHistory {
+  id        Int       @id @default(autoincrement())
+  userId    Int       @map("user_id")
+  productId Int       @map("product_id")
+  createdAt DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt DateTime? @map("deleted_at")
+  product   Product   @relation(fields: [productId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pwh.product_id__product.id")
+  user      User      @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pwh.user_id__user.id")
+
+  @@index([productId], map: "fk_pwh.product_id__product.id")
+  @@index([userId], map: "fk_pwh.user_id__user.id")
+  @@map("product_watch_history")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model UserAddress {
+  id            Int       @id @default(autoincrement())
+  userId        Int       @map("user_id")
+  name          String    @db.VarChar(100)
+  receiverName  String    @map("receiver_name") @db.VarChar(100)
+  phone         String    @db.VarChar(20)
+  address       String    @db.VarChar(500)
+  addressDetail String?   @map("address_detail") @db.VarChar(500)
+  postcode      String?   @db.VarChar(50)
+  isDefault     Boolean   @default(false) @map("is_default")
+  createdAt     DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt     DateTime? @map("updated_at")
+  deletedAt     DateTime? @map("deleted_at")
+  user          User      @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_user_delivery_address.user_id__user.id")
+
+  @@index([userId], map: "fk_user_delivery_address.user_id__user.id")
+  @@map("user_address")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model OrderCheckout {
+  id             Int       @id @default(autoincrement())
+  userId         Int       @map("user_id")
+  status         String    @db.Char(2)
+  source         String    @db.Char(2)
+  cartIds        String?   @map("cart_ids") @db.VarChar(1000)
+  productId      Int?
+  qty            Int?
+  optionValueIds String?   @map("option_value_ids") @db.VarChar(100)
+  shipment       Json?
+  createdAt      DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt      DateTime? @map("updated_at")
+  expiredAt      DateTime  @map("expired_at")
+  order          Order?
+  user           User      @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_cs.user_id__user.id")
+
+  @@index([userId], map: "fk_cs.user_id__user.id")
+  @@index([status, expiredAt], map: "idx_status__expired_at")
+  @@map("order_checkout")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model OrderClaim {
+  id             Int          @id @default(autoincrement())
+  orderId        Int          @map("order_id")
+  orderProductId Int          @map("order_product_id")
+  userId         Int          @map("user_id")
+  claimType      String       @map("claim_type") @db.Char(2)
+  status         String       @db.Char(2)
+  reason         String?      @db.VarChar(1000)
+  adminMemo      String?      @map("admin_memo") @db.VarChar(1000)
+  requestedQty   Int          @map("requested_qty")
+  createdAt      DateTime     @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt      DateTime?    @map("updated_at")
+  resolvedAt     DateTime?    @map("resolved_at")
+  order          Order        @relation(fields: [orderId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order_claim.order_id__order.id")
+  orderProduct   OrderProduct @relation(fields: [orderProductId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order_claim.order_product_id__op.id")
+  user           User         @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_order_claim.user_id__user.id")
+
+  @@index([orderId], map: "idx_order_claim__order_id")
+  @@index([orderProductId], map: "idx_order_claim__order_product_id")
+  @@index([status, createdAt], map: "idx_order_claim__status_created_at")
+  @@index([userId], map: "idx_order_claim__user_id")
+  @@map("order_claim")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model Payment {
+  id                   Int             @id @default(autoincrement())
+  orderId              Int             @map("order_id")
+  status               String          @db.Char(50)
+  paymentKey           String          @map("payment_key") @db.VarChar(100)
+  method               String          @db.VarChar(50)
+  totalAmount          Int             @map("total_amount")
+  balanceAmount        Int             @map("balance_amount")
+  currency             String          @default("KRW") @db.Char(3)
+  requestedAt          DateTime        @map("requested_at")
+  approvedAt           DateTime?       @map("approved_at")
+  lastCanceledAt       DateTime?       @map("last_canceled_at")
+  receiptUrl           String?         @map("receipt_url") @db.VarChar(1000)
+  cardNumber           String?         @map("card_number") @db.VarChar(50)
+  issuerCode           String?         @map("issuer_code") @db.Char(2)
+  acquirerCode         String?         @map("acquirer_code") @db.Char(2)
+  installmentMonths    Int?            @map("installment_months")
+  isInterestFree       Boolean?        @map("is_interest_free")
+  rawApprovePayload    Json?           @map("raw_approve_payload")
+  rawLastCancelPayload Json?           @map("raw_last_cancel_payload")
+  createdAt            DateTime        @default(now()) @map("created_at")
+  updatedAt            DateTime?       @map("updated_at")
+  order                Order           @relation(fields: [orderId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_payment.order_id__order.id")
+  paymentCancel        PaymentCancel[]
+
+  @@index([orderId], map: "fk_payment.order_id__order.id")
+  @@map("payment")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model PaymentCancel {
+  id                   Int                    @id @default(autoincrement())
+  paymentId            Int                    @map("payment_id")
+  amount               Int
+  taxFreeAmount        Int?                   @map("tax_free_amount")
+  cancelReason         String?                @map("cancel_reason") @db.VarChar(500)
+  canceledAt           DateTime               @map("canceled_at")
+  rawPayload           Json?                  @map("raw_payload")
+  adminMemo            String?                @map("admin_memo") @db.VarChar(1000)
+  payment              Payment                @relation(fields: [paymentId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pc.payment_id__payment.id")
+  paymentCancelProduct PaymentCancelProduct[]
+
+  @@index([paymentId], map: "fk_pc.payment_id__payment.id")
+  @@map("payment_cancel")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model PaymentCancelProduct {
+  id              Int           @id @default(autoincrement())
+  paymentCancelId Int           @map("payment_cancel_id")
+  orderProductId  Int           @map("order_product_id")
+  amount          Int
+  orderProduct    OrderProduct  @relation(fields: [orderProductId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pcp.order_product_id__op.id")
+  paymentCancel   PaymentCancel @relation(fields: [paymentCancelId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_pcp.payment_cancel_id__pc.id")
+
+  @@index([orderProductId], map: "fk_pcp.order_product_id__op.id")
+  @@index([paymentCancelId], map: "fk_pcp.payment_cancel_id__pc.id")
+  @@map("payment_cancel_product")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model Shipment {
+  id              Int               @id @default(autoincrement())
+  orderId         Int               @map("order_id")
+  receiverName    String            @map("receiver_name") @db.VarChar(100)
+  phone           String            @db.VarChar(20)
+  address         String            @db.VarChar(500)
+  addressDetail   String?           @map("address_detail") @db.VarChar(500)
+  postcode        String?           @db.VarChar(50)
+  createdAt       DateTime          @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt       DateTime?         @map("updated_at")
+  order           Order             @relation(fields: [orderId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_shipment.order_id__order.id")
+  shipmentProduct ShipmentProduct[]
+
+  @@index([orderId], map: "idx_shipment__order_id")
+  @@map("shipment")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ShipmentProduct {
+  id             Int          @id @default(autoincrement())
+  shipmentId     Int          @map("shipment_id")
+  status         String       @db.Char(2)
+  orderProductId Int          @unique(map: "order_product_id") @map("order_product_id")
+  carrierCode    String?      @map("carrier_code") @db.VarChar(50)
+  carrierName    String?      @map("carrier_name") @db.VarChar(100)
+  trackingNumber String?      @map("tracking_number") @db.VarChar(100)
+  shippedAt      DateTime?    @map("shipped_at")
+  deliveredAt    DateTime?    @map("delivered_at")
+  createdAt      DateTime     @default(dbgenerated("(now(3))")) @map("created_at")
+  updatedAt      DateTime?    @map("updated_at")
+  orderProduct   OrderProduct @relation(fields: [orderProductId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_shipment_product.order_product_id__order_product.id")
+  shipment       Shipment     @relation(fields: [shipmentId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_shipment_product.shipment_id__shipment.id")
+
+  @@index([shipmentId], map: "fk_sp.shipment_id__shipment.id")
+  @@map("shipment_product")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model ProductSearchHistory {
+  id          Int       @id @default(autoincrement())
+  userId      Int?      @map("user_id")
+  keyword     String?   @db.VarChar(1000)
+  categoryIds String?   @map("category_ids") @db.VarChar(1000)
+  sellerIds   String?   @map("seller_ids") @db.VarChar(1000)
+  createdAt   DateTime  @default(dbgenerated("(now(3))")) @map("created_at")
+  deletedAt   DateTime? @map("deleted_at")
+  user        User?     @relation(fields: [userId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_ps.user_id__user.id")
+
+  @@index([userId], map: "fk_ps.user_id__user.id")
+  @@map("product_search_history")
+}

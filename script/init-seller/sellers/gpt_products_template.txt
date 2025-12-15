@@ -1,0 +1,105 @@
+📦 **첨부된 상품 이미지(들)를 분석해 아래 JSON 배열 형태로 결과물을 만들어줘.**
+
+1. 각 상품은 `상품명_${number}.{png|jpg}`, `상품명_${number}.{png|jpg}`… 형태로 묶여 있으며,  
+   - 제일 작은 숫자를 thumbnailUrl
+   - 나머지 파일들을 imageList
+2. 상품 이미지 분석하여 커피의 맛과 향에 영향을 끼치는 모든 요소를 profile의 key들을 참고해서 작성해줘
+   - profile에 있는 key들을 삭제하거나 수정하지 말아줘
+   - 현재 profile에 있는 값들은 예시야
+
+2. JSON 스키마 (상품 1개당):
+{
+  "categoryId": 4,
+  "nameKr": "<한글명>",
+  "nameEn": "<이미지에서 읽은 영어명 or 한글명_temp>",
+  "thumbnailUrl": "<상품명_0.png>",
+  "price": 0,
+  "optionList": [],
+  "imageList": [
+    "<상품명_1.png>", 
+    "<상품명_2.png>",
+    …
+  ],
+  "isSingle": true,
+  "isBlend": false,
+  "isSpecialty": false,
+  "isDecaf": false,
+  "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "New Oriente",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "",
+        "variety": "Caturra",
+        "process": "Washed",
+        "origin_typicity": "과테말라 동부 고지대 뉴오리엔테 지역의 SHB 등급 고도 생산 커피"
+      },
+      "roasting": {
+        "roast_level": "중간 (중간~중강)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.6, // 10점 만점 수치
+      "body": 6.0, // 10점 만점 수치
+      "sweetness": 5.0, // 10점 만점 수치
+      "aroma": 6.5, // 10점 만점 수치
+      "tasting_note_kr": ["카라멜", "호두", "마카다미아"],
+      "tasting_note_en": ["Caramel", "Walnut", "Macadamia"],
+      "keywords_kr": [
+        "과테말라",
+        "SHB",
+        "EP",
+        "카라멜",
+        "호두",
+        "마카다미아",
+        "은은한 산미",
+        "중강배전",
+        "뉴오리엔테",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "SHB",
+        "EP",
+        "Caramel",
+        "Walnut",
+        "Macadamia",
+        "Soft acidity",
+        "Medium roast",
+        "New Oriente",
+        "Single origin"
+      ],
+      "summary_kr": "카라멜과 견과류 향미가 은은한 산미와 어우러지는 과테말라 뉴오리엔테 지역의 중배전 싱글오리진 커피",
+      "summary_en": "A medium roast single origin from Guatemala's New Oriente region, featuring caramel and nutty flavors balanced with soft acidity.",
+      "tags_kr": [
+        "카라멜",
+        "고소한 견과류",
+        "은은한 산미",
+        "싱글오리진",
+        "중배전",
+        "SHB",
+        "EP",
+        "과테말라"
+      ],
+      "tags_en": [
+        "Caramel",
+        "Nutty",
+        "Soft acidity",
+        "Single origin",
+        "Medium roast",
+        "SHB",
+        "EP",
+        "Guatemala"
+      ]
+    }
+}

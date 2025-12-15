@@ -1,0 +1,1509 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "디카페인 과테말라",
+    "nameEn": "Guatemala Decaf",
+    "thumbnailUrl": "디카페인_과테말라_0.png",
+    "price": 11400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 10600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 30600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["디카페인_과테말라_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "과테말라",
+        "country_en": "Guatemala",
+        "region_kr": null,
+        "region_en": null,
+        "farm_kr": null,
+        "farm_en": null,
+        "altitude_m": null,
+        "variety_kr": ["카투라", "부르봉", "카투아이"],
+        "variety_en": ["Caturra", "Bourbon", "Catuai"],
+        "grade": "SHB",
+        "origin_typicity_kr": null,
+        "origin_typicity_en": null
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": null,
+        "roaster_en": null,
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "과테말라 100%",
+        "bean_ratio_en": "Guatemala 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "Swiss Water 방식의 카페인 제거 공정",
+        "fermentation_en": "Swiss Water decaffeination process",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["단맛", "고소한맛", "스모키함"],
+      "tasting_note_en": ["Sweet", "Nutty", "Smoky"],
+      "keywords_kr": ["디카페인", "단맛", "고소한맛", "스모키함"],
+      "keywords_en": ["Decaf", "Sweet", "Nutty", "Smoky"],
+      "summary_kr": "단맛과 고소한맛이 조화롭고 스모키함이 매력적인 중볶음 디카페인 커피.",
+      "summary_en": "A medium roast decaf coffee with balanced sweetness, nuttiness, and appealing smokiness.",
+      "tags_kr": ["디카페인", "고소한맛", "스모키함", "과테말라"],
+      "tags_en": ["Decaf", "Nutty", "Smoky", "Guatemala"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "디카페인 브라질 NY2",
+    "nameEn": "Brazil Decaf NY2",
+    "thumbnailUrl": "디카페인_브라질_NY2_0.png",
+    "price": 11900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 10100
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 30100
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["디카페인_브라질_NY2_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "브라질",
+        "country_en": "Brazil",
+        "region_kr": null,
+        "region_en": null,
+        "farm_kr": null,
+        "farm_en": null,
+        "altitude_m": null,
+        "variety_kr": ["카투아이", "아카이아", "문도 노보"],
+        "variety_en": ["Catuai", "Acaia", "Mundo Novo"],
+        "grade": "NY2 FC SC 16/18",
+        "origin_typicity_kr": null,
+        "origin_typicity_en": null
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": null,
+        "roaster_en": null,
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "브라질 100%",
+        "bean_ratio_en": "Brazil 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "Mountain Water 방식의 천연 디카페인 공정",
+        "fermentation_en": "Mountain Water natural decaffeination process",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 4,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 6,
+      "bitterness": 4,
+      "tasting_note_kr": ["견과류", "고소함", "다크초콜릿"],
+      "tasting_note_en": ["Nutty", "Savory", "Dark Chocolate"],
+      "keywords_kr": ["디카페인", "견과류", "고소함", "다크초콜릿"],
+      "keywords_en": ["Decaf", "Nutty", "Savory", "Dark Chocolate"],
+      "summary_kr": "견과류와 다크 초콜릿 향이 조화롭고 은은한 단맛의 중볶음 디카페인 커피.",
+      "summary_en": "A medium roast decaf coffee with a gentle sweetness and a pleasant balance of nutty and dark chocolate notes.",
+      "tags_kr": ["디카페인", "브라질", "다크초콜릿", "고소함"],
+      "tags_en": ["Decaf", "Brazil", "Dark Chocolate", "Nutty"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "디카페인 콜롬비아 수프리모",
+    "nameEn": "Colombia Supremo Decaf",
+    "thumbnailUrl": "디카페인_콜롬비아_수프리모_0.png",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 12600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 32600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["디카페인_콜롬비아_수프리모_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "콜롬비아",
+        "country_en": "Colombia",
+        "region_kr": null,
+        "region_en": null,
+        "farm_kr": null,
+        "farm_en": null,
+        "altitude_m": null,
+        "variety_kr": ["티피카", "부르봉", "카투라"],
+        "variety_en": ["Typica", "Bourbon", "Caturra"],
+        "grade": null,
+        "origin_typicity_kr": null,
+        "origin_typicity_en": null
+      },
+      "roasting": {
+        "roast_level_kr": "중강볶음",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": null,
+        "roaster_en": null,
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "콜롬비아 100%",
+        "bean_ratio_en": "Colombia 100%",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "Swiss Water Process 방식의 천연 디카페인 공정",
+        "fermentation_en": "Swiss Water Process natural decaffeination",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 6,
+      "tasting_note_kr": ["부드러움", "고소함", "구수한 맛"],
+      "tasting_note_en": ["Smooth", "Savory", "Toasty"],
+      "keywords_kr": ["디카페인", "부드러움", "고소한", "구수한 맛"],
+      "keywords_en": ["Decaf", "Smooth", "Savory", "Toasty"],
+      "summary_kr": "콜롬비아 수프리모 디카페인은 SWISS WATER PROCESS 방식으로 카페인을 제거한 고소하고 구수한 맛이 특징인 커피입니다. 적절한 바디감과 향미가 조화롭고 과하지 않은 뒷맛으로 가볍게 즐기기 좋습니다.",
+      "summary_en": "Colombian Supremo decaf coffee processed by Swiss Water is known for its savory, toasty flavors. With a balanced body and smooth finish, it's easy to enjoy without being overwhelming.",
+      "tags_kr": ["디카페인", "고소함", "중강볶음", "부드러운 커피", "콜롬비아"],
+      "tags_en": ["Decaf", "Savory", "Medium Dark Roast", "Smooth Coffee", "Colombia"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "너티 블렌드",
+    "nameEn": "Nutty Blend",
+    "thumbnailUrl": "블렌드_너티_0.jpg",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 8600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 24600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["블렌드_너티_1.png"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          { "origin": "브라질", "ratio": null },
+          { "origin": "과테말라", "ratio": null }
+        ],
+        "region_kr": [],
+        "region_en": [],
+        "farm_kr": [],
+        "farm_en": [],
+        "altitude_m": [],
+        "variety_kr": [],
+        "variety_en": [],
+        "process_kr": [],
+        "process_en": [],
+        "origin_typicity_kr": null,
+        "origin_typicity_en": null
+      },
+      "roasting": {
+        "roast_level_kr": "중강볶음",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": null,
+        "roaster_en": null,
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "브라질 / 과테말라 블렌드",
+        "bean_ratio_en": "Brazil / Guatemala Blend",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 8,
+      "tasting_note_kr": ["견과류", "곡물류"],
+      "tasting_note_en": ["Nutty", "Cereal"],
+      "keywords_kr": ["고소함", "견과류", "달콤한여운", "곡물류"],
+      "keywords_en": ["Nutty", "Cereal", "Sweet Finish", "Toasty"],
+      "summary_kr": "고소한 견과류와 곡물류의 고소함이 어우러진 블렌드 커피로, 낮은 산미와 부드러운 단맛, 중강볶음 로스팅이 조화를 이룬다.",
+      "summary_en": "A nutty and cereal-forward blend coffee with mild acidity and smooth sweetness, roasted to a medium-dark profile.",
+      "tags_kr": ["고소함", "균형잡힘", "중강볶음", "블렌드"],
+      "tags_en": ["Nutty", "Cereal", "Balanced", "MediumDark"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "다크 블렌드",
+    "nameEn": "Blend Dark",
+    "thumbnailUrl": "블렌드_다크_1.png",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 8600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 24600
+          }
+        ]
+      },
+
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["블렌드_다크_0.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "블렌드",
+        "country_en": "Blend",
+        "origin_blend": [
+          { "origin": "콜롬비아", "ratio": null },
+          { "origin": "케냐", "ratio": null },
+          { "origin": "브라질", "ratio": null }
+        ],
+        "region_kr": [],
+        "region_en": [],
+        "farm_kr": [],
+        "farm_en": [],
+        "altitude_m": [],
+        "variety_kr": [],
+        "variety_en": [],
+        "process_kr": [],
+        "process_en": [],
+        "origin_typicity_kr": null,
+        "origin_typicity_en": null
+      },
+      "roasting": {
+        "roast_level_kr": "중강볶음",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": "Better Best",
+        "roaster_en": "Better Best",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "콜롬비아 / 케냐 / 브라질 블렌드",
+        "bean_ratio_en": "Colombia / Kenya / Brazil Blend",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 6,
+      "body": 10,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 10,
+      "tasting_note_kr": ["다크초콜릿"],
+      "tasting_note_en": ["Dark Chocolate"],
+      "keywords_kr": ["다크초콜릿", "묵직함", "산미적은", "호불호없는"],
+      "keywords_en": ["Dark Chocolate", "Full Body", "Low Acidity", "Well-balanced"],
+      "summary_kr": "다크초콜릿의 향과 묵직한 바디감이 특징인 블렌딩 원두로, 산미가 적고 누구나 무난하게 즐길 수 있는 다크 블렌드입니다.",
+      "summary_en": "A dark blend coffee with rich dark chocolate notes and full body, featuring low acidity and an easy-to-enjoy flavor profile.",
+      "tags_kr": ["다크초콜릿", "저산미", "블렌딩", "중강볶음", "묵직한맛"],
+      "tags_en": ["Dark Chocolate", "Low Acidity", "Blending", "Medium Dark", "Heavy Body"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "스페셜티 과테말라 알론소",
+    "nameEn": "Specialty Guatemala Alonzo",
+    "thumbnailUrl": "스페셜티_과테말라_알론소_1.jpg",
+    "price": 11400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 10600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 30600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["스페셜티_과테말라_알론소_0.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "과테말라",
+        "country_en": "Guatemala",
+        "region_kr": "",
+        "region_en": "",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": "",
+        "variety_kr": ["카티모르", "렘피라"],
+        "variety_en": ["Catimor", "Lempira"],
+        "grade": "스페셜티",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "균형 잡힌 맛의 과테말라 스페셜티. 은은한 단맛과 초콜릿 향, 라즈베리 산미, 견과류 고소함이 조화를 이룸.",
+        "origin_typicity_en": "Balanced Guatemalan specialty with mild sweetness, chocolate notes, raspberry acidity, and nutty flavors."
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "과테말라 100%",
+        "bean_ratio_en": "Guatemala 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 4,
+      "tasting_note_kr": ["라즈베리", "망고", "초콜릿", "사탕수수", "캐러멜", "아몬드"],
+      "tasting_note_en": ["Raspberry", "Mango", "Chocolate", "Sugarcane", "Caramel", "Almond"],
+      "keywords_kr": ["밸런스", "라즈베리", "망고", "초콜릿", "사탕수수", "캐러멜", "아몬드"],
+      "keywords_en": [
+        "Balance",
+        "Raspberry",
+        "Mango",
+        "Chocolate",
+        "Sugarcane",
+        "Caramel",
+        "Almond"
+      ],
+      "summary_kr": "라즈베리 산미와 초콜릿 향이 어우러진 스페셜티 원두로, 단맛과 바디감이 조화롭고 뒷맛이 깔끔한 고소한 풍미를 자랑합니다.",
+      "summary_en": "A specialty coffee with raspberry acidity and chocolate notes, offering balanced sweetness, medium body, and a clean nutty finish.",
+      "tags_kr": ["균형 잡힌 맛", "라즈베리", "초콜릿 향", "견과류", "중볶음"],
+      "tags_en": ["Balanced", "Raspberry", "Chocolate", "Nutty", "Medium Roast"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "스페셜티 에티오피아 코케허니",
+    "nameEn": "Specialty Ethiopia Koke Honey",
+    "thumbnailUrl": "스페셜티_에티오피아_코케허니_0.png",
+    "price": 11400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 10600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 30600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["스페셜티_에티오피아_코케허니_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "에티오피아",
+        "country_en": "Ethiopia",
+        "region_kr": "에티오피아",
+        "region_en": "Ethiopia",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": "",
+        "variety_kr": ["티피카", "기타"],
+        "variety_en": ["Typica", "Others"],
+        "grade": "G1",
+        "process_kr": "내추럴",
+        "process_en": "Natural",
+        "origin_typicity_kr": "가장 많이 사랑받는 스페셜티 원두. 블랙베리, 포도에서 느낄 수 있는 신맛과 다채로운 꽃향, 꿀의 풍미에 비유되는 부드러운 단맛과 바디감",
+        "origin_typicity_en": "A beloved specialty coffee with fruity acidity like blackberry and grape, floral aroma, and honey-like sweetness and body."
+      },
+      "roasting": {
+        "roast_level_kr": "약볶음",
+        "roast_level_en": "Light",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "에티오피아 100%",
+        "bean_ratio_en": "Ethiopia 100%",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 10,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 4,
+      "tasting_note_kr": ["블랙베리", "포도", "꽃향", "꿀"],
+      "tasting_note_en": ["Blackberry", "Grape", "Floral", "Honey"],
+      "keywords_kr": ["스페셜티", "부드러운 산미", "꽃향", "열대과일의 단맛"],
+      "keywords_en": ["Specialty", "Soft Acidity", "Floral", "Tropical Fruit Sweetness"],
+      "summary_kr": "에티오피아 G1 등급의 내추럴 프로세스 커피로, 블랙베리와 포도 같은 과일 향미와 꽃향이 어우러진 스페셜티 커피입니다. 꿀처럼 부드러운 단맛과 산미, 적당한 바디감이 특징입니다.",
+      "summary_en": "Ethiopian G1 natural process specialty coffee with fruity notes of blackberry and grape, floral aroma, honey-like sweetness, and balanced body.",
+      "tags_kr": ["과일향", "꽃향", "산미", "단맛", "내추럴", "에티오피아", "G1", "스페셜티"],
+      "tags_en": [
+        "Fruity",
+        "Floral",
+        "Acidity",
+        "Sweetness",
+        "Natural",
+        "Ethiopia",
+        "G1",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "스페셜티 케냐 AA",
+    "nameEn": "Specialty Kenya AA",
+    "thumbnailUrl": "스페셜티_케냐_AA_1.jpg",
+    "price": 12900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 12600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 34900
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["스페셜티_케냐_AA_0.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country_kr": "케냐",
+        "country_en": "Kenya",
+        "region_kr": "",
+        "region_en": "",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": null,
+        "variety_kr": ["SL28"],
+        "variety_en": ["SL28"],
+        "grade": "AA",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "깨끗하고 섬세한 맛을 위해 워시드 공법 적용",
+        "origin_typicity_en": "Clean and delicate flavor achieved through the washed process"
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "케냐 100%",
+        "bean_ratio_en": "Kenya 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 9,
+      "body": 9,
+      "sweetness": 9,
+      "aroma": 10,
+      "bitterness": 6,
+      "tasting_note_kr": ["열대과일", "체리", "라즈베리", "살구", "꿀", "꽃향"],
+      "tasting_note_en": ["Tropical Fruit", "Cherry", "Raspberry", "Apricot", "Honey", "Floral"],
+      "keywords_kr": ["스페셜티", "열대과일", "체리", "라즈베리", "살구", "꿀"],
+      "keywords_en": ["Specialty", "Tropical Fruit", "Cherry", "Raspberry", "Apricot", "Honey"],
+      "summary_kr": "붉은 열대과일 향과 은은한 단맛이 어우러진 스페셜티 케냐 AA. 꽃 향과 부드러운 산미, 깔끔한 마무리감이 돋보이는 커피.",
+      "summary_en": "A specialty Kenya AA coffee with notes of red tropical fruit and delicate sweetness, featuring floral aroma, smooth acidity, and a clean finish.",
+      "tags_kr": ["열대과일", "꽃향", "산미", "단맛", "스페셜티", "케냐"],
+      "tags_en": ["Tropical", "Floral", "Acidity", "Sweetness", "Specialty", "Kenya"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 SHB 안티구아",
+    "nameEn": "Guatemala SHB Antigua",
+    "thumbnailUrl": "과테말라_SHB_안티구아_1.jpg",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 8600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 24600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_SHB_안티구아_0.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "과테말라",
+        "country_en": "Guatemala",
+        "region_kr": "Antigua",
+        "region_en": "Antigua",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": null,
+        "variety_kr": ["Caturra", "Bourbon", "Catuai"],
+        "variety_en": ["Caturra", "Bourbon", "Catuai"],
+        "grade": "SHB",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "",
+        "origin_typicity_en": ""
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "과테말라 100%",
+        "bean_ratio_en": "Guatemala 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 4,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": null,
+      "bitterness": 6,
+      "tasting_note_kr": ["다크 초콜릿", "스모키", "구수함", "묵직한 바디감", "아몬드"],
+      "tasting_note_en": ["Dark Chocolate", "Smoky", "Savory", "Heavy Body", "Almond"],
+      "keywords_kr": ["다크 초콜릿", "스모키", "구수함", "묵직한 바디감", "아몬드"],
+      "keywords_en": ["Dark Chocolate", "Smoky", "Savory", "Heavy Body", "Almond"],
+      "summary_kr": "과테말라 안티구아 SHB는 스모키한 향과 다크 초콜릿, 구수한 아몬드의 고소함이 어우러진 중볶음 커피로, 묵직한 바디감을 선호하는 이들에게 추천됩니다.",
+      "summary_en": "Guatemala Antigua SHB offers a smoky aroma with dark chocolate, savory almond nuttiness, and heavy body — ideal for those who enjoy bold medium roast coffee.",
+      "tags_kr": ["다크초콜릿", "스모키", "고소함", "묵직한바디", "아몬드"],
+      "tags_en": ["Dark Chocolate", "Smoky", "Nutty", "Heavy Body", "Almond"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 NY2 FC 17/18 세하도",
+    "nameEn": "Brazil NY2 FC 17/18 Cerrado",
+    "thumbnailUrl": "브라질_NY2_FC17,18_세하도_1.jpg",
+    "price": 8900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 8100
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 23100
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_NY2_FC17,18_세하도_0.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "브라질",
+        "country_en": "Brazil",
+        "region_kr": "Cerrado",
+        "region_en": "Cerrado",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": null,
+        "variety_kr": ["Catuai", "Acaia", "Mundo Novo"],
+        "variety_en": ["Catuai", "Acaia", "Mundo Novo"],
+        "grade": "NY2",
+        "process_kr": "내추럴",
+        "process_en": "Natural",
+        "origin_typicity_kr": "",
+        "origin_typicity_en": ""
+      },
+      "roasting": {
+        "roast_level_kr": "중볶음",
+        "roast_level_en": "Medium",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "브라질 100%",
+        "bean_ratio_en": "Brazil 100%",
+        "color_stage_kr": "Medium",
+        "color_stage_en": "Medium"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 4,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 6,
+      "bitterness": 6,
+      "tasting_note_kr": ["현미차", "고소함", "산미적음"],
+      "tasting_note_en": ["Brown Rice Tea", "Nutty", "Low Acidity"],
+      "keywords_kr": ["현미차", "고소함", "산미적음"],
+      "keywords_en": ["Brown Rice Tea", "Nutty", "Low Acidity"],
+      "summary_kr": "브라질 세하도 지역의 중볶음 커피로, 진하게 우러난 현미차 같은 고소한 맛과 풍부한 바디감이 특징입니다. 산미는 적고 밸런스가 뛰어난 커피입니다.",
+      "summary_en": "A medium roast coffee from Brazil Cerrado with deep nutty flavors like brown rice tea, rich body, and well-balanced low acidity.",
+      "tags_kr": ["고소함", "풍부한 바디감", "밸런스좋음", "산미적음", "현미차"],
+      "tags_en": ["Nutty", "Full Body", "Balanced", "Low Acidity", "Brown Rice Tea"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 예가체프 G2",
+    "nameEn": "Ethiopia Yirgacheffe G2",
+    "thumbnailUrl": "에티오피아_예가체프_G2_0.png",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 8600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 24600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_예가체프_G2_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "에티오피아",
+        "country_en": "Ethiopia",
+        "region_kr": "Yirgacheffe",
+        "region_en": "Yirgacheffe",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": null,
+        "variety_kr": ["Typica", "others"],
+        "variety_en": ["Typica", "others"],
+        "grade": "G2",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "",
+        "origin_typicity_en": ""
+      },
+      "roasting": {
+        "roast_level_kr": "약볶음",
+        "roast_level_en": "Light",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "에티오피아 100%",
+        "bean_ratio_en": "Ethiopia 100%",
+        "color_stage_kr": "Light",
+        "color_stage_en": "Light"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 4,
+      "tasting_note_kr": ["자두", "과일", "부드러운 산미", "꽃향", "싱그러운"],
+      "tasting_note_en": ["Plum", "Fruity", "Smooth Acidity", "Floral", "Fresh"],
+      "keywords_kr": ["자두", "과일", "부드러운 산미", "꽃향", "싱그러운"],
+      "keywords_en": ["Plum", "Fruity", "Smooth Acidity", "Floral", "Fresh"],
+      "summary_kr": "자두 계열 과일의 단맛과 부드러운 산미, 깊은 꽃향이 어우러진 예가체프 워시드 커피입니다.",
+      "summary_en": "A Yirgacheffe washed coffee with plum-like sweetness, smooth acidity, and rich floral notes.",
+      "tags_kr": ["에티오피아", "예가체프", "과일향", "꽃향", "약볶음"],
+      "tags_en": ["Ethiopia", "Yirgacheffe", "Fruity", "Floral", "Light Roast"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 AA FAQ",
+    "nameEn": "Kenya AA FAQ",
+    "thumbnailUrl": "케냐_AA_FAQ_1.jpg",
+    "price": 10900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 11100
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 29100
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_AA_FAQ_0.png", "케냐_AA_FAQ_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "케냐",
+        "country_en": "Kenya",
+        "region_kr": "Kiambu",
+        "region_en": "Kiambu",
+        "farm_kr": "",
+        "farm_en": "",
+        "altitude_m": null,
+        "variety_kr": ["SL28", "SL34", "RUIRU11"],
+        "variety_en": ["SL28", "SL34", "RUIRU11"],
+        "grade": "AA",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "",
+        "origin_typicity_en": ""
+      },
+      "roasting": {
+        "roast_level_kr": "중강볶음",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "케냐 100%",
+        "bean_ratio_en": "Kenya 100%",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 6,
+      "body": 10,
+      "sweetness": 8,
+      "aroma": 10,
+      "bitterness": 6,
+      "tasting_note_kr": ["열대과일", "다크초콜릿", "묵직한바디", "다채로운향"],
+      "tasting_note_en": ["Tropical Fruits", "Dark Chocolate", "Heavy Body", "Complex Aroma"],
+      "keywords_kr": ["케냐", "AA", "열대과일", "다크초콜릿", "강한 향미", "중강볶음"],
+      "keywords_en": [
+        "Kenya",
+        "AA",
+        "Tropical Fruits",
+        "Dark Chocolate",
+        "Intense Flavor",
+        "Medium Dark Roast"
+      ],
+      "summary_kr": "케냐 키암부 지역의 SL28, SL34, RUIRU11 품종으로 구성된 AA 등급의 스페셜티 커피로, 진한 열대과일의 단맛과 다크초콜릿의 풍미, 그리고 묵직한 바디감을 느낄 수 있는 중강볶음 커피입니다.",
+      "summary_en": "This specialty AA-grade coffee from Kiambu, Kenya, features SL28, SL34, and RUIRU11 varieties with tropical fruit sweetness, dark chocolate richness, and a heavy body.",
+      "tags_kr": ["Kenya", "AA", "열대과일", "다크초콜릿", "중강볶음", "강한향"],
+      "tags_en": ["Kenya", "AA", "Tropical", "Dark Chocolate", "Medium Dark", "Strong Aroma"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 수프리모 후일라",
+    "nameEn": "Colombia Supremo Huila",
+    "thumbnailUrl": "콜롬비아_수프리모_후일라_0.png",
+    "price": 9400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 12600
+          },
+          {
+            "categoryOptionValueId": 8,
+            "extraCharge": 24600
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_수프리모_후일라_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country_kr": "콜롬비아",
+        "country_en": "Colombia",
+        "region_kr": "Huila",
+        "region_en": "Huila",
+        "farm_kr": null,
+        "farm_en": null,
+        "altitude_m": null,
+        "variety_kr": ["Caturra", "Castillo"],
+        "variety_en": ["Caturra", "Castillo"],
+        "grade": "Supremo",
+        "process_kr": "워시드",
+        "process_en": "Washed",
+        "origin_typicity_kr": "",
+        "origin_typicity_en": ""
+      },
+      "roasting": {
+        "roast_level_kr": "중강볶음",
+        "roast_level_en": "Medium Dark",
+        "roaster_kr": "",
+        "roaster_en": "",
+        "color_track_kr": null,
+        "color_track_en": null,
+        "color_track_version_kr": null,
+        "color_track_version_en": null,
+        "bean_ratio_kr": "콜롬비아 100%",
+        "bean_ratio_en": "Colombia 100%",
+        "color_stage_kr": "Medium Dark",
+        "color_stage_en": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation_kr": "",
+        "fermentation_en": "",
+        "special_technique_kr": "",
+        "special_technique_en": "",
+        "must_usage_kr": "",
+        "must_usage_en": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "bitterness": 6,
+      "tasting_note_kr": [],
+      "tasting_note_en": [],
+      "keywords_kr": ["마일드 커피", "익숙한 커피맛", "좋은 맛의 균형"],
+      "keywords_en": ["Mild Coffee", "Familiar Flavor", "Good Balance"],
+      "summary_kr": "단맛과 쓴맛이 균형을 이루며, 부드럽고 익숙한 맛의 마일드 커피. 중강볶음으로 누구나 편하게 즐길 수 있는 원두.",
+      "summary_en": "A well-balanced medium-dark roast coffee from Huila, Colombia. Smooth and familiar flavor, ideal for everyday enjoyment.",
+      "tags_kr": ["밸런스", "중강볶음", "고소함", "부드러움", "콜롬비아"],
+      "tags_en": ["Balance", "Medium Dark", "Nutty", "Smooth", "Colombia"]
+    }
+  }
+]

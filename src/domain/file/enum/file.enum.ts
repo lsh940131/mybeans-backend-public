@@ -1,0 +1,6 @@
+export enum FileUploadTarget {
+  USER_IMAGE = 'USER_IMAGE',
+  SELLER_APPL = 'SELLER_APPL',
+  SELLER_IMAGE = 'SELLER_IMAGE',
+  PRODUCT = 'PRODUCT',
+}

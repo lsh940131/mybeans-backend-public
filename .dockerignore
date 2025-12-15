@@ -1,0 +1,24 @@
+# Node.js 관련
+node_modules
+dist
+coverage
+
+# Git
+.git
+.gitignore
+
+# Docker/Log
+Dockerfile
+dockerfile*
+docker-compose*.yml
+*.log
+
+# Editor/OS
+.vscode
+.DS_Store
+Thumbs.db
+
+# Local DB volume
+**/mysql-data # docker-compose에서 volume 마운트할 때 영향 없음
+**/minio-data
+**/es-data

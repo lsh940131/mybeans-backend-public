@@ -1,0 +1,778 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 안티구아",
+    "nameEn": "Guatemala Antigua",
+    "thumbnailUrl": "과테말라_안티구아_0.jpg",
+    "price": 6800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_안티구아_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "Antigua",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1500,
+        "altitude_range": "1,400m ~ 1,600m",
+        "variety": "Arabica (Bourbon, Caturra, Catuai, others)",
+        "process": "Washed",
+        "origin_typicity": "과테말라 안티구아 지역 특유의 균형 잡힌 산미와 풍미를 지닌 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "풀시티 (중강배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4.0,
+      "body": 8.0,
+      "sweetness": 4.0,
+      "aroma": 8.0,
+      "tasting_note_kr": ["만다린", "피칸", "초콜릿"],
+      "tasting_note_en": ["Mandarin", "Pecan", "Chocolate"],
+      "keywords_kr": [
+        "과테말라",
+        "안티구아",
+        "워시드",
+        "만다린",
+        "피칸",
+        "초콜릿",
+        "풀시티",
+        "중강배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "Antigua",
+        "Washed",
+        "Mandarin",
+        "Pecan",
+        "Chocolate",
+        "Full City",
+        "Medium dark roast",
+        "Single origin"
+      ],
+      "summary_kr": "과테말라 안티구아 지역에서 생산된 워시드 커피로, 만다린의 산뜻함, 피칸의 고소함, 초콜릿의 깊은 풍미가 조화를 이루는 풀시티 로스트 싱글오리진.",
+      "summary_en": "A washed coffee from Guatemala Antigua, full city roasted, featuring bright mandarin acidity, nutty pecan notes, and smooth chocolate flavors.",
+      "tags_kr": [
+        "만다린",
+        "피칸",
+        "초콜릿",
+        "싱글오리진",
+        "풀시티",
+        "중강배전",
+        "과테말라",
+        "안티구아",
+        "워시드"
+      ],
+      "tags_en": [
+        "Mandarin",
+        "Pecan",
+        "Chocolate",
+        "Single origin",
+        "Full City",
+        "Medium dark roast",
+        "Guatemala",
+        "Antigua",
+        "Washed"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 세하도",
+    "nameEn": "Brazil Cerrado",
+    "thumbnailUrl": "브라질_세하도_0.jpg",
+    "price": 6200,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_세하도_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Cerrado",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 950,
+        "altitude_range": "900m~1,000m",
+        "variety": "Catuai, Acaia, Mundo Novo",
+        "process": "Natural",
+        "origin_typicity": "브라질 세하도 지역의 내추럴 프로세스로 가공된 아라비카 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전 (High ~ City)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium-Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "Natural drying",
+        "must_usage": ""
+      },
+      "acidity": 6.0,
+      "body": 5.0,
+      "sweetness": 4.0,
+      "aroma": 3.0,
+      "tasting_note_kr": ["시트러스", "붉은 땅콩", "마카다미아"],
+      "tasting_note_en": ["Citrus", "Red peanut", "Macadamia"],
+      "keywords_kr": [
+        "브라질",
+        "세하도",
+        "내추럴",
+        "시트러스",
+        "붉은 땅콩",
+        "마카다미아",
+        "중배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Cerrado",
+        "Natural",
+        "Citrus",
+        "Red peanut",
+        "Macadamia",
+        "Medium roast",
+        "Single origin"
+      ],
+      "summary_kr": "브라질 세하도 지역에서 생산된 내추럴 커피로, 시트러스와 견과류 향미가 조화된 중배전 싱글오리진 커피",
+      "summary_en": "A medium roast single origin from Brazil's Cerrado, featuring citrus and nutty flavors with natural processing.",
+      "tags_kr": [
+        "브라질",
+        "세하도",
+        "시트러스",
+        "견과류",
+        "마카다미아",
+        "싱글오리진",
+        "내추럴",
+        "중배전"
+      ],
+      "tags_en": [
+        "Brazil",
+        "Cerrado",
+        "Citrus",
+        "Nutty",
+        "Macadamia",
+        "Single origin",
+        "Natural",
+        "Medium roast"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 시다모 G2",
+    "nameEn": "Ethiopia Sidamo G2",
+    "thumbnailUrl": "에디오피아_시다모_G2_0.jpg",
+    "price": 6800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에디오피아_시다모_G2_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Sidamo",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2000,
+        "altitude_range": "1,770m~2,200m",
+        "variety": "Heirloom",
+        "process": "Washed",
+        "origin_typicity": "에티오피아 시다모 지역의 고지대에서 생산된 워시드 프로세스 G2 등급 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전 (High ~ City)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "Washed process",
+        "must_usage": ""
+      },
+      "acidity": 8.0,
+      "body": 4.0,
+      "sweetness": 5.0,
+      "aroma": 7.0,
+      "tasting_note_kr": ["꿀", "붉은 호두", "허브티"],
+      "tasting_note_en": ["Honey", "Red walnut", "Herbal tea"],
+      "keywords_kr": [
+        "에티오피아",
+        "시다모",
+        "G2",
+        "워시드",
+        "꿀",
+        "붉은 호두",
+        "허브티",
+        "싱글오리진",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Sidamo",
+        "G2",
+        "Washed",
+        "Honey",
+        "Red walnut",
+        "Herbal tea",
+        "Single origin",
+        "Specialty"
+      ],
+      "summary_kr": "에티오피아 시다모 G2는 꿀과 허브티의 향미, 은은한 견과류 풍미와 상큼한 산미가 어우러진 스페셜티 싱글오리진 커피",
+      "summary_en": "Ethiopia Sidamo G2 is a specialty single origin coffee with honey and herbal tea notes, balanced with nutty flavors and bright acidity.",
+      "tags_kr": ["에티오피아", "시다모", "G2", "허브티", "꿀", "견과류", "싱글오리진", "스페셜티"],
+      "tags_en": [
+        "Ethiopia",
+        "Sidamo",
+        "G2",
+        "Herbal tea",
+        "Honey",
+        "Nutty",
+        "Single origin",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "엘살바도르 팬시",
+    "nameEn": "El Salvador Fancy",
+    "thumbnailUrl": "엘살바도르_팬시_0.jpg",
+    "price": 6800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["엘살바도르_팬시_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "El Salvador",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m",
+        "variety": "Blend Bourbon Pacas",
+        "process": "Washed",
+        "origin_typicity": "엘살바도르 고지대 1,400m에서 생산된 워시드 프로세스 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전 (Full City)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "엘살바도르 100%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "Washed process",
+        "must_usage": ""
+      },
+      "acidity": 3.0,
+      "body": 5.0,
+      "sweetness": 4.0,
+      "aroma": 6.0,
+      "tasting_note_kr": ["호두", "피칸", "호밀빵"],
+      "tasting_note_en": ["Walnut", "Pecan", "Rye bread"],
+      "keywords_kr": [
+        "엘살바도르",
+        "팬시",
+        "워시드",
+        "호두",
+        "피칸",
+        "호밀빵",
+        "싱글오리진",
+        "중배전"
+      ],
+      "keywords_en": [
+        "El Salvador",
+        "Fancy",
+        "Washed",
+        "Walnut",
+        "Pecan",
+        "Rye bread",
+        "Single origin",
+        "Medium roast"
+      ],
+      "summary_kr": "엘살바도르 팬시는 고소한 호두와 피칸의 풍미, 호밀빵 같은 고소한 곡물향이 조화를 이루는 중배전 싱글오리진 커피",
+      "summary_en": "El Salvador Fancy is a medium roast single origin coffee with walnut, pecan, and rye bread notes, offering a nutty and balanced profile.",
+      "tags_kr": ["엘살바도르", "호두", "피칸", "호밀빵", "싱글오리진", "워시드", "중배전"],
+      "tags_en": [
+        "El Salvador",
+        "Walnut",
+        "Pecan",
+        "Rye bread",
+        "Single origin",
+        "Washed",
+        "Medium roast"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "인도네시아 만델링",
+    "nameEn": "Indonesia Mandheling",
+    "thumbnailUrl": "인도네시아_만델링_0.jpg",
+    "price": 7200,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["인도네시아_만델링_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Indonesia",
+        "region": "Mandheling",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1350,
+        "altitude_range": "1,200m~1,500m",
+        "variety": "Typica, Catimor",
+        "process": "Wet-Hulled",
+        "origin_typicity": "인도네시아 수마트라 만델링 지역에서 생산된 전통적인 웻헐 가공의 아라비카 커피"
+      },
+      "roasting": {
+        "roast_level": "강배전 (French)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "인도네시아 100%",
+        "color_stage": "Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "Wet-hulled (Giling Basah)",
+        "must_usage": ""
+      },
+      "acidity": 2.0,
+      "body": 8.0,
+      "sweetness": 4.0,
+      "aroma": 6.0,
+      "tasting_note_kr": ["진한 바디감", "다크 초콜릿"],
+      "tasting_note_en": ["Rich body", "Dark chocolate"],
+      "keywords_kr": [
+        "인도네시아",
+        "만델링",
+        "웻헐",
+        "다크초콜릿",
+        "진한바디감",
+        "강배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Indonesia",
+        "Mandheling",
+        "Wet-hulled",
+        "Dark chocolate",
+        "Rich body",
+        "French roast",
+        "Single origin"
+      ],
+      "summary_kr": "인도네시아 만델링은 진한 바디감과 다크 초콜릿 풍미가 특징인 강배전 싱글오리진 커피",
+      "summary_en": "Indonesia Mandheling is a French roast single origin coffee with rich body and dark chocolate notes.",
+      "tags_kr": ["인도네시아", "만델링", "다크초콜릿", "진한바디감", "싱글오리진", "강배전"],
+      "tags_en": [
+        "Indonesia",
+        "Mandheling",
+        "Dark chocolate",
+        "Rich body",
+        "Single origin",
+        "French roast"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 따라주",
+    "nameEn": "Costarica Tarrazu",
+    "thumbnailUrl": "코스타리카_따라주_0.jpg",
+    "price": 6800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["코스타리카_따라주_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "코스타리카",
+        "region": "따라주",
+        "farm": "",
+        "variety": ["Caturra", "Catuai"],
+        "altitude": "1200m ~ 1650m"
+      },
+      "flavor_profile": {
+        "aroma": 2,
+        "acidity": 4,
+        "body": 3,
+        "sweetness": 4,
+        "bitterness": 2
+      },
+      "roasting": {
+        "level": "Full City",
+        "score": 6.5
+      },
+      "process_detail": {
+        "process": "Washed",
+        "cup_note": ["메이플 시럽", "카라멜"]
+      },
+      "keywords_kr": ["코스타리카", "따라주", "메이플 시럽", "카라멜", "워시드", "중배전"],
+      "keywords_en": ["Costa Rica", "Tarrazu", "Maple Syrup", "Caramel", "Washed", "Full City"],
+      "tags_kr": ["싱글 오리진", "밸런스 좋은 커피", "중배전"],
+      "tags_en": ["Single Origin", "Balanced Coffee", "Medium Roast"],
+      "summary_kr": "코스타리카 따라주는 고도 1200~1650m에서 재배된 워시드 프로세스 커피로, 메이플 시럽과 카라멜의 달콤한 풍미와 균형 잡힌 산미가 특징인 중배전 원두입니다.",
+      "summary_en": "Costa Rica Tarrazu is a washed coffee grown at 1200–1650m, featuring maple syrup and caramel sweetness with balanced acidity, roasted at Full City."
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "파푸아뉴기니 아로나",
+    "nameEn": "Papua New Guinea Arona",
+    "thumbnailUrl": "파푸아뉴기니_아로나_0.jpg",
+    "price": 6800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["파푸아뉴기니_아로나_1.jpeg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "파푸아뉴기니",
+        "region": "",
+        "farm": "",
+        "variety": "Typica, Arusha, Burbon",
+        "altitude": "1580m",
+        "process": "Fully washed"
+      },
+      "flavor_profile": {
+        "aroma": 3,
+        "acidity": 2,
+        "body": 3,
+        "sweetness": 3,
+        "bitterness": 2
+      },
+      "roasting": {
+        "degree": "Full City",
+        "score": 6.5
+      },
+      "process_detail": {
+        "fermentation": "",
+        "drying": ""
+      },
+      "keywords_kr": ["청귤", "피칸", "그레놀라"],
+      "keywords_en": ["Citrus", "Pecan", "Granola"],
+      "summary_kr": "청귤의 상큼함과 피칸, 그레놀라의 고소함이 조화된 파푸아뉴기니 아로나 원두.",
+      "summary_en": "Papua New Guinea Arona with bright citrus, pecan nuttiness, and granola notes.",
+      "tags_kr": ["싱글오리진", "파푸아뉴기니", "밸런스", "세미스페셜티"],
+      "tags_en": ["Single Origin", "Papua New Guinea", "Balanced", "Semi-Specialty"]
+    }
+  }
+]

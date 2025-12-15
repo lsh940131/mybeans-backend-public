@@ -1,0 +1,904 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "라이트 케냐 AA 키암부",
+    "nameEn": "Light Kenya AA Kiambu",
+    "thumbnailUrl": "Light_케냐_AA_키암부_1.jpg",
+    "price": 5400,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["Light_케냐_AA_키암부_2.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Kiambu",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1600,
+        "altitude_range": "",
+        "variety": "SL28, SL34, Ruiru11",
+        "process": "Washed",
+        "origin_typicity": "케냐 키암부 지역 고지대에서 생산된 SL28, SL34, Ruiru11 품종의 워시드 프로세스 커피"
+      },
+      "roasting": {
+        "roast_level": "약배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 9.0,
+      "body": 4.5,
+      "sweetness": 6.0,
+      "aroma": 8.5,
+      "tasting_note_kr": ["금귤", "아카시아", "흑설탕"],
+      "tasting_note_en": ["Kumquat", "Acacia", "Brown sugar"],
+      "keywords_kr": [
+        "케냐",
+        "키암부",
+        "SL28",
+        "SL34",
+        "Ruiru11",
+        "워시드",
+        "금귤",
+        "아카시아",
+        "흑설탕",
+        "약배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "Kiambu",
+        "SL28",
+        "SL34",
+        "Ruiru11",
+        "Washed",
+        "Kumquat",
+        "Acacia",
+        "Brown sugar",
+        "Light roast",
+        "Single origin"
+      ],
+      "summary_kr": "케냐 키암부 지역에서 생산된 SL28, SL34, Ruiru11 품종의 워시드 커피로, 금귤의 상큼함과 아카시아 플로럴 향미, 흑설탕의 달콤함이 어우러진 약배전 싱글오리진.",
+      "summary_en": "A light roast single origin from Kiambu, Kenya, featuring kumquat brightness, acacia floral notes, and brown sugar sweetness.",
+      "tags_kr": ["금귤", "아카시아", "흑설탕", "싱글오리진", "약배전", "케냐", "키암부", "워시드"],
+      "tags_en": [
+        "Kumquat",
+        "Acacia",
+        "Brown sugar",
+        "Single origin",
+        "Light roast",
+        "Kenya",
+        "Kiambu",
+        "Washed"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "르완다 버본 타바 이스테이트",
+    "nameEn": "Rwanda Bourbon Taba Estate",
+    "thumbnailUrl": "르완다_버본_타바_이스테이트_1.jpg",
+    "price": 5500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["르완다_버본_타바_이스테이트_2.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Rwanda",
+        "region": "Taba",
+        "farm": "Taba Estate",
+        "producer": "",
+        "altitude_m": 1300,
+        "altitude_range": "1300m ~ 1750m",
+        "variety": "Bourbon",
+        "process": "Fully Washed",
+        "origin_typicity": "르완다 타바 지역의 고도 1300~1750m에서 재배된 버본 품종의 풀리 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "르완다 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 7.0,
+      "body": 6.5,
+      "sweetness": 6.0,
+      "aroma": 7.5,
+      "tasting_note_kr": ["크렌베리", "카카오 초콜릿", "감귤"],
+      "tasting_note_en": ["Cranberry", "Cacao chocolate", "Tangerine"],
+      "keywords_kr": [
+        "르완다",
+        "타바",
+        "버본",
+        "풀리 워시드",
+        "크렌베리",
+        "카카오 초콜릿",
+        "감귤",
+        "중배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Rwanda",
+        "Taba",
+        "Bourbon",
+        "Fully Washed",
+        "Cranberry",
+        "Cacao chocolate",
+        "Tangerine",
+        "Medium roast",
+        "Single origin"
+      ],
+      "summary_kr": "르완다 타바 지역의 버본 품종으로, 크렌베리의 산뜻한 과실미와 카카오 초콜릿의 깊은 풍미, 상큼한 감귤 향이 어우러진 중배전 싱글오리진 커피.",
+      "summary_en": "A medium roast single origin from Taba, Rwanda, featuring bright cranberry acidity, rich cacao chocolate notes, and refreshing tangerine flavors.",
+      "tags_kr": [
+        "크렌베리",
+        "카카오 초콜릿",
+        "감귤",
+        "싱글오리진",
+        "중배전",
+        "르완다",
+        "버본",
+        "풀리 워시드"
+      ],
+      "tags_en": [
+        "Cranberry",
+        "Cacao chocolate",
+        "Tangerine",
+        "Single origin",
+        "Medium roast",
+        "Rwanda",
+        "Bourbon",
+        "Fully Washed"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "미미 푸리토",
+    "nameEn": "Mimi Pulito",
+    "thumbnailUrl": "미미_푸리토_1.jpg",
+    "price": 4200,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["미미_푸리토_2.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil, Vietnam, Colombia",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "",
+        "origin_typicity": "브라질, 베트남, 콜롬비아 원두 블렌드"
+      },
+      "roasting": {
+        "roast_level": "중약배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질, 베트남, 콜롬비아 블렌드",
+        "color_stage": "Light Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 5.0,
+      "body": 6.5,
+      "sweetness": 6.0,
+      "aroma": 7.5,
+      "tasting_note_kr": ["완두콩", "옥수수", "황설탕"],
+      "tasting_note_en": ["Pea", "Corn", "Brown sugar"],
+      "keywords_kr": [
+        "브라질",
+        "베트남",
+        "콜롬비아",
+        "블렌드",
+        "완두콩",
+        "옥수수",
+        "황설탕",
+        "중약배전"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Vietnam",
+        "Colombia",
+        "Blend",
+        "Pea",
+        "Corn",
+        "Brown sugar",
+        "Light medium roast"
+      ],
+      "summary_kr": "브라질, 베트남, 콜롬비아 원두 블렌드로 완두콩과 옥수수의 고소함, 황설탕의 달콤함이 조화된 중약배전 커피.",
+      "summary_en": "A light medium roast blend from Brazil, Vietnam, and Colombia, featuring nutty pea and corn flavors balanced with brown sugar sweetness.",
+      "tags_kr": [
+        "완두콩",
+        "옥수수",
+        "황설탕",
+        "블렌드",
+        "중약배전",
+        "브라질",
+        "베트남",
+        "콜롬비아"
+      ],
+      "tags_en": [
+        "Pea",
+        "Corn",
+        "Brown sugar",
+        "Blend",
+        "Light medium roast",
+        "Brazil",
+        "Vietnam",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "예멘 모카 마타리 알 함다니",
+    "nameEn": "Yemen Mocha Matari Al Hamdani",
+    "thumbnailUrl": "예멘_모카_마타리_알_함다니_1.jpg",
+    "price": 16000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["예멘_모카_마타리_알_함다니_2.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Yemen",
+        "region": "Mocha, Al Hamdani",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1300,
+        "altitude_range": "1300m ~ 1900m",
+        "variety": "Typica Bourbon",
+        "process": "Natural Sundried",
+        "origin_typicity": "예멘 모카 지역 알 함다니에서 생산된 Typica Bourbon 품종, 내추럴 선드라이드 프로세스"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "예멘 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4.0,
+      "body": 7.0,
+      "sweetness": 5.5,
+      "aroma": 8.0,
+      "tasting_note_kr": ["자몽", "밀크초콜릿", "견과류"],
+      "tasting_note_en": ["Grapefruit", "Milk chocolate", "Nuts"],
+      "keywords_kr": [
+        "예멘",
+        "모카",
+        "알 함다니",
+        "Typica Bourbon",
+        "내추럴",
+        "자몽",
+        "밀크초콜릿",
+        "견과류",
+        "중배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Yemen",
+        "Mocha",
+        "Al Hamdani",
+        "Typica Bourbon",
+        "Natural Sundried",
+        "Grapefruit",
+        "Milk chocolate",
+        "Nuts",
+        "Medium roast",
+        "Single origin"
+      ],
+      "summary_kr": "예멘 알 함다니 지역의 Typica Bourbon 품종으로, 자몽의 산뜻함과 밀크초콜릿의 부드러움, 견과류의 고소함이 어우러진 중배전 싱글오리진 커피.",
+      "summary_en": "A medium roast single origin from Al Hamdani, Yemen, featuring grapefruit brightness, smooth milk chocolate notes, and nutty undertones.",
+      "tags_kr": [
+        "자몽",
+        "밀크초콜릿",
+        "견과류",
+        "싱글오리진",
+        "중배전",
+        "예멘",
+        "Typica Bourbon",
+        "내추럴"
+      ],
+      "tags_en": [
+        "Grapefruit",
+        "Milk chocolate",
+        "Nuts",
+        "Single origin",
+        "Medium roast",
+        "Yemen",
+        "Typica Bourbon",
+        "Natural"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "인도 몬순 말라바르 AA",
+    "nameEn": "India Monsoon Malabar AA",
+    "thumbnailUrl": "인도_몬순_말라바르_AA_1.jpg",
+    "price": 5000,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["인도_몬순_말라바르_AA_2.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "India",
+        "region": "Malabar",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1000,
+        "altitude_range": "1000m ~ 2000m",
+        "variety": "Kent",
+        "process": "Washed / Monsooning",
+        "origin_typicity": "인도 말라바르 지역에서 켄트 품종으로 재배된 몬순 가공 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "인도 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "해풍에 노출되는 자연 발효",
+        "special_technique": "몬순 가공 (Monsooning)",
+        "must_usage": ""
+      },
+      "acidity": 3.5,
+      "body": 7.0,
+      "sweetness": 5.0,
+      "aroma": 7.0,
+      "tasting_note_kr": ["오트밀", "카라멜", "곡물 쿠키"],
+      "tasting_note_en": ["Oatmeal", "Caramel", "Cereal cookie"],
+      "keywords_kr": [
+        "인도",
+        "말라바르",
+        "Kent",
+        "몬순",
+        "Washed",
+        "오트밀",
+        "카라멜",
+        "곡물 쿠키",
+        "중배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "India",
+        "Malabar",
+        "Kent",
+        "Monsooning",
+        "Washed",
+        "Oatmeal",
+        "Caramel",
+        "Cereal cookie",
+        "Medium roast",
+        "Single origin"
+      ],
+      "summary_kr": "인도 말라바르 지역에서 몬순 가공으로 생산된 켄트 품종 커피로, 오트밀의 고소함과 카라멜의 달콤함, 곡물 쿠키의 풍미가 어우러진 중배전 싱글오리진.",
+      "summary_en": "A medium roast single origin from Malabar, India, processed by monsooning, featuring oatmeal nuttiness, caramel sweetness, and cereal cookie flavors.",
+      "tags_kr": [
+        "오트밀",
+        "카라멜",
+        "곡물 쿠키",
+        "싱글오리진",
+        "중배전",
+        "인도",
+        "말라바르",
+        "몬순"
+      ],
+      "tags_en": [
+        "Oatmeal",
+        "Caramel",
+        "Cereal cookie",
+        "Single origin",
+        "Medium roast",
+        "India",
+        "Malabar",
+        "Monsooning"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 수프리모 메델린",
+    "nameEn": "Colombia Supremo Medellin",
+    "thumbnailUrl": "콜롬비아_메델린_1.jpg",
+    "price": 5100,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_메델린_2.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "Medellin",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1100,
+        "altitude_range": "1100m ~ 1500m",
+        "variety": "Castillo, Typica, Colombia",
+        "process": "Fully Washed",
+        "origin_typicity": "콜롬비아 메델린 지역에서 재배된 카스티요, 티피카, 콜롬비아 품종의 풀리 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "중강배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4.0,
+      "body": 6.5,
+      "sweetness": 5.5,
+      "aroma": 7.0,
+      "tasting_note_kr": ["살구", "헤이즐넛", "땅콩버터"],
+      "tasting_note_en": ["Apricot", "Hazelnut", "Peanut butter"],
+      "keywords_kr": [
+        "콜롬비아",
+        "메델린",
+        "수프리모",
+        "Castillo",
+        "Typica",
+        "Fully Washed",
+        "살구",
+        "헤이즐넛",
+        "땅콩버터",
+        "중강배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Colombia",
+        "Medellin",
+        "Supremo",
+        "Castillo",
+        "Typica",
+        "Fully Washed",
+        "Apricot",
+        "Hazelnut",
+        "Peanut butter",
+        "Medium dark roast",
+        "Single origin"
+      ],
+      "summary_kr": "콜롬비아 메델린 지역에서 생산된 수프리모 등급의 커피로, 살구의 달콤함과 헤이즐넛의 고소함, 땅콩버터의 크리미한 풍미가 어우러진 중강배전 싱글오리진.",
+      "summary_en": "A medium dark roast single origin from Medellin, Colombia, featuring apricot sweetness, hazelnut nuttiness, and creamy peanut butter notes.",
+      "tags_kr": [
+        "살구",
+        "헤이즐넛",
+        "땅콩버터",
+        "싱글오리진",
+        "중강배전",
+        "콜롬비아",
+        "수프리모",
+        "메델린"
+      ],
+      "tags_en": [
+        "Apricot",
+        "Hazelnut",
+        "Peanut butter",
+        "Single origin",
+        "Medium dark roast",
+        "Colombia",
+        "Supremo",
+        "Medellin"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "홀릭 다크",
+    "nameEn": "Holic Dark",
+    "thumbnailUrl": "홀릭_다크_1.jpg",
+    "price": 4800,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["홀릭_다크_2.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia, Brazil, Ethiopia",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "",
+        "origin_typicity": "콜롬비아, 브라질, 에티오피아 원두를 블렌딩한 다크 로스트 커피"
+      },
+      "roasting": {
+        "roast_level": "강배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아, 브라질, 에티오피아 블렌드",
+        "color_stage": "Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 3.0,
+      "body": 8.0,
+      "sweetness": 5.0,
+      "aroma": 7.5,
+      "tasting_note_kr": ["아몬드", "호두", "다크초콜릿"],
+      "tasting_note_en": ["Almond", "Walnut", "Dark chocolate"],
+      "keywords_kr": [
+        "콜롬비아",
+        "브라질",
+        "에티오피아",
+        "블렌드",
+        "아몬드",
+        "호두",
+        "다크초콜릿",
+        "강배전"
+      ],
+      "keywords_en": [
+        "Colombia",
+        "Brazil",
+        "Ethiopia",
+        "Blend",
+        "Almond",
+        "Walnut",
+        "Dark chocolate",
+        "Dark roast"
+      ],
+      "summary_kr": "콜롬비아의 바디감, 에티오피아의 풍미, 브라질의 고소함이 조화를 이루며 아몬드와 호두의 고소함, 다크초콜릿의 쌉쌀한 달콤함이 특징인 강배전 블렌드 커피.",
+      "summary_en": "A dark roast blend of Colombia, Brazil, and Ethiopia beans, featuring nutty almond and walnut flavors balanced with bittersweet dark chocolate notes.",
+      "tags_kr": [
+        "아몬드",
+        "호두",
+        "다크초콜릿",
+        "블렌드",
+        "강배전",
+        "콜롬비아",
+        "브라질",
+        "에티오피아"
+      ],
+      "tags_en": [
+        "Almond",
+        "Walnut",
+        "Dark chocolate",
+        "Blend",
+        "Dark roast",
+        "Colombia",
+        "Brazil",
+        "Ethiopia"
+      ]
+    }
+  }
+]

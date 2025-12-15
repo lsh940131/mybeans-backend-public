@@ -1,0 +1,154 @@
+[
+  {
+    "categoryNamekr": "원두",
+    "option": [
+      {
+        "name_kr": "중량",
+        "name_en": "weight",
+        "value": [
+          {
+            "value_kr": "20g",
+            "value_en": "20g"
+          },
+          {
+            "value_kr": "50g",
+            "value_en": "50g"
+          },
+          {
+            "value_kr": "100g",
+            "value_en": "100g"
+          },
+          {
+            "value_kr": "200g",
+            "value_en": "200g"
+          },
+          {
+            "value_kr": "250g",
+            "value_en": "250g"
+          },
+          {
+            "value_kr": "300g",
+            "value_en": "300g"
+          },
+          {
+            "value_kr": "500g",
+            "value_en": "500g"
+          },
+          {
+            "value_kr": "1kg",
+            "value_en": "1kg"
+          },
+          {
+            "value_kr": "2kg",
+            "value_en": "2kg"
+          },
+          {
+            "value_kr": "3kg",
+            "value_en": "3kg"
+          },
+          {
+            "value_kr": "5kg",
+            "value_en": "5kg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNamekr": "로스티드",
+    "option": [
+      {
+        "name_kr": "분쇄도",
+        "name_en": "grind size",
+        "value": [
+          {
+            "value_kr": "홀빈",
+            "value_en": "Whole Bean"
+          },
+          {
+            "value_kr": "프렌치프레스",
+            "value_en": "Coarse (French Press)"
+          },
+          {
+            "value_kr": "더치/사이폰",
+            "value_en": "Medium-Coarse (Dutch/Siphon)"
+          },
+          {
+            "value_kr": "핸드드립/커피메이커",
+            "value_en": "Medium (Drip/Coffe Maker)"
+          },
+          {
+            "value_kr": "모카포트",
+            "value_en": "Medium-Fine (Moka Pot)"
+          },
+          {
+            "value_kr": "에스프레소",
+            "value_en": "Fine (Espresso)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNamekr": "시럽",
+    "option": [
+      {
+        "name_kr": "용량",
+        "name_en": "volume",
+        "value": [
+          {
+            "value_kr": "50mL",
+            "value_en": "50mL"
+          },
+          {
+            "value_kr": "100mL",
+            "value_en": "100mL"
+          },
+          {
+            "value_kr": "200mL",
+            "value_en": "200mL"
+          },
+          {
+            "value_kr": "500mL",
+            "value_en": "500mL"
+          },
+          {
+            "value_kr": "1L",
+            "value_en": "1L"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNamekr": "소스",
+    "option": [
+      {
+        "name_kr": "용량",
+        "name_en": "volume",
+        "value": [
+          {
+            "value_kr": "50mL",
+            "value_en": "50mL"
+          },
+          {
+            "value_kr": "100mL",
+            "value_en": "100mL"
+          },
+          {
+            "value_kr": "200mL",
+            "value_en": "200mL"
+          },
+          {
+            "value_kr": "500mL",
+            "value_en": "500mL"
+          },
+          {
+            "value_kr": "1L",
+            "value_en": "1L"
+          }
+        ]
+      }
+    ]
+  }
+]

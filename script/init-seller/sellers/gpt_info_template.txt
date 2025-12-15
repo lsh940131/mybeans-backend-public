@@ -1,0 +1,50 @@
+📎 첨부한 PDF를 보고 아래 JSON 구조에 맞춰 값을 채워줘.
+PDF에서 확인 가능한 정보만 정확하게 입력하고,  
+지정된 필드는 그대로 유지한 채 누락되거나 추측하지 마.
+
+아래는 JSON 구조 예시야 (필드 순서와 이름 유지):
+
+{
+  "user": {
+    "email": "", // 전자우편 (E-mail)
+    "name": "", // 대표자명
+    "pwd": "qwer1234" // 고정
+  },
+  "seller": {
+    "step": 1, // 고정
+    "businessNumber": "", // 사업자번호 '-' 제외한 숫자만 입력
+    "storeName": "", // 상호
+    "businessType": "A", // 고정
+    "businessAddress": "", // 사업장소재지
+    "businessCategory": "", // 취금품목
+    "businessItem": "", // 취급품목
+    "mailOrderSalesNumber": "", // 통신판매번호 '-' 포함
+    "ownerType": "A", // 고정
+    "ownerName": "", // 대표자명
+    "ownerBirth": "2025-12-31", // 고정
+    "ownerGender": "M", // 고정
+    "ownerNationality": "A", // 고정
+    "ownerPhone": "", // 대표 전화번호
+    "ownerAddress": "", // 사업장소재지(도로명)
+    "ownerEmail": "", // 전자우편 (E-mail)
+    "ownerBankCode": "089", // 고정
+    "ownerAccount": "00000000000000", // 고정
+    "ownerJob": "미정", // 고정
+    "shippingName": "출고지", // 고정
+    "shippingAddress": "", // 사업장소재지(도로명)
+    "shippingPhone1": "", // 대표 전화번호
+    "shippingPhone2": null, // 고정
+    "returnName": "반품/교환지", // 고정
+    "returnAddress": "", // 사업장소재지(도로명)
+    "returnPhone1": "", // 대표 전화번호
+    "returnPhone2": null, // 고정
+    "bankCode": "089", // 고정
+    "accountHolder": "", // 대표자명
+    "accountNumber": "00000000000000", // 고정
+    "contactName": "", // 대표자명
+    "contactPhone": "", // 대표 전화번호
+    "contactEmail": "", // 전자우편(E-mail)
+    "uploadFileList": [],
+    "deleteFileList": []
+  }
+}

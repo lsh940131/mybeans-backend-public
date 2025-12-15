@@ -1,0 +1,74 @@
+[
+  {
+    "kr": "커피",
+    "en": "coffee",
+    "children": [
+      {
+        "kr": "원두",
+        "en": "coffee bean",
+        "children": [
+          { "kr": "생두", "en": "green bean" },
+          { "kr": "로스티드", "en": "roasted bean" }
+        ]
+      },
+      { "kr": "드립백", "en": "drip bag" },
+      { "kr": "커피캡슐", "en": "coffee capsule" },
+      { "kr": "콜드브루", "en": "cold brew" }
+    ]
+  },
+  {
+    "kr": "디저트",
+    "en": "dessert",
+    "children": [
+      { "kr": "초코", "en": "chocolate" },
+      { "kr": "쿠키", "en": "cookie" },
+      { "kr": "빵", "en": "bread" }
+    ]
+  },
+  { "kr": "시럽", "en": "syrup" },
+  { "kr": "소스", "en": "sauce" },
+  {
+    "kr": "커피용품",
+    "en": "coffee equipment",
+    "children": [
+      {
+        "kr": "그라인더",
+        "en": "grinder",
+        "children": [
+          { "kr": "수동", "en": "manual" },
+          { "kr": "전동", "en": "electric" }
+        ]
+      },
+      {
+        "kr": "메이커",
+        "en": "maker",
+        "children": [
+          { "kr": "드리퍼", "en": "dripper" },
+          { "kr": "드립서버", "en": "drip server" },
+          { "kr": "프렌치프레스", "en": "french press" },
+          { "kr": "콜드브루어", "en": "cold brewer" },
+          { "kr": "모카포트", "en": "moka pot" },
+          { "kr": "캡슐커피머신", "en": "capsule coffee machine" }
+        ]
+      },
+      {
+        "kr": "주변기기",
+        "en": "accessory",
+        "children": [
+          { "kr": "저울", "en": "scale" },
+          { "kr": "전기포트", "en": "electric kettle" },
+          { "kr": "온도계", "en": "thermometer" }
+        ]
+      },
+      {
+        "kr": "로스팅기",
+        "en": "roaster",
+        "children": [
+          { "kr": "열풍", "en": "convection" },
+          { "kr": "직화", "en": "direct fire" }
+        ]
+      },
+      { "kr": "소모품", "en": "consumable" }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+services:
+  db:
+    container_name: mybeans-mysql
+    image: mysql:8.0.36
+    env_file:
+      - .env
+    ports:
+      - ${MYSQL_PORT}:${MYSQL_PORT}
+    networks:
+      - network-mybeans-backend
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+
+  minio:
+    container_name: mybeans-minio
+    image: minio/minio
+    ports:
+      - ${STORAGE_API_PORT}:${STORAGE_API_PORT} # API
+      - ${STORAGE_WEB_CONSOLE_PORT}:${STORAGE_WEB_CONSOLE_PORT} # 웹 콘솔
+    networks:
+      - network-mybeans-backend
+    environment:
+      MINIO_ROOT_USER: ${STORAGE_ACCESS_KEY}
+      MINIO_ROOT_PASSWORD: ${STORAGE_SECRET_KEY}
+      MINIO_REGION_NAME: ${STORAGE_REGION}
+    volumes:
+      - ./minio-data:/data
+    command: server /data --console-address ":${STORAGE_WEB_CONSOLE_PORT}"
+
+  elasticsearch:
+    container_name: mybeans-elasticsearch
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.13.4
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - bootstrap.memory_lock=true
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+      - cluster.name=mybeans-es
+      - node.name=mybeans-es-1
+      - path.repo=/usr/share/elasticsearch/snapshots
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./es-data:/usr/share/elasticsearch/data
+      - ./es-plugins:/usr/share/elasticsearch/plugins
+      - ./es-snapshots:/usr/share/elasticsearch/snapshots
+    ports:
+      - ${ELASTICSEARCH_PORT}:${ELASTICSEARCH_PORT}
+    networks:
+      - network-mybeans-backend
+
+networks:
+  network-mybeans-backend:
+    name: network-mybeans-backend
+    driver: bridge

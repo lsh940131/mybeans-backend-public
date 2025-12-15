@@ -1,0 +1,779 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "너티초코 블렌드",
+    "nameEn": "Nutty Choco Blend",
+    "thumbnailUrl": "너티초코_블렌드_0.jpg",
+    "price": 26900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["너티초코_블렌드_1.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil 60%, Colombia 25%, India 15%",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "",
+        "origin_typicity": "브라질, 콜롬비아, 인도 원두 블렌드"
+      },
+      "roasting": {
+        "roast_level": "풀시티 (중강배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 60%, 콜롬비아 25%, 인도 15%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2.0,
+      "body": 6.0,
+      "sweetness": 8.0,
+      "aroma": 8.0,
+      "tasting_note_kr": ["견과류", "초콜릿", "흑설탕"],
+      "tasting_note_en": ["Nuts", "Chocolate", "Brown sugar"],
+      "keywords_kr": [
+        "브라질",
+        "콜롬비아",
+        "인도",
+        "블렌드",
+        "견과류",
+        "초콜릿",
+        "흑설탕",
+        "풀시티",
+        "중강배전"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Colombia",
+        "India",
+        "Blend",
+        "Nuts",
+        "Chocolate",
+        "Brown sugar",
+        "Full City",
+        "Medium dark roast"
+      ],
+      "summary_kr": "브라질, 콜롬비아, 인도 원두 블렌드로 견과류의 고소함과 초콜릿의 부드러운 단맛, 흑설탕의 풍미가 어우러진 풀시티 로스트 커피.",
+      "summary_en": "A full city roast blend of Brazil, Colombia, and India beans, featuring nutty richness, smooth chocolate sweetness, and brown sugar notes.",
+      "tags_kr": [
+        "견과류",
+        "초콜릿",
+        "흑설탕",
+        "블렌드",
+        "풀시티",
+        "중강배전",
+        "브라질",
+        "콜롬비아",
+        "인도"
+      ],
+      "tags_en": [
+        "Nuts",
+        "Chocolate",
+        "Brown sugar",
+        "Blend",
+        "Full City",
+        "Medium dark roast",
+        "Brazil",
+        "Colombia",
+        "India"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "다크 초콜렛 블렌드",
+    "nameEn": "Dark Chocolate Blend",
+    "thumbnailUrl": "다크초콜렛_블렌드_0.jpg",
+    "price": 25500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["다크초콜렛_블렌드_1.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala 50%, Colombia 30%, India 20%",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "",
+        "origin_typicity": "과테말라, 콜롬비아, 인도 원두 블렌드"
+      },
+      "roasting": {
+        "roast_level": "풀시티 (중강배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "과테말라 50%, 콜롬비아 30%, 인도 20%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2.0,
+      "body": 8.5,
+      "sweetness": 8.0,
+      "aroma": 8.0,
+      "tasting_note_kr": ["다크 초콜릿", "카라멜", "브라운 슈가"],
+      "tasting_note_en": ["Dark chocolate", "Caramel", "Brown sugar"],
+      "keywords_kr": [
+        "과테말라",
+        "콜롬비아",
+        "인도",
+        "블렌드",
+        "다크 초콜릿",
+        "카라멜",
+        "브라운 슈가",
+        "풀시티",
+        "중강배전"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "Colombia",
+        "India",
+        "Blend",
+        "Dark chocolate",
+        "Caramel",
+        "Brown sugar",
+        "Full City",
+        "Medium dark roast"
+      ],
+      "summary_kr": "과테말라, 콜롬비아, 인도 원두 블렌드로 진한 다크 초콜릿 풍미와 카라멜의 달콤함, 브라운 슈가의 묵직한 바디감을 갖춘 풀시티 로스트 커피.",
+      "summary_en": "A full city roast blend of Guatemala, Colombia, and India beans, featuring rich dark chocolate notes, caramel sweetness, and the depth of brown sugar body.",
+      "tags_kr": [
+        "다크 초콜릿",
+        "카라멜",
+        "브라운 슈가",
+        "블렌드",
+        "풀시티",
+        "중강배전",
+        "과테말라",
+        "콜롬비아",
+        "인도"
+      ],
+      "tags_en": [
+        "Dark chocolate",
+        "Caramel",
+        "Brown sugar",
+        "Blend",
+        "Full City",
+        "Medium dark roast",
+        "Guatemala",
+        "Colombia",
+        "India"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "달콤 블렌드",
+    "nameEn": "Sweet Blend",
+    "thumbnailUrl": "달콤_블렌드_0.jpg",
+    "price": 25500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["달콤_블렌드_1.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil 60%, Ethiopia 30%, Colombia 10%",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "",
+        "origin_typicity": "브라질, 에티오피아, 콜롬비아 원두 블렌드"
+      },
+      "roasting": {
+        "roast_level": "시티 (중배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 60%, 에티오피아 30%, 콜롬비아 10%",
+        "color_stage": "City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4.0,
+      "body": 6.0,
+      "sweetness": 8.0,
+      "aroma": 8.0,
+      "tasting_note_kr": ["열대 과일", "견과류", "부드러움"],
+      "tasting_note_en": ["Tropical fruit", "Nuts", "Softness"],
+      "keywords_kr": [
+        "브라질",
+        "에티오피아",
+        "콜롬비아",
+        "블렌드",
+        "열대 과일",
+        "견과류",
+        "부드러움",
+        "중배전"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Ethiopia",
+        "Colombia",
+        "Blend",
+        "Tropical fruit",
+        "Nuts",
+        "Softness",
+        "City roast",
+        "Medium roast"
+      ],
+      "summary_kr": "브라질, 에티오피아, 콜롬비아 원두 블렌드로 열대 과일의 산뜻함과 견과류의 고소함, 부드러운 목넘김이 어우러진 중배전 커피.",
+      "summary_en": "A city roast blend of Brazil, Ethiopia, and Colombia beans, featuring tropical fruit brightness, nutty richness, and a smooth finish.",
+      "tags_kr": [
+        "열대 과일",
+        "견과류",
+        "부드러움",
+        "블렌드",
+        "중배전",
+        "브라질",
+        "에티오피아",
+        "콜롬비아"
+      ],
+      "tags_en": [
+        "Tropical fruit",
+        "Nuts",
+        "Softness",
+        "Blend",
+        "Medium roast",
+        "Brazil",
+        "Ethiopia",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 세하도 NY2 내추럴",
+    "nameEn": "Brazil Cerrado NY2 Natural",
+    "thumbnailUrl": "브라질_세하도_0.jpg",
+    "price": 19900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_세하도_1.jpg"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Cerrado",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "Natural",
+        "origin_typicity": "브라질 세하도 지역에서 생산된 내추럴 프로세스 원두"
+      },
+      "roasting": {
+        "roast_level": "풀시티 (중강배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2.0,
+      "body": 4.0,
+      "sweetness": 8.0,
+      "aroma": 6.0,
+      "tasting_note_kr": ["마카다미아", "아몬드", "초콜릿"],
+      "tasting_note_en": ["Macadamia", "Almond", "Chocolate"],
+      "keywords_kr": [
+        "브라질",
+        "세하도",
+        "내추럴",
+        "마카다미아",
+        "아몬드",
+        "초콜릿",
+        "풀시티",
+        "중강배전",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Cerrado",
+        "Natural",
+        "Macadamia",
+        "Almond",
+        "Chocolate",
+        "Full City",
+        "Medium dark roast",
+        "Single origin"
+      ],
+      "summary_kr": "브라질 세하도 지역에서 생산된 내추럴 프로세스 커피로, 마카다미아와 아몬드의 고소함, 초콜릿의 부드러운 풍미가 어우러진 풀시티 로스트 싱글오리진.",
+      "summary_en": "A full city roast single origin from Cerrado, Brazil, processed naturally, with nutty macadamia and almond notes balanced by smooth chocolate flavors.",
+      "tags_kr": [
+        "마카다미아",
+        "아몬드",
+        "초콜릿",
+        "싱글오리진",
+        "풀시티",
+        "중강배전",
+        "브라질",
+        "세하도",
+        "내추럴"
+      ],
+      "tags_en": [
+        "Macadamia",
+        "Almond",
+        "Chocolate",
+        "Single origin",
+        "Full City",
+        "Medium dark roast",
+        "Brazil",
+        "Cerrado",
+        "Natural"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "블라썸 블렌드",
+    "nameEn": "Blossom Blend",
+    "thumbnailUrl": "블라썸_블렌드_0.jpg",
+    "price": 31500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["블라썸_블렌드_1.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "Washed 50%, Natural 50%",
+        "origin_typicity": "에티오피아 워시드와 내추럴을 블렌딩하여 밝고 청량한 특성을 지닌 원두"
+      },
+      "roasting": {
+        "roast_level": "하이 로스트 (약중배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 워시드 50% + 내추럴 50%",
+        "color_stage": "High"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8.0,
+      "body": 6.0,
+      "sweetness": 6.0,
+      "aroma": 8.0,
+      "tasting_note_kr": ["라즈베리", "열대 과일", "허니"],
+      "tasting_note_en": ["Raspberry", "Tropical Fruit", "Honey"],
+      "keywords_kr": [
+        "블라썸",
+        "에티오피아",
+        "워시드",
+        "내추럴",
+        "라즈베리",
+        "열대과일",
+        "허니",
+        "하이 로스트",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Blossom",
+        "Ethiopia",
+        "Washed",
+        "Natural",
+        "Raspberry",
+        "Tropical fruit",
+        "Honey",
+        "High roast",
+        "Specialty"
+      ],
+      "summary_kr": "에티오피아 워시드와 내추럴을 50:50으로 블렌딩한 스페셜티 블렌드로, 라즈베리와 열대 과일의 산뜻한 산미와 꿀 같은 단맛이 어우러진 밝고 청량한 커피.",
+      "summary_en": "A 50:50 blend of washed and natural Ethiopian beans, this specialty coffee offers bright raspberry and tropical fruit acidity with a honey-like sweetness.",
+      "tags_kr": [
+        "라즈베리",
+        "열대과일",
+        "허니",
+        "스페셜티",
+        "블렌드",
+        "하이 로스트",
+        "에티오피아"
+      ],
+      "tags_en": [
+        "Raspberry",
+        "Tropical fruit",
+        "Honey",
+        "Specialty",
+        "Blend",
+        "High roast",
+        "Ethiopia"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "하우스 블렌드",
+    "nameEn": "House Blend",
+    "thumbnailUrl": "하우스_블렌드_0.jpg",
+    "price": 24500,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 7,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["하우스_블렌드_1.jpg"],
+    "isSingle": false,
+    "isBlend": true,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil 60%, India 30%, Guatemala 10%",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 0,
+        "altitude_range": "",
+        "variety": "",
+        "process": "Blend",
+        "origin_typicity": "브라질, 인도, 과테말라 원두를 블렌딩하여 고소하고 부드러운 풍미를 지닌 블렌드"
+      },
+      "roasting": {
+        "roast_level": "풀시티 (중강배전)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 60% + 인도 30% + 과테말라 10%",
+        "color_stage": "Full City"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2.0,
+      "body": 6.0,
+      "sweetness": 8.0,
+      "aroma": 6.0,
+      "tasting_note_kr": ["미숫가루", "견과류", "고소함"],
+      "tasting_note_en": ["Grain powder", "Nuts", "Nutty"],
+      "keywords_kr": [
+        "하우스 블렌드",
+        "브라질",
+        "인도",
+        "과테말라",
+        "미숫가루",
+        "견과류",
+        "고소함",
+        "풀시티",
+        "중강배전"
+      ],
+      "keywords_en": [
+        "House Blend",
+        "Brazil",
+        "India",
+        "Guatemala",
+        "Grain powder",
+        "Nuts",
+        "Nutty",
+        "Full City",
+        "Medium dark roast"
+      ],
+      "summary_kr": "브라질, 인도, 과테말라 원두를 블렌딩한 커피로, 부드러운 밀크초콜릿 풍미와 고소한 곡물 향이 어우러져 부담 없이 즐길 수 있는 풀시티 로스트 블렌드.",
+      "summary_en": "A full city roast blend of Brazilian, Indian, and Guatemalan beans, offering smooth milk chocolate notes with nutty grain flavors for an easy-to-drink cup.",
+      "tags_kr": [
+        "하우스 블렌드",
+        "브라질",
+        "인도",
+        "과테말라",
+        "풀시티",
+        "중강배전",
+        "견과류",
+        "미숫가루"
+      ],
+      "tags_en": [
+        "House Blend",
+        "Brazil",
+        "India",
+        "Guatemala",
+        "Full City",
+        "Medium dark roast",
+        "Nuts",
+        "Grain powder"
+      ]
+    }
+  }
+]

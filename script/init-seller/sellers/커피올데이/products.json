@@ -1,0 +1,6490 @@
+[
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 SHB EP 로스터스 초이스",
+    "nameEn": "Guatemala SHB EP Roasters Choice",
+    "thumbnailUrl": "과테말라_SHB_EP_로스터스_초이스.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_SHB_EP_로스터스_초이스.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "New Oriente",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "",
+        "variety": "Caturra",
+        "process": "Washed",
+        "origin_typicity": "과테말라 동부 고지대 뉴오리엔테 지역의 SHB 등급 고도 생산 커피"
+      },
+      "roasting": {
+        "roast_level": "중간 (중간~중강)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.6,
+      "body": 6.0,
+      "sweetness": 5.0,
+      "aroma": 6.5,
+      "tasting_note_kr": ["카라멜", "호두", "마카다미아"],
+      "tasting_note_en": ["Caramel", "Walnut", "Macadamia"],
+      "keywords_kr": [
+        "과테말라",
+        "SHB",
+        "EP",
+        "카라멜",
+        "호두",
+        "마카다미아",
+        "은은한 산미",
+        "중강배전",
+        "뉴오리엔테",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "SHB",
+        "EP",
+        "Caramel",
+        "Walnut",
+        "Macadamia",
+        "Soft acidity",
+        "Medium roast",
+        "New Oriente",
+        "Single origin"
+      ],
+      "summary_kr": "카라멜과 견과류 향미가 은은한 산미와 어우러지는 과테말라 뉴오리엔테 지역의 중배전 싱글오리진 커피",
+      "summary_en": "A medium roast single origin from Guatemala's New Oriente region, featuring caramel and nutty flavors balanced with soft acidity.",
+      "tags_kr": [
+        "카라멜",
+        "고소한 견과류",
+        "은은한 산미",
+        "싱글오리진",
+        "중배전",
+        "SHB",
+        "EP",
+        "과테말라"
+      ],
+      "tags_en": [
+        "Caramel",
+        "Nutty",
+        "Soft acidity",
+        "Single origin",
+        "Medium roast",
+        "SHB",
+        "EP",
+        "Guatemala"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 SHB 후에후에 테낭고",
+    "nameEn": "Guatemala SHB Huehue Tenango",
+    "thumbnailUrl": "과테말라_SHB_후에후에_테낭고.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_SHB_후에후에_테낭고.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "Tenango",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1850,
+        "altitude_range": "1,700~2,000",
+        "variety": "Bourbon",
+        "process": "Washed",
+        "origin_typicity": "과테말라 후에후에 테낭고 고지대에서 생산된 부르봉 품종의 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": "",
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.6,
+      "body": 6.0,
+      "sweetness": 5.0,
+      "aroma": 6,
+      "tasting_note_kr": ["다크 초콜릿", "감귤", "아몬드"],
+      "tasting_note_en": ["Dark Chocolate", "Tangerine", "Almond"],
+      "keywords_kr": [
+        "과테말라",
+        "후에후에 테낭고",
+        "SHB",
+        "Bourbon",
+        "다크 초콜릿",
+        "감귤",
+        "아몬드",
+        "고산지대",
+        "중배전"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "Huehuetenango",
+        "SHB",
+        "Bourbon",
+        "Dark Chocolate",
+        "Tangerine",
+        "Almond",
+        "High Altitude",
+        "Medium Roast"
+      ],
+      "summary_kr": "다크 초콜릿과 감귤, 아몬드 향이 어우러진 과테말라 후에후에 테낭고 고지대의 부르봉 워시드 커피",
+      "summary_en": "A washed Bourbon coffee from the highlands of Huehuetenango, Guatemala, with notes of dark chocolate, tangerine, and almond",
+      "tags_kr": [
+        "과테말라",
+        "중배전",
+        "다크 초콜릿",
+        "감귤",
+        "고소함",
+        "고산지 커피",
+        "워시드",
+        "싱글오리진"
+      ],
+      "tags_en": [
+        "Guatemala",
+        "Medium Roast",
+        "Dark Chocolate",
+        "Tangerine",
+        "Nutty",
+        "High Altitude",
+        "Washed",
+        "Single Origin"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 안티구아 SHB",
+    "nameEn": "Guatemala Antigua SHB",
+    "thumbnailUrl": "과테말라_안티구아_SHB.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_안티구아_SHB.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "New Oriente",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "",
+        "variety": "Caturra",
+        "process": "Washed",
+        "origin_typicity": "과테말라 동부 고지대 뉴오리엔테 지역의 SHB 등급 고도 생산 커피"
+      },
+      "roasting": {
+        "roast_level": "중간 (중간~중강)",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.0,
+      "body": 5.5,
+      "sweetness": 4.0,
+      "aroma": 6.5,
+      "tasting_note_kr": ["카라멜", "호두", "마카다미아"],
+      "tasting_note_en": ["Caramel", "Walnut", "Macadamia"],
+      "keywords_kr": [
+        "과테말라",
+        "SHB",
+        "EP",
+        "카라멜",
+        "호두",
+        "마카다미아",
+        "은은한 산미",
+        "중강배전",
+        "뉴오리엔테",
+        "싱글오리진"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "SHB",
+        "EP",
+        "Caramel",
+        "Walnut",
+        "Macadamia",
+        "Soft acidity",
+        "Medium roast",
+        "New Oriente",
+        "Single origin"
+      ],
+      "summary_kr": "카라멜과 견과류 향미가 은은한 산미와 어우러지는 과테말라 뉴오리엔테 지역의 중배전 싱글오리진 커피",
+      "summary_en": "A medium roast single origin from Guatemala New Oriente, offering caramel and nutty notes balanced with mild acidity.",
+      "tags_kr": [
+        "카라멜",
+        "고소한 견과류",
+        "은은한 산미",
+        "싱글오리진",
+        "중배전",
+        "SHB",
+        "EP",
+        "과테말라"
+      ],
+      "tags_en": [
+        "Caramel",
+        "Nutty",
+        "Mild acidity",
+        "Single origin",
+        "Medium roast",
+        "SHB",
+        "EP",
+        "Guatemala"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "과테말라 안티구아 필라델피아 SHB",
+    "nameEn": "Guatemala Antigua Filadelfia SHB",
+    "thumbnailUrl": "과테말라_안티구아_필라델피아_SHB.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["과테말라_안티구아_필라델피아_SHB.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Guatemala",
+        "region": "Antigua",
+        "farm": "Filadelfia",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "과테말라 안티구아 지역의 필라델피아 농장에서 재배된 고산지대 아라비카 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": "",
+        "bean_ratio": "과테말라 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 7.0,
+      "body": 8.0,
+      "sweetness": 6.0,
+      "aroma": 6,
+      "tasting_note_kr": ["땅콩", "구운빵", "살구"],
+      "tasting_note_en": ["Peanut", "Toasted Bread", "Apricot"],
+      "keywords_kr": [
+        "과테말라",
+        "안티구아",
+        "SHB",
+        "필라델피아",
+        "땅콩",
+        "구운빵",
+        "살구",
+        "중후한 바디감",
+        "중배전",
+        "고산지 커피"
+      ],
+      "keywords_en": [
+        "Guatemala",
+        "Antigua",
+        "SHB",
+        "Filadelfia",
+        "Peanut",
+        "Toasted Bread",
+        "Apricot",
+        "Heavy Body",
+        "Medium Roast",
+        "High Altitude Coffee"
+      ],
+      "summary_kr": "중후한 바디감과 땅콩, 구운빵 향이 어우러진 과테말라 안티구아 필라델피아 SHB 커피",
+      "summary_en": "A SHB coffee from Filadelfia farm in Antigua, Guatemala, featuring a heavy body with notes of peanut, toasted bread, and apricot",
+      "tags_kr": [
+        "고산지 커피",
+        "안티구아",
+        "SHB",
+        "중배전",
+        "구운빵",
+        "땅콩",
+        "살구",
+        "싱글오리진",
+        "워시드"
+      ],
+      "tags_en": [
+        "High Altitude Coffee",
+        "Antigua",
+        "SHB",
+        "Medium Roast",
+        "Toasted Bread",
+        "Peanut",
+        "Apricot",
+        "Single Origin",
+        "Washed"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "니카라과 SHB",
+    "nameEn": "Nicaragua SHB",
+    "thumbnailUrl": "니카라과_SHB.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["니카라과_SHB.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Nicaragua",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1200,
+        "altitude_range": "",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "니카라과 고산지대에서 생산된 균형 잡힌 워시드 아라비카 커피"
+      },
+      "roasting": {
+        "roast_level": "중배전",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": "",
+        "bean_ratio": "니카라과 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.0,
+      "body": 7.0,
+      "sweetness": 6.0,
+      "aroma": 6,
+      "tasting_note_kr": ["라임", "초콜릿", "견과류"],
+      "tasting_note_en": ["Lime", "Chocolate", "Nutty"],
+      "keywords_kr": [
+        "니카라과",
+        "SHB",
+        "라임",
+        "초콜릿",
+        "견과류",
+        "중배전",
+        "워시드",
+        "고산지",
+        "균형 잡힌 커피"
+      ],
+      "keywords_en": [
+        "Nicaragua",
+        "SHB",
+        "Lime",
+        "Chocolate",
+        "Nutty",
+        "Medium Roast",
+        "Washed",
+        "High Altitude",
+        "Balanced Coffee"
+      ],
+      "summary_kr": "라임과 초콜릿의 조화, 견과류의 긴 여운이 특징인 니카라과 SHB 고산지 커피",
+      "summary_en": "A SHB high-altitude coffee from Nicaragua with a balanced profile of lime, chocolate, and a long nutty finish",
+      "tags_kr": [
+        "니카라과",
+        "SHB",
+        "라임",
+        "초콜릿",
+        "견과류",
+        "밝은 산미",
+        "중배전",
+        "고산지 커피",
+        "워시드"
+      ],
+      "tags_en": [
+        "Nicaragua",
+        "SHB",
+        "Lime",
+        "Chocolate",
+        "Nutty",
+        "Bright Acidity",
+        "Medium Roast",
+        "High Altitude Coffee",
+        "Washed"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "라오스 볼라벤 팍송 RAK 52",
+    "nameEn": "Laos Bolaven Paksong RAK 52",
+    "thumbnailUrl": "라오스_볼라벤_팍송_RAK_52.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["라오스_볼라벤_팍송_RAK_52.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Laos",
+        "region": "Paksong, Bolaven Plateau",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1300,
+        "altitude_range": "1,300m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "강수량 풍부한 비옥한 고지대에서 재배된 클린컵과 견과류 향미 중심의 아라비카 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "라오스 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "기본 세척 공정",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 7,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["견과류", "초콜릿", "베리류"],
+      "tasting_note_en": ["Nutty", "Chocolate", "Berries"],
+      "keywords_kr": [
+        "라오스",
+        "RAK 52",
+        "견과류",
+        "초콜릿",
+        "베리",
+        "중간 산미",
+        "중간 단맛",
+        "클린컵",
+        "워시드",
+        "미디엄 로스트"
+      ],
+      "keywords_en": [
+        "Laos",
+        "RAK 52",
+        "Nutty",
+        "Chocolate",
+        "Berries",
+        "Balanced Acidity",
+        "Balanced Sweetness",
+        "Clean Cup",
+        "Washed",
+        "Medium Roast"
+      ],
+      "summary_kr": "라오스 고지대에서 생산된 풍부한 바디감과 초콜릿, 견과류, 베리류의 조화로운 풍미를 갖춘 워시드 커피",
+      "summary_en": "A washed Arabica from the highlands of Laos with rich body and a clean cup of chocolate, nuts, and berries",
+      "tags_kr": [
+        "라오스",
+        "워시드",
+        "초콜릿",
+        "견과류",
+        "베리",
+        "중간 산미",
+        "미디엄 로스팅",
+        "클린컵"
+      ],
+      "tags_en": [
+        "Laos",
+        "Washed",
+        "Chocolate",
+        "Nutty",
+        "Berries",
+        "Balanced Acidity",
+        "Medium Roast",
+        "Clean Cup"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "르완다 인조부 슈프림",
+    "nameEn": "Rwanda Inzovu Supreme",
+    "thumbnailUrl": "르완다_인조부_슈프림.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["르완다_인조부_슈프림.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Rwanda",
+        "region": "Huye",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1500,
+        "altitude_range": "1,500m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "미네랄이 풍부한 Huye 고지에서 재배된 달콤하고 과일향 중심의 아라비카 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "르완다 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "세척 공정 (Fully Washed)",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 7,
+      "body": 5,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["땅콩", "망고", "단감"],
+      "tasting_note_en": ["Peanut", "Mango", "Persimmon"],
+      "keywords_kr": [
+        "르완다",
+        "인조부",
+        "망고",
+        "단감",
+        "땅콩",
+        "밝은 산미",
+        "달콤한 여운",
+        "클린컵",
+        "워시드"
+      ],
+      "keywords_en": [
+        "Rwanda",
+        "Inzovu",
+        "Mango",
+        "Persimmon",
+        "Peanut",
+        "Bright Acidity",
+        "Sweet Finish",
+        "Clean Cup",
+        "Washed"
+      ],
+      "summary_kr": "르완다 Huye 지역 고지대에서 재배된 망고, 단감, 땅콩의 향미가 어우러진 달콤하고 싱그러운 스페셜티 커피",
+      "summary_en": "A sweet and refreshing specialty coffee from Rwanda's Huye highlands with notes of mango, persimmon, and peanut",
+      "tags_kr": [
+        "르완다",
+        "워시드",
+        "스페셜티",
+        "싱글 오리진",
+        "망고",
+        "단감",
+        "땅콩",
+        "클린컵",
+        "밝은 산미"
+      ],
+      "tags_en": [
+        "Rwanda",
+        "Washed",
+        "Specialty",
+        "Single Origin",
+        "Mango",
+        "Persimmon",
+        "Peanut",
+        "Clean Cup",
+        "Bright Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "멕시코 SHG 알투라 토파시오",
+    "nameEn": "Mexico Altura Topacio SHG",
+    "thumbnailUrl": "멕시코_SHG_알투라_토파시오.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["멕시코_SHG_알투라_토파시오.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Mexico",
+        "region": "Chiapas",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1900,
+        "altitude_range": "1,900–2,200",
+        "variety": "",
+        "process": "Washed",
+        "origin_typicity": "균형잡힌 맛과 중후한 바디감의 고산지 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "Mexico 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["견과류", "자두", "화이트와인"],
+      "tasting_note_en": ["Nutty", "Plum", "White Wine"],
+      "keywords_kr": [
+        "멕시코",
+        "SHG",
+        "자두",
+        "견과류",
+        "화이트와인",
+        "중후한 바디감",
+        "클린컵",
+        "중간 산미"
+      ],
+      "keywords_en": [
+        "Mexico",
+        "SHG",
+        "Plum",
+        "Nutty",
+        "White Wine",
+        "Full Body",
+        "Clean Cup",
+        "Balanced Acidity"
+      ],
+      "summary_kr": "멕시코 고산지대에서 재배된 SHG 등급의 커피로, 자두와 견과류의 균형 잡힌 향미와 화이트와인 같은 깔끔한 마무리가 인상적인 싱글 오리진 커피입니다.",
+      "summary_en": "A high-grown SHG single origin from Chiapas, Mexico, featuring a balanced flavor of plum and nuts with a clean white wine-like finish.",
+      "tags_kr": [
+        "싱글 오리진",
+        "중간 바디",
+        "자두",
+        "화이트와인",
+        "견과류",
+        "SHG",
+        "멕시코",
+        "클린컵"
+      ],
+      "tags_en": [
+        "Single Origin",
+        "Medium Body",
+        "Plum",
+        "White Wine",
+        "Nutty",
+        "SHG",
+        "Mexico",
+        "Clean Cup"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "베트남 워시드 로부스타",
+    "nameEn": "Vietnam Washed Robusta",
+    "thumbnailUrl": "베트남_워시드_로부스타.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["베트남_워시드_로부스타.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Vietnam",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": null,
+        "altitude_range": "",
+        "variety": "Robusta",
+        "process": "Washed",
+        "origin_typicity": "강한 쓴맛과 높은 카페인 함량의 대중적인 로부스타"
+      },
+      "roasting": {
+        "roast_level": "다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "Robusta 100%",
+        "color_stage": "Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 1,
+      "body": 8,
+      "sweetness": 3,
+      "aroma": 5,
+      "tasting_note_kr": ["구수함"],
+      "tasting_note_en": ["Toasty"],
+      "keywords_kr": [
+        "로부스타",
+        "베트남",
+        "강한 쓴맛",
+        "높은 카페인",
+        "인스턴트 커피",
+        "블렌딩용",
+        "구수한 맛"
+      ],
+      "keywords_en": [
+        "Robusta",
+        "Vietnam",
+        "Strong Bitterness",
+        "High Caffeine",
+        "Instant Coffee",
+        "For Blending",
+        "Toasty"
+      ],
+      "summary_kr": "베트남산 워시드 로부스타 커피로, 높은 카페인과 강한 쓴맛이 특징이며 인스턴트 및 블렌딩용으로 많이 활용됩니다.",
+      "summary_en": "A washed Robusta coffee from Vietnam, known for its high caffeine and strong bitterness, widely used in instant and blending applications.",
+      "tags_kr": [
+        "로부스타",
+        "다크 로스트",
+        "강한 쓴맛",
+        "높은 카페인",
+        "베트남",
+        "인스턴트 커피",
+        "블렌딩"
+      ],
+      "tags_en": [
+        "Robusta",
+        "Dark Roast",
+        "Strong Bitterness",
+        "High Caffeine",
+        "Vietnam",
+        "Instant Coffee",
+        "Blending"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 베리초코 내추럴 스페셜티",
+    "nameEn": "Brazil Berrychoco Natural Specialty",
+    "thumbnailUrl": "브라질_베리초코_내추럴_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_베리초코_내추럴_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Manhuacu Dom Correia",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1310,
+        "altitude_range": "1,030~1,310",
+        "variety": "Arabica",
+        "process": "Natural",
+        "origin_typicity": "브라질 고지대 내추럴 가공의 진한 향미와 단맛이 조화된 스페셜티"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 7,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["베리류", "초콜렛", "헤이즐넛"],
+      "tasting_note_en": ["Berries", "Chocolate", "Hazelnut"],
+      "keywords_kr": [
+        "브라질",
+        "베리",
+        "초콜렛",
+        "헤이즐넛",
+        "스페셜티",
+        "내추럴",
+        "풍부한 바디감",
+        "단맛"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Berries",
+        "Chocolate",
+        "Hazelnut",
+        "Specialty",
+        "Natural Process",
+        "Rich Body",
+        "Sweetness"
+      ],
+      "summary_kr": "베리와 초콜렛의 풍미가 어우러진 브라질 고지대 스페셜티 내추럴 커피",
+      "summary_en": "A specialty natural coffee from the highlands of Brazil, harmonizing flavors of berries and chocolate with rich sweetness",
+      "tags_kr": ["브라질", "베리", "초콜릿", "스페셜티", "내추럴", "단맛", "바디감", "헤이즐넛"],
+      "tags_en": [
+        "Brazil",
+        "Berries",
+        "Chocolate",
+        "Specialty",
+        "Natural",
+        "Sweet",
+        "Body",
+        "Hazelnut"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 산토스",
+    "nameEn": "Brazil Santos",
+    "thumbnailUrl": "브라질_산토스.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_산토스.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Santos",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1300,
+        "altitude_range": "1,300m",
+        "variety": "Arabica",
+        "process": "Natural",
+        "origin_typicity": "부드럽고 균형잡힌 향미의 브라질 대표 상업 등급 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 5,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["시나몬", "땅콩", "카라멜"],
+      "tasting_note_en": ["Cinnamon", "Peanut", "Caramel"],
+      "keywords_kr": [
+        "브라질",
+        "산토스",
+        "시나몬",
+        "땅콩",
+        "카라멜",
+        "부드러움",
+        "밸런스",
+        "내추럴"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Santos",
+        "Cinnamon",
+        "Peanut",
+        "Caramel",
+        "Smooth",
+        "Balanced",
+        "Natural"
+      ],
+      "summary_kr": "시나몬과 카라멜 향미가 어우러진 부드럽고 균형잡힌 브라질 대표 커피",
+      "summary_en": "A smooth and balanced coffee from Brazil Santos with notes of cinnamon, peanut, and caramel",
+      "tags_kr": ["브라질", "산토스", "중간 바디", "땅콩", "카라멜", "내추럴", "부드러운 커피"],
+      "tags_en": [
+        "Brazil",
+        "Santos",
+        "Medium Body",
+        "Peanut",
+        "Caramel",
+        "Natural",
+        "Smooth Coffee"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 세라도 파인컵",
+    "nameEn": "Brazil Cerrado FineCup",
+    "thumbnailUrl": "브라질_세라도_파인컵.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_세라도_파인컵.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Cerrado",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1100,
+        "altitude_range": "1,100m",
+        "variety": "Arabica",
+        "process": "Natural",
+        "origin_typicity": "브라질 대표적인 Cerrado 지역의 달콤쌉싸름한 균형잡힌 원두"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 6,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["카카오", "땅콩", "호두", "카라멜"],
+      "tasting_note_en": ["Cacao", "Peanut", "Walnut", "Caramel"],
+      "keywords_kr": [
+        "브라질",
+        "세라도",
+        "파인컵",
+        "카카오",
+        "견과류",
+        "카라멜",
+        "내추럴",
+        "밸런스"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Cerrado",
+        "Fine Cup",
+        "Cacao",
+        "Nuts",
+        "Caramel",
+        "Natural",
+        "Balanced"
+      ],
+      "summary_kr": "카카오와 견과류 풍미가 인상적인 브라질 세라도의 균형잡힌 내추럴 커피",
+      "summary_en": "A balanced natural coffee from Brazil's Cerrado region with notable cacao and nutty flavors",
+      "tags_kr": ["브라질", "세라도", "카카오", "땅콩", "호두", "카라멜", "중간 산미", "밸런스"],
+      "tags_en": [
+        "Brazil",
+        "Cerrado",
+        "Cacao",
+        "Peanut",
+        "Walnut",
+        "Caramel",
+        "Medium Acidity",
+        "Balanced"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 실바 옐로우버번 내추럴 NYC FC",
+    "nameEn": "Brazil Silva Yellow Bourbon NYC FC",
+    "thumbnailUrl": "브라질_실바_옐로우버번_내추럴_NYC_FC.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_실바_옐로우버번_내추럴_NYC_FC.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Espirinto Santo",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m",
+        "variety": "Yellow Bourbon",
+        "process": "Natural",
+        "origin_typicity": "브라질 고지대에서 자란 옐로우버번 품종 특유의 균형잡힌 산미와 은은한 과일향"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "소규모 농장 특별 관리",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["복숭아", "캐슈넛", "자몽"],
+      "tasting_note_en": ["Peach", "Cashew Nut", "Grapefruit"],
+      "keywords_kr": [
+        "브라질",
+        "옐로우버번",
+        "내추럴",
+        "복숭아",
+        "자몽",
+        "캐슈넛",
+        "깔끔한 맛",
+        "중간 산미"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Yellow Bourbon",
+        "Natural",
+        "Peach",
+        "Grapefruit",
+        "Cashew Nut",
+        "Clean Taste",
+        "Medium Acidity"
+      ],
+      "summary_kr": "브라질 에스피리토산투 고지대에서 자란 옐로우버번 품종으로, 복숭아와 자몽의 산뜻한 과일향과 캐슈넛의 고소함이 어우러진 내추럴 커피",
+      "summary_en": "A natural Yellow Bourbon coffee from Brazil's Espirito Santo highlands, featuring fruity notes of peach and grapefruit balanced with nutty cashew",
+      "tags_kr": [
+        "브라질",
+        "옐로우버번",
+        "내추럴",
+        "복숭아",
+        "자몽",
+        "캐슈넛",
+        "중간 산미",
+        "클린컵"
+      ],
+      "tags_en": [
+        "Brazil",
+        "Yellow Bourbon",
+        "Natural",
+        "Peach",
+        "Grapefruit",
+        "Cashew Nut",
+        "Medium Acidity",
+        "Clean Cup"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 이파네마 고멧",
+    "nameEn": "Brazil Ipanema Gourmet",
+    "thumbnailUrl": "브라질_이파네마_고멧.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_이파네마_고멧.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Ipanema",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1080,
+        "altitude_range": "780m ~ 1,350m",
+        "variety": "",
+        "process": "Natural",
+        "origin_typicity": "브라질 대규모 스페셜티 전문 농장 이파네마에서 재배된 고소하고 바디감 풍부한 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "대규모 농장 관리 시스템",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 8,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["밤", "흑설탕", "카카오초콜릿"],
+      "tasting_note_en": ["Chestnut", "Brown Sugar", "Cacao Chocolate"],
+      "keywords_kr": [
+        "브라질",
+        "이파네마",
+        "밤",
+        "흑설탕",
+        "카카오",
+        "초콜릿",
+        "미디엄 다크",
+        "풍부한 바디감"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Ipanema",
+        "Chestnut",
+        "Brown Sugar",
+        "Cacao",
+        "Chocolate",
+        "Medium Dark",
+        "Rich Body"
+      ],
+      "summary_kr": "브라질 이파네마 농장에서 재배된 내추럴 커피로, 밤과 흑설탕, 카카오초콜릿의 깊고 달콤한 풍미와 풍부한 바디감이 특징",
+      "summary_en": "A natural coffee from Brazil's Ipanema farm, featuring rich notes of chestnut, brown sugar, and cacao chocolate with a full-bodied finish.",
+      "tags_kr": [
+        "브라질",
+        "내추럴",
+        "미디엄 다크",
+        "카카오",
+        "밤",
+        "흑설탕",
+        "풍부한 바디감",
+        "낮은 산미"
+      ],
+      "tags_en": [
+        "Brazil",
+        "Natural",
+        "Medium Dark",
+        "Cacao",
+        "Chestnut",
+        "Brown Sugar",
+        "Full Body",
+        "Low Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 카라멜라도 세미 워시드 스페셜티",
+    "nameEn": "Brazil Caramelado Semi Washed Specialty",
+    "thumbnailUrl": "브라질_카라멜라도_세미_워시드_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_카라멜라도_세미_워시드_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Manhuacu Dom Correia",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1310,
+        "altitude_range": "1,030m ~ 1,310m",
+        "variety": "",
+        "process": "Semi Washed",
+        "origin_typicity": "세미 워시드 공정을 적용한 브라질 고지대 커피로, 단맛과 바디감이 균형 잡힌 고품질 스페셜티 원두"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "세미 워시드",
+        "special_technique": "ShadowTree 기법 적용",
+        "must_usage": ""
+      },
+      "acidity": 5,
+      "body": 8,
+      "sweetness": 9,
+      "aroma": 8,
+      "tasting_note_kr": ["다크초콜릿", "밤꿀", "카라멜"],
+      "tasting_note_en": ["Dark Chocolate", "Chestnut Honey", "Caramel"],
+      "keywords_kr": [
+        "브라질",
+        "세미 워시드",
+        "다크초콜릿",
+        "밤꿀",
+        "카라멜",
+        "단맛",
+        "풍부한 바디감",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Semi Washed",
+        "Dark Chocolate",
+        "Chestnut Honey",
+        "Caramel",
+        "Sweetness",
+        "Rich Body",
+        "Specialty"
+      ],
+      "summary_kr": "브라질 도므 코헤이아 지역의 세미 워시드 커피로, 다크초콜릿과 밤꿀의 달콤함, 카라멜의 여운이 특징인 스페셜티 원두",
+      "summary_en": "A semi-washed specialty coffee from Manhuacu Dom Correia, Brazil, featuring sweet notes of dark chocolate, chestnut honey, and lingering caramel.",
+      "tags_kr": [
+        "브라질",
+        "세미 워시드",
+        "다크초콜릿",
+        "카라멜",
+        "밤꿀",
+        "스페셜티",
+        "풍부한 바디감",
+        "균형잡힌 단맛"
+      ],
+      "tags_en": [
+        "Brazil",
+        "Semi Washed",
+        "Dark Chocolate",
+        "Caramel",
+        "Chestnut Honey",
+        "Specialty",
+        "Rich Body",
+        "Balanced Sweetness"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브라질 퍼펙트 내추럴 스페셜티",
+    "nameEn": "Brazil Perfect Natural Specialty",
+    "thumbnailUrl": "브라질_퍼펙트_내추럴_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브라질_퍼펙트_내추럴_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Brazil",
+        "region": "Patrocinio de Cerrado",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1050,
+        "altitude_range": "900m ~ 1,200m",
+        "variety": "",
+        "process": "Natural",
+        "origin_typicity": "브라질 세라도 고지대에서 건식 방식으로 가공된 내추럴 스페셜티 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브라질 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "Natural",
+        "special_technique": "고대양열로 건조",
+        "must_usage": ""
+      },
+      "acidity": 5,
+      "body": 8,
+      "sweetness": 9,
+      "aroma": 7,
+      "tasting_note_kr": ["건포도", "땅콩", "쿠키"],
+      "tasting_note_en": ["Raisin", "Peanut", "Cookie"],
+      "keywords_kr": [
+        "브라질",
+        "내추럴",
+        "건포도",
+        "땅콩",
+        "쿠키",
+        "세라도",
+        "스페셜티",
+        "풍부한 바디감"
+      ],
+      "keywords_en": [
+        "Brazil",
+        "Natural",
+        "Raisin",
+        "Peanut",
+        "Cookie",
+        "Cerrado",
+        "Specialty",
+        "Rich Body"
+      ],
+      "summary_kr": "브라질 세라도 고지대에서 태양열 건조된 내추럴 스페셜티로, 건포도와 땅콩의 고소함, 쿠키 같은 단맛이 특징",
+      "summary_en": "A natural specialty coffee from the Cerrado highlands of Brazil, featuring sweet raisin, nutty peanut, and cookie-like flavors.",
+      "tags_kr": ["브라질", "내추럴", "스페셜티", "건포도", "땅콩", "쿠키", "풍부한 바디감"],
+      "tags_en": ["Brazil", "Natural", "Specialty", "Raisin", "Peanut", "Cookie", "Rich Body"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "브룬디 카얀자 AA",
+    "nameEn": "Burundi Kayanza AA",
+    "thumbnailUrl": "브룬디_카얀자_AA.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["브룬디_카얀자_AA.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Burundi",
+        "region": "Kayanza",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1880,
+        "altitude_range": "1,880m",
+        "variety": "",
+        "process": "Washed",
+        "origin_typicity": "높은 고도에서 자란 브룬디 워시드 커피로 뛰어난 산미와 청량감이 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "브룬디 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "CoE 경매급 원두",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["갈색설탕", "땅콩", "자몽"],
+      "tasting_note_en": ["Brown Sugar", "Peanut", "Grapefruit"],
+      "keywords_kr": ["브룬디", "카얀자", "갈색설탕", "자몽", "땅콩", "산미", "스페셜티", "워시드"],
+      "keywords_en": [
+        "Burundi",
+        "Kayanza",
+        "Brown Sugar",
+        "Grapefruit",
+        "Peanut",
+        "Acidity",
+        "Specialty",
+        "Washed"
+      ],
+      "summary_kr": "브룬디 카얀자 고지에서 생산된 워시드 커피로, 자몽과 갈색설탕의 밸런스가 뛰어난 스페셜티",
+      "summary_en": "A washed specialty coffee from Burundi's Kayanza highlands, featuring a bright balance of grapefruit and brown sugar.",
+      "tags_kr": ["브룬디", "스페셜티", "산미", "자몽", "갈색설탕", "워시드", "카얀자"],
+      "tags_en": [
+        "Burundi",
+        "Specialty",
+        "Acidity",
+        "Grapefruit",
+        "Brown Sugar",
+        "Washed",
+        "Kayanza"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에콰도르 로하 프로카페 SHB EP",
+    "nameEn": "Ecuador Loja Procafe SHB EP",
+    "thumbnailUrl": "에콰도르_로하_프로카페_SHB_EP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에콰도르_로하_프로카페_SHB_EP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ecuador",
+        "region": "El Guabo, Esoindola, Loja",
+        "farm": "",
+        "producer": "Procafe",
+        "altitude_m": 850,
+        "altitude_range": "500m ~ 1,200m",
+        "variety": "",
+        "process": "Natural",
+        "origin_typicity": "에콰도르 로하 지방에서 자연건조 방식으로 가공된 스페셜티 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에콰도르 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "Natural",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["오렌지", "장미", "메이플 시럽"],
+      "tasting_note_en": ["Orange", "Rose", "Maple Syrup"],
+      "keywords_kr": [
+        "에콰도르",
+        "로하",
+        "장미",
+        "오렌지",
+        "메이플 시럽",
+        "꽃향",
+        "스페셜티",
+        "내추럴"
+      ],
+      "keywords_en": [
+        "Ecuador",
+        "Loja",
+        "Rose",
+        "Orange",
+        "Maple Syrup",
+        "Floral",
+        "Specialty",
+        "Natural"
+      ],
+      "summary_kr": "에콰도르 로하 지방에서 생산된 내추럴 스페셜티 커피로, 오렌지의 상큼함과 장미향, 메이플 시럽의 단맛이 어우러진 부드러운 풍미",
+      "summary_en": "A natural specialty coffee from Ecuador's Loja region, featuring citrusy orange, floral rose, and sweet maple syrup in a silky mouthfeel.",
+      "tags_kr": [
+        "에콰도르",
+        "스페셜티",
+        "장미",
+        "오렌지",
+        "내추럴",
+        "꽃향",
+        "메이플 시럽",
+        "로하"
+      ],
+      "tags_en": [
+        "Ecuador",
+        "Specialty",
+        "Rose",
+        "Orange",
+        "Natural",
+        "Floral",
+        "Maple Syrup",
+        "Loja"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 G1 케파",
+    "nameEn": "Ethiopia G1 Kaffa Natural",
+    "thumbnailUrl": "에티오피아_G1_케파.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_G1_케파.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Kaffa",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "1,800m",
+        "variety": "Arabica, Typica",
+        "process": "Natural",
+        "origin_typicity": "에티오피아 카파 지역에서 생산된 내추럴 프로세스의 G1 등급 원두로 꽃향과 과일향이 조화롭게 어우러짐"
+      },
+      "roasting": {
+        "roast_level": "라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "Natural",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 4,
+      "sweetness": 8,
+      "aroma": 9,
+      "tasting_note_kr": ["딸기", "꽃향기", "곡물"],
+      "tasting_note_en": ["Strawberry", "Floral", "Grain"],
+      "keywords_kr": ["에티오피아", "케파", "딸기", "꽃향기", "곡물", "G1", "내추럴", "산미"],
+      "keywords_en": [
+        "Ethiopia",
+        "Kaffa",
+        "Strawberry",
+        "Floral",
+        "Grain",
+        "G1",
+        "Natural",
+        "Acidity"
+      ],
+      "summary_kr": "에티오피아 카파 지역 G1 등급 원두로, 꽃향과 딸기의 과일향이 돋보이는 산뜻한 라이트 로스트 커피",
+      "summary_en": "A G1-grade natural coffee from Ethiopia's Kaffa region, featuring floral and strawberry notes with bright acidity in a light roast.",
+      "tags_kr": [
+        "에티오피아",
+        "G1",
+        "내추럴",
+        "꽃향",
+        "딸기",
+        "곡물",
+        "라이트 로스트",
+        "산뜻한 산미"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "G1",
+        "Natural",
+        "Floral",
+        "Strawberry",
+        "Grain",
+        "Light Roast",
+        "Bright Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 G1 훈쿠테 내추럴",
+    "nameEn": "Ethiopia G1 Hunkute Natural",
+    "thumbnailUrl": "에티오피아_G1_훈쿠테_내추럴.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_G1_훈쿠테_내추럴.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Hunkute",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "1,800m",
+        "variety": "Arabica, Typica",
+        "process": "Natural",
+        "origin_typicity": "에티오피아 훈쿠테 지역에서 재배된 G1 등급 내추럴 커피로, 플로럴하고 깔끔한 맛이 특징"
+      },
+      "roasting": {
+        "roast_level": "라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "Natural",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 9,
+      "tasting_note_kr": ["히비스커스", "자스민", "자두"],
+      "tasting_note_en": ["Hibiscus", "Jasmine", "Plum"],
+      "keywords_kr": [
+        "에티오피아",
+        "훈쿠테",
+        "히비스커스",
+        "자스민",
+        "자두",
+        "내추럴",
+        "G1",
+        "산미"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Hunkute",
+        "Hibiscus",
+        "Jasmine",
+        "Plum",
+        "Natural",
+        "G1",
+        "Acidity"
+      ],
+      "summary_kr": "에티오피아 훈쿠테 고지대에서 재배된 G1 내추럴 원두로, 히비스커스와 자스민 향, 자두의 깔끔한 단맛이 특징",
+      "summary_en": "A G1-grade natural coffee from Ethiopia's Hunkute highlands, featuring floral hibiscus and jasmine aromas with clean plum sweetness.",
+      "tags_kr": ["에티오피아", "훈쿠테", "히비스커스", "자스민", "자두", "G1", "산미", "플로럴"],
+      "tags_en": ["Ethiopia", "Hunkute", "Hibiscus", "Jasmine", "Plum", "G1", "Floral", "Acidity"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 G2 시다모 스위스워터 디카프",
+    "nameEn": "Ethiopia G2 Sidamo Swiss Water Decaf",
+    "thumbnailUrl": "에티오피아_G2_시다모_스위스워터_디카프.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_G2_시다모_스위스워터_디카프.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": true,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Sidamo",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "1,700m ~ 2,000m",
+        "variety": "Heirloom",
+        "process": "SW Decaf",
+        "origin_typicity": "스위스 워터 프로세스를 적용한 시다모 G2 디카페인 원두로, 향미를 잘 보존한 깔끔한 디카페인 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "SW Decaf",
+        "special_technique": "Swiss Water 방식",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 7,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["다크초콜릿", "레몬그라스", "호밀빵"],
+      "tasting_note_en": ["Dark Chocolate", "Lemongrass", "Rye Bread"],
+      "keywords_kr": [
+        "에티오피아",
+        "시다모",
+        "디카페인",
+        "다크초콜릿",
+        "레몬그라스",
+        "호밀빵",
+        "스위스워터",
+        "G2"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Sidamo",
+        "Decaf",
+        "Dark Chocolate",
+        "Lemongrass",
+        "Rye Bread",
+        "Swiss Water",
+        "G2"
+      ],
+      "summary_kr": "에티오피아 시다모 고지대의 G2 등급 디카페인 원두로, 다크초콜릿과 허브향이 조화로운 균형 잡힌 커피",
+      "summary_en": "A Swiss Water-processed decaf G2 coffee from Sidamo, Ethiopia, offering balanced notes of dark chocolate, lemongrass, and rye bread.",
+      "tags_kr": [
+        "디카페인",
+        "에티오피아",
+        "시다모",
+        "다크초콜릿",
+        "레몬그라스",
+        "감초",
+        "스페셜티",
+        "스위스워터"
+      ],
+      "tags_en": [
+        "Decaf",
+        "Ethiopia",
+        "Sidamo",
+        "Dark Chocolate",
+        "Lemongrass",
+        "Licorice",
+        "Specialty",
+        "Swiss Water"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 모모라 내추럴 스페셜티",
+    "nameEn": "Ethiopia Mormora Natural Specialty",
+    "thumbnailUrl": "에티오피아_모모라_내추럴_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_모모라_내추럴_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Ethiopia / 2,026m",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2026,
+        "altitude_range": "2,026m",
+        "variety": "Heirloom",
+        "process": "Natural",
+        "origin_typicity": "환상적인 후미와 특유의 꽃향이 인상적인 에티오피아 고지대 스페셜티 내추럴 커피"
+      },
+      "roasting": {
+        "roast_level": "라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "내추럴",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 7,
+      "sweetness": 9,
+      "aroma": 9,
+      "tasting_note_kr": ["딸기", "꿀", "살구"],
+      "tasting_note_en": ["Strawberry", "Honey", "Apricot"],
+      "keywords_kr": [
+        "에티오피아",
+        "모모라",
+        "내추럴",
+        "딸기",
+        "꿀",
+        "살구",
+        "꽃향",
+        "산미",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Momora",
+        "Natural",
+        "Strawberry",
+        "Honey",
+        "Apricot",
+        "Floral",
+        "Acidity",
+        "Specialty"
+      ],
+      "summary_kr": "2,000m 고도에서 재배된 에티오피아 모모라 내추럴 커피로, 딸기와 살구의 과일향과 꿀의 달콤함, 꽃향이 풍부한 스페셜티 원두",
+      "summary_en": "Ethiopian Momora Natural coffee grown at 2,000m, featuring rich strawberry and apricot notes, honey sweetness, and floral fragrance.",
+      "tags_kr": [
+        "에티오피아",
+        "모모라",
+        "내추럴",
+        "딸기",
+        "살구",
+        "꿀",
+        "꽃향",
+        "밝은 산미",
+        "스페셜티"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Momora",
+        "Natural",
+        "Strawberry",
+        "Apricot",
+        "Honey",
+        "Floral",
+        "Bright Acidity",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 모카 하라 G4",
+    "nameEn": "Ethiopia Mocha Hara G4",
+    "thumbnailUrl": "에티오피아_모카_하라_G4.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_모카_하라_G4.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Ethiopia / 2,026m",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2026,
+        "altitude_range": "2,026m",
+        "variety": "Heirloom",
+        "process": "Natural",
+        "origin_typicity": "과일초콜릿 같은 풍미와 당밀의 깊은 단맛이 조화로운 에티오피아 내추럴 커피"
+      },
+      "roasting": {
+        "roast_level": "라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "내추럴",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 7,
+      "sweetness": 6,
+      "aroma": 8,
+      "tasting_note_kr": ["갈색설탕", "당밀", "적포도주"],
+      "tasting_note_en": ["Brown Sugar", "Molasses", "Red Wine"],
+      "keywords_kr": [
+        "에티오피아",
+        "모카",
+        "하라",
+        "내추럴",
+        "갈색설탕",
+        "당밀",
+        "적포도주",
+        "산미"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Mocha",
+        "Harrar",
+        "Natural",
+        "Brown Sugar",
+        "Molasses",
+        "Red Wine",
+        "Acidity"
+      ],
+      "summary_kr": "에티오피아 하라 지역의 내추럴 G4 등급 원두로, 당밀과 갈색설탕의 단맛, 적포도주의 과일 풍미가 특징",
+      "summary_en": "Natural G4 Ethiopian Harrar coffee featuring the sweetness of molasses and brown sugar with fruity red wine notes.",
+      "tags_kr": [
+        "에티오피아",
+        "하라",
+        "내추럴",
+        "당밀",
+        "갈색설탕",
+        "적포도주",
+        "과일초콜릿",
+        "산미"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Harrar",
+        "Natural",
+        "Molasses",
+        "Brown Sugar",
+        "Red Wine",
+        "Fruity Chocolate",
+        "Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 시다모 G2",
+    "nameEn": "Ethiopia Sidamo G2",
+    "thumbnailUrl": "에티오피아_시다모_G2.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_시다모_G2.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Sidamo, Gedio",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1850,
+        "altitude_range": "1,850m",
+        "variety": "Heirloom",
+        "process": "Washed",
+        "origin_typicity": "고소한 카카오와 밝은 산미, 레몬과 와인의 조화가 인상적인 시다모 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Light"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 8,
+      "tasting_note_kr": ["카카오", "레몬", "적포도주"],
+      "tasting_note_en": ["Cacao", "Lemon", "Red Wine"],
+      "keywords_kr": [
+        "에티오피아",
+        "시다모",
+        "워시드",
+        "카카오",
+        "레몬",
+        "레드와인",
+        "산미",
+        "깔끔한 바디"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Sidamo",
+        "Washed",
+        "Cacao",
+        "Lemon",
+        "Red Wine",
+        "Acidity",
+        "Clean Body"
+      ],
+      "summary_kr": "시다모 지역에서 재배된 G2 등급의 워시드 커피로, 카카오와 레몬의 고소하고 밝은 풍미, 적포도주의 여운이 조화를 이루는 원두",
+      "summary_en": "G2 washed coffee from Sidamo, Ethiopia, featuring bright acidity with cacao and lemon notes, and a lingering red wine finish.",
+      "tags_kr": [
+        "에티오피아",
+        "시다모",
+        "워시드",
+        "카카오",
+        "레몬",
+        "레드와인",
+        "밝은 산미",
+        "깔끔한 바디"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Sidamo",
+        "Washed",
+        "Cacao",
+        "Lemon",
+        "Red Wine",
+        "Bright Acidity",
+        "Clean Body"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 시다모 구지 G1",
+    "nameEn": "Ethiopia Sidamo Guji G1",
+    "thumbnailUrl": "에티오피아_시다모_구지_G1.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_시다모_구지_G1.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Sidamo Guji",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1850,
+        "altitude_range": "1,850m",
+        "variety": "Heirloom",
+        "process": "Washed",
+        "origin_typicity": "산미와 단맛의 밸런스가 뛰어난 시다모 구지 지역의 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["블랙베리", "아몬드", "다크 초콜릿"],
+      "tasting_note_en": ["Blackberry", "Almond", "Dark Chocolate"],
+      "keywords_kr": [
+        "에티오피아",
+        "구지",
+        "워시드",
+        "블랙베리",
+        "아몬드",
+        "다크초콜릿",
+        "산미",
+        "부드러움"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Guji",
+        "Washed",
+        "Blackberry",
+        "Almond",
+        "Dark Chocolate",
+        "Acidity",
+        "Smooth"
+      ],
+      "summary_kr": "에티오피아 시다모 구지 G1은 블랙베리와 다크 초콜릿의 조화에 산뜻한 산미와 부드러운 바디감을 가진 스페셜티 커피입니다.",
+      "summary_en": "Ethiopia Sidamo Guji G1 is a specialty coffee with a balance of bright acidity and smooth body, highlighted by notes of blackberry and dark chocolate.",
+      "tags_kr": [
+        "에티오피아",
+        "시다모",
+        "구지",
+        "워시드",
+        "과일향",
+        "다크초콜릿",
+        "부드러움",
+        "산미"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Sidamo",
+        "Guji",
+        "Washed",
+        "Fruity",
+        "Dark Chocolate",
+        "Smooth",
+        "Acidity"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 예가체프",
+    "nameEn": "Ethiopia Yirgacheffe",
+    "thumbnailUrl": "에티오피아_예가체프.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_예가체프.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Yirgacheffe",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2000,
+        "altitude_range": "1,770m ~ 2,200m",
+        "variety": "Heirloom",
+        "process": "Washed",
+        "origin_typicity": "화사한 향미와 깔끔한 산미로 유명한 예가체프 지역의 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 8,
+      "sweetness": 6,
+      "aroma": 8,
+      "tasting_note_kr": ["라임", "봄의 꽃", "메이플 시럽"],
+      "tasting_note_en": ["Lime", "Spring Flowers", "Maple Syrup"],
+      "keywords_kr": [
+        "에티오피아",
+        "예가체프",
+        "워시드",
+        "라임",
+        "꽃향",
+        "메이플 시럽",
+        "산미",
+        "클린컵"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "Washed",
+        "Lime",
+        "Floral",
+        "Maple Syrup",
+        "Acidity",
+        "Clean Cup"
+      ],
+      "summary_kr": "에티오피아 예가체프는 라임과 꽃향의 향미가 어우러지고, 깔끔한 산미와 부드러운 단맛을 가진 고급스러운 워시드 커피입니다.",
+      "summary_en": "Ethiopia Yirgacheffe is a premium washed coffee known for its lime and floral aroma, bright acidity, and smooth sweetness.",
+      "tags_kr": [
+        "에티오피아",
+        "예가체프",
+        "라임",
+        "꽃향",
+        "산미",
+        "클린컵",
+        "여성스러움",
+        "메이플 시럽"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "Lime",
+        "Floral",
+        "Acidity",
+        "Clean Cup",
+        "Elegant",
+        "Maple Syrup"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 예가체프 G2 띠에라",
+    "nameEn": "Ethiopia Yirgacheffe G2 Tierra",
+    "thumbnailUrl": "에티오피아_예가체프_G2_띠에라.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_예가체프_G2_띠에라.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Yirgacheffe",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2200,
+        "altitude_range": "2,200m",
+        "variety": "Heirloom",
+        "process": "Washed",
+        "origin_typicity": "높은 고도에서 재배되어 꽃향과 과일향, 단맛이 강조된 예가체프 워시드 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["바닐라", "자스민", "갈색설탕"],
+      "tasting_note_en": ["Vanilla", "Jasmine", "Brown Sugar"],
+      "keywords_kr": [
+        "에티오피아",
+        "예가체프",
+        "G2",
+        "워시드",
+        "바닐라",
+        "자스민",
+        "갈색설탕",
+        "꽃향",
+        "달콤함"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "G2",
+        "Washed",
+        "Vanilla",
+        "Jasmine",
+        "Brown Sugar",
+        "Floral",
+        "Sweetness"
+      ],
+      "summary_kr": "예가체프 G2 띠에라는 바닐라와 자스민, 갈색설탕의 부드러운 단맛과 꽃향이 매력적인 고산지 커피입니다.",
+      "summary_en": "Yirgacheffe G2 Tierra is a high-grown Ethiopian washed coffee with soft sweetness of vanilla and jasmine, accented by brown sugar and floral aromas.",
+      "tags_kr": [
+        "에티오피아",
+        "예가체프",
+        "G2",
+        "바닐라",
+        "자스민",
+        "워시드",
+        "플로럴",
+        "달콤한 후미"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "G2",
+        "Vanilla",
+        "Jasmine",
+        "Washed",
+        "Floral",
+        "Sweet Finish"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "에티오피아 코케 허니 예가체프 G1",
+    "nameEn": "Ethiopia Koke Honey Yirgacheffe G1",
+    "thumbnailUrl": "에티오피아_코케_허니_예가체프_G1.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["에티오피아_코케_허니_예가체프_G1.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Ethiopia",
+        "region": "Koke, SNNP",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1960,
+        "altitude_range": "1,960m",
+        "variety": "Heirloom",
+        "process": "Honey",
+        "origin_typicity": "허니 프로세싱을 거친 예가체프 G1 등급의 고품질 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "에티오피아 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "허니 프로세스",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 4,
+      "sweetness": 10,
+      "aroma": 8,
+      "tasting_note_kr": ["라즈베리", "꿀", "스파클링 와인"],
+      "tasting_note_en": ["Raspberry", "Honey", "Sparkling Wine"],
+      "keywords_kr": [
+        "에티오피아",
+        "예가체프",
+        "허니",
+        "라즈베리",
+        "꿀",
+        "스파클링 와인",
+        "상큼한 단맛",
+        "G1"
+      ],
+      "keywords_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "Honey",
+        "Raspberry",
+        "Honey",
+        "Sparkling Wine",
+        "Bright Sweetness",
+        "G1"
+      ],
+      "summary_kr": "에티오피아 예가체프 코케 지역의 허니 프로세스 G1 원두로, 라즈베리와 꿀의 달콤함, 스파클링 와인의 상큼한 뉘앙스가 조화를 이루는 커피",
+      "summary_en": "A high-quality G1 honey-processed coffee from Yirgacheffe Koke, Ethiopia, featuring a sweet blend of raspberry and honey with a sparkling wine finish.",
+      "tags_kr": [
+        "에티오피아",
+        "예가체프",
+        "허니",
+        "라즈베리",
+        "꿀",
+        "스파클링 와인",
+        "단맛",
+        "산뜻함"
+      ],
+      "tags_en": [
+        "Ethiopia",
+        "Yirgacheffe",
+        "Honey",
+        "Raspberry",
+        "Honey",
+        "Sparkling Wine",
+        "Sweetness",
+        "Fresh"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "엘살바도르 SHG EP",
+    "nameEn": "El Salvador SHG EP",
+    "thumbnailUrl": "엘살바도르_SHG_EP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["엘살바도르_SHG_EP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "El Salvador",
+        "region": "Apaneca",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1250,
+        "altitude_range": "1,250m",
+        "variety": "Bourbon",
+        "process": "Washed",
+        "origin_typicity": "고소한 향미와 부드러운 바디감을 갖춘 엘살바도르 SHG 등급 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "엘살바도르 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["씨리얼", "마카다미아", "호두파이"],
+      "tasting_note_en": ["Cereal", "Macadamia", "Pecan Pie"],
+      "keywords_kr": [
+        "엘살바도르",
+        "SHG",
+        "씨리얼",
+        "마카다미아",
+        "호두파이",
+        "고소한 향미",
+        "부드러운 바디감"
+      ],
+      "keywords_en": [
+        "El Salvador",
+        "SHG",
+        "Cereal",
+        "Macadamia",
+        "Pecan Pie",
+        "Nutty",
+        "Smooth Body"
+      ],
+      "summary_kr": "엘살바도르 아파네카 지역에서 생산된 SHG 워시드 커피로, 씨리얼과 견과류의 고소함과 부드러운 바디감이 특징",
+      "summary_en": "A SHG washed coffee from Apaneca, El Salvador, featuring nutty cereal notes with a smooth and creamy body.",
+      "tags_kr": ["엘살바도르", "워시드", "SHG", "마카다미아", "씨리얼", "고소함", "부드러움"],
+      "tags_en": ["El Salvador", "Washed", "SHG", "Macadamia", "Cereal", "Nutty", "Smooth"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "온두라스 SHG",
+    "nameEn": "Honduras SHG",
+    "thumbnailUrl": "온두라스_SHG.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["온두라스_SHG.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Honduras",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1350,
+        "altitude_range": "1,350m ~ 2,000m",
+        "variety": "Caturra",
+        "process": "Wet Method",
+        "origin_typicity": "부드러운 산미와 고소한 향미가 조화를 이루는 온두라스 SHG 등급 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "온두라스 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["카라멜", "청사과", "피칸"],
+      "tasting_note_en": ["Caramel", "Green Apple", "Pecan"],
+      "keywords_kr": ["온두라스", "SHG", "카라멜", "청사과", "피칸", "밸런스", "부드러운 산미"],
+      "keywords_en": [
+        "Honduras",
+        "SHG",
+        "Caramel",
+        "Green Apple",
+        "Pecan",
+        "Balanced",
+        "Smooth Acidity"
+      ],
+      "summary_kr": "온두라스 SHG 커피는 카라멜의 단맛과 청사과의 산미, 피칸의 고소함이 어우러진 균형 잡힌 향미의 원두",
+      "summary_en": "A balanced Honduras SHG coffee featuring caramel sweetness, green apple acidity, and nutty pecan finish.",
+      "tags_kr": ["온두라스", "SHG", "카라멜", "청사과", "피칸", "부드러운 산미", "밸런스"],
+      "tags_en": [
+        "Honduras",
+        "SHG",
+        "Caramel",
+        "Green Apple",
+        "Pecan",
+        "Smooth Acidity",
+        "Balanced"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "우간다 찬조 ToH 2위",
+    "nameEn": "Uganda Chazo ToH No.2",
+    "thumbnailUrl": "우간다_찬조_ToH_No2.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["우간다_찬조_ToH_No2.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Uganda",
+        "region": "Mt.Elgon",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1980,
+        "altitude_range": "",
+        "variety": "Bourbon",
+        "process": "Washed",
+        "origin_typicity": "엘곤산에서 재배된 부르봉 품종의 워시드 커피로 깔끔한 산미와 단맛의 조화가 뛰어남"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "우간다 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "ToH 2위 수상",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["꿀", "건자두", "초콜릿"],
+      "tasting_note_en": ["Honey", "Dried Plum", "Chocolate"],
+      "keywords_kr": ["우간다", "ToH", "꿀", "건자두", "초콜릿", "산미", "단맛", "스페셜티"],
+      "keywords_en": [
+        "Uganda",
+        "ToH",
+        "Honey",
+        "Dried Plum",
+        "Chocolate",
+        "Acidity",
+        "Sweetness",
+        "Specialty"
+      ],
+      "summary_kr": "엘곤산에서 재배된 워시드 부르봉 커피로 꿀과 건자두, 초콜릿의 부드러운 단맛과 풍부한 바디감이 어우러진 스페셜티 커피",
+      "summary_en": "A specialty washed Bourbon coffee from Mt. Elgon, Uganda, offering smooth sweetness of honey, dried plum, and chocolate with a rich body.",
+      "tags_kr": [
+        "우간다",
+        "ToH",
+        "부르봉",
+        "워시드",
+        "꿀",
+        "건자두",
+        "초콜릿",
+        "단맛",
+        "스페셜티"
+      ],
+      "tags_en": [
+        "Uganda",
+        "ToH",
+        "Bourbon",
+        "Washed",
+        "Honey",
+        "Dried Plum",
+        "Chocolate",
+        "Sweetness",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "인도 로부스타 카피로얄",
+    "nameEn": "India Robusta Kaapi Royal",
+    "thumbnailUrl": "인도_로부스타_카피로얄.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["인도_로부스타_카피로얄.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "India",
+        "region": "",
+        "farm": "",
+        "producer": "",
+        "altitude_m": null,
+        "altitude_range": "",
+        "variety": "Robusta",
+        "process": "",
+        "origin_typicity": "카피로얄 등급의 스페셜티 로부스타로 높은 카페인 함량과 깊은 바디감이 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "인도 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 9,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["견과류"],
+      "tasting_note_en": ["Nutty"],
+      "keywords_kr": [
+        "인도",
+        "로부스타",
+        "카피로얄",
+        "스페셜티",
+        "카페인",
+        "견과류",
+        "묵직한 바디감"
+      ],
+      "keywords_en": [
+        "India",
+        "Robusta",
+        "Kaapi Royale",
+        "Specialty",
+        "Caffeine",
+        "Nutty",
+        "Full Body"
+      ],
+      "summary_kr": "카페인 함량이 높은 인도산 로부스타 커피로, 견과류의 고소함과 묵직한 단맛이 인상적인 스페셜티 원두",
+      "summary_en": "A high-caffeine Indian Robusta specialty coffee with a nutty aroma and a deep, heavy body.",
+      "tags_kr": ["인도", "로부스타", "카피로얄", "카페인", "견과류", "바디감", "스페셜티"],
+      "tags_en": ["India", "Robusta", "Kaapi Royale", "Caffeine", "Nutty", "Body", "Specialty"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "인도네시아 G1 자바",
+    "nameEn": "Indonesia G1 Java",
+    "thumbnailUrl": "인도네시아_G1_자바.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["인도네시아_G1_자바.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Indonesia",
+        "region": "Java",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "",
+        "variety": "Catimor, Timor Hybrid, Others",
+        "process": "Washed",
+        "origin_typicity": "자바섬 고지대에서 재배된 커피로, 적은 산미와 깊은 바디감이 조화된 고급 인도네시아 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "인도네시아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 8,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["군밤", "갈색설탕", "카카오닙스"],
+      "tasting_note_en": ["Roasted Chestnut", "Brown Sugar", "Cacao Nibs"],
+      "keywords_kr": [
+        "인도네시아",
+        "자바",
+        "군밤",
+        "갈색설탕",
+        "카카오닙스",
+        "고소함",
+        "바디감",
+        "워시드"
+      ],
+      "keywords_en": [
+        "Indonesia",
+        "Java",
+        "Roasted Chestnut",
+        "Brown Sugar",
+        "Cacao Nibs",
+        "Nutty",
+        "Body",
+        "Washed"
+      ],
+      "summary_kr": "자바 고지대에서 생산된 인도네시아 G1 워시드 커피로, 군밤과 갈색설탕의 고소한 단맛과 카카오닙스의 여운이 인상적",
+      "summary_en": "A G1 washed coffee from the highlands of Java, Indonesia, offering nutty sweetness of roasted chestnut and brown sugar, with a lingering cacao nibs finish.",
+      "tags_kr": [
+        "인도네시아",
+        "자바",
+        "워시드",
+        "군밤",
+        "갈색설탕",
+        "카카오닙스",
+        "바디감",
+        "고소함"
+      ],
+      "tags_en": [
+        "Indonesia",
+        "Java",
+        "Washed",
+        "Roasted Chestnut",
+        "Brown Sugar",
+        "Cacao Nibs",
+        "Body",
+        "Nutty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "인도네시아 만델링",
+    "nameEn": "Indonesia Mandeling",
+    "thumbnailUrl": "인도네시아_만델링.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["인도네시아_만델링.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Indonesia",
+        "region": "Sumatra",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1500,
+        "altitude_range": "1,200m ~ 1,500m",
+        "variety": "Catimor, Typica, Sigararutang",
+        "process": "Semi-Washed",
+        "origin_typicity": "수마트라 고지대에서 재배된 세미 워시드 커피로, 부드러운 산미와 고소한 견과류 풍미가 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "인도네시아 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "Semi-Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 8,
+      "sweetness": 8,
+      "aroma": 7,
+      "tasting_note_kr": ["호두", "아몬드", "밀크 초콜릿"],
+      "tasting_note_en": ["Walnut", "Almond", "Milk Chocolate"],
+      "keywords_kr": [
+        "인도네시아",
+        "만델링",
+        "호두",
+        "아몬드",
+        "밀크 초콜릿",
+        "세미 워시드",
+        "풍부한 바디감",
+        "고소한 여운"
+      ],
+      "keywords_en": [
+        "Indonesia",
+        "Mandheling",
+        "Walnut",
+        "Almond",
+        "Milk Chocolate",
+        "Semi-Washed",
+        "Rich Body",
+        "Nutty Finish"
+      ],
+      "summary_kr": "수마트라 고지대에서 재배된 인도네시아 만델링은 호두와 아몬드의 고소함과 밀크 초콜릿의 달콤함이 조화로운 커피",
+      "summary_en": "Indonesian Mandheling from the highlands of Sumatra features nutty notes of walnut and almond, balanced with sweet milk chocolate in a semi-washed profile.",
+      "tags_kr": [
+        "인도네시아",
+        "만델링",
+        "세미 워시드",
+        "호두",
+        "아몬드",
+        "밀크 초콜릿",
+        "고소한 단맛",
+        "유럽 인기"
+      ],
+      "tags_en": [
+        "Indonesia",
+        "Mandheling",
+        "Semi-Washed",
+        "Walnut",
+        "Almond",
+        "Milk Chocolate",
+        "Nutty",
+        "Popular in Europe"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 AA TOP",
+    "nameEn": "Kenya AA TOP",
+    "thumbnailUrl": "케냐_AA_TOP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_AA_TOP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Kirinyaga",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1600,
+        "altitude_range": "1,600m",
+        "variety": "SL28, SL34, Ruiru11",
+        "process": "Washed",
+        "origin_typicity": "AA 등급의 대립종으로, 선명한 산미와 진한 바디감, 복합적인 와인 풍미가 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 8,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["살구", "초콜릿", "와인"],
+      "tasting_note_en": ["Apricot", "Chocolate", "Wine"],
+      "keywords_kr": [
+        "케냐",
+        "AA TOP",
+        "살구",
+        "와인",
+        "초콜릿",
+        "풍부한 바디감",
+        "선명한 산미",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "AA TOP",
+        "Apricot",
+        "Wine",
+        "Chocolate",
+        "Rich Body",
+        "Bright Acidity",
+        "Specialty"
+      ],
+      "summary_kr": "케냐 Kirinyaga 지역의 AA TOP 커피는 살구의 과일향과 와인 같은 산미, 초콜릿의 달콤함이 조화로운 스페셜티 원두",
+      "summary_en": "Kenya AA TOP from Kirinyaga offers a complex profile with apricot fruitiness, wine-like acidity, and a touch of chocolate sweetness.",
+      "tags_kr": [
+        "케냐",
+        "AA 등급",
+        "살구",
+        "와인",
+        "초콜릿",
+        "밝은 산미",
+        "스페셜티",
+        "복합적 풍미"
+      ],
+      "tags_en": [
+        "Kenya",
+        "AA Grade",
+        "Apricot",
+        "Wine",
+        "Chocolate",
+        "Bright Acidity",
+        "Specialty",
+        "Complex Flavor"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 AA 마사이",
+    "nameEn": "Kenya AA Mashai",
+    "thumbnailUrl": "케냐_AA_마사이.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_AA_마사이.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Nyer",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2000,
+        "altitude_range": "1,700m ~ 2,000m",
+        "variety": "Bourbon, Arabica",
+        "process": "Washed",
+        "origin_typicity": "Nyer 고지대의 Washed 커피로, 오렌지의 과일향과 초콜릿의 진함, 블랙티의 스파이시함이 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["오렌지", "초콜릿", "블랙티"],
+      "tasting_note_en": ["Orange", "Chocolate", "Black Tea"],
+      "keywords_kr": [
+        "케냐",
+        "마사이",
+        "오렌지",
+        "초콜릿",
+        "블랙티",
+        "묵직한 바디감",
+        "스파이시함",
+        "스페셜티"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "Masai",
+        "Orange",
+        "Chocolate",
+        "Black Tea",
+        "Heavy Body",
+        "Spicy",
+        "Specialty"
+      ],
+      "summary_kr": "케냐 Nyer 지역의 마사이 커피는 오렌지의 과일향과 초콜릿의 진함, 블랙티의 스파이시한 잔향이 인상적인 스페셜티 원두",
+      "summary_en": "Kenya Masai coffee from Nyer offers a rich profile of orange fruitiness, deep chocolate tones, and a spicy black tea finish.",
+      "tags_kr": [
+        "케냐",
+        "마사이",
+        "오렌지",
+        "초콜릿",
+        "블랙티",
+        "스파이시",
+        "묵직한 바디감",
+        "스페셜티"
+      ],
+      "tags_en": [
+        "Kenya",
+        "Masai",
+        "Orange",
+        "Chocolate",
+        "Black Tea",
+        "Spicy",
+        "Heavy Body",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 바리초 AA TOP",
+    "nameEn": "Kenya Baricho AA TOP",
+    "thumbnailUrl": "케냐_바리초_AA_TOP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_바리초_AA_TOP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Kirinyaga",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1600,
+        "altitude_range": "",
+        "variety": "SL28, SL34, Ruiru11",
+        "process": "Washed",
+        "origin_typicity": "밝은 산미와 부드러운 바디감이 조화를 이루는 AA 등급의 케냐 원두"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Fully Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 9,
+      "body": 9,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["감귤", "카라멜", "구운땅콩"],
+      "tasting_note_en": ["Tangerine", "Caramel", "Roasted Peanut"],
+      "keywords_kr": ["케냐", "AA", "감귤", "카라멜", "땅콩", "산미", "밝은 맛", "부드러운 바디감"],
+      "keywords_en": [
+        "Kenya",
+        "AA",
+        "Tangerine",
+        "Caramel",
+        "Peanut",
+        "Bright Acidity",
+        "Smooth Body"
+      ],
+      "summary_kr": "케냐 Kirinyaga 고지대에서 생산된 AA 등급 원두로, 감귤과 카라멜의 달콤함, 고소한 땅콩향이 어우러진 복합적인 풍미가 특징",
+      "summary_en": "Kenya AA from Kirinyaga offers a complex profile of sweet tangerine, caramel, and roasted peanut with bright acidity and a smooth finish.",
+      "tags_kr": ["케냐", "AA", "감귤", "카라멜", "땅콩", "풍부한 산미", "고소한 단맛", "스페셜티"],
+      "tags_en": [
+        "Kenya",
+        "AA",
+        "Tangerine",
+        "Caramel",
+        "Peanut",
+        "Bright Acidity",
+        "Nutty Sweetness",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 카리미쿠이 AA TOP",
+    "nameEn": "Kenya Karimikui AA TOP",
+    "thumbnailUrl": "케냐_카리미쿠이_AA_TOP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_카리미쿠이_AA_TOP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Kirinyaga",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "",
+        "variety": "SL28, SL34, Ruiru11",
+        "process": "Fully Washed",
+        "origin_typicity": "신선한 과일 향과 밝은 산미, 부드러운 바디감을 지닌 케냐 고지대 AA 원두"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "Fully Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["자몽", "오렌지주스", "건포도"],
+      "tasting_note_en": ["Grapefruit", "Orange Juice", "Raisin"],
+      "keywords_kr": [
+        "케냐",
+        "자몽",
+        "오렌지",
+        "건포도",
+        "과일향",
+        "AA",
+        "신선한 포도주",
+        "밝은 산미"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "Grapefruit",
+        "Orange Juice",
+        "Raisin",
+        "Fruity",
+        "AA",
+        "Fresh Wine Note",
+        "Bright Acidity"
+      ],
+      "summary_kr": "케냐 Kirinyaga 고지대에서 수확된 카리미쿠이 AA 원두로, 자몽과 오렌지주스의 상큼함과 건포도의 깊은 단맛이 어우러진 커피",
+      "summary_en": "Kenya Karimikui AA from Kirinyaga offers vibrant grapefruit and orange juice notes balanced with raisin sweetness and bright acidity.",
+      "tags_kr": ["케냐", "자몽", "오렌지주스", "건포도", "밝은 산미", "과일향", "부드러운 바디감"],
+      "tags_en": [
+        "Kenya",
+        "Grapefruit",
+        "Orange Juice",
+        "Raisin",
+        "Bright Acidity",
+        "Fruity",
+        "Smooth Body"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 키 AA TOP",
+    "nameEn": "Kenya Kii AA TOP",
+    "thumbnailUrl": "케냐_키_AA_TOP.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_키_AA_TOP.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Kirinyaga",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1600,
+        "altitude_range": "",
+        "variety": "SL28, SL34, Ruiru11",
+        "process": "Washed",
+        "origin_typicity": "포도주 풍미와 부드러운 초콜릿 단맛, 허브 향이 어우러진 케냐의 상급 원두"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Fully Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["건자두", "밀크초콜릿", "허브"],
+      "tasting_note_en": ["Prune", "Milk Chocolate", "Herbs"],
+      "keywords_kr": [
+        "케냐",
+        "건자두",
+        "밀크초콜릿",
+        "허브",
+        "AA",
+        "부드러운 단맛",
+        "포도주향",
+        "부드러운 바디감"
+      ],
+      "keywords_en": [
+        "Kenya",
+        "Prune",
+        "Milk Chocolate",
+        "Herbs",
+        "AA",
+        "Smooth Sweetness",
+        "Wine-like Aroma",
+        "Soft Body"
+      ],
+      "summary_kr": "케냐 Kirinyaga 고지대에서 재배된 Kii AA TOP 원두로, 건자두와 밀크초콜릿, 허브 향이 풍부하게 어우러진 고품질 커피",
+      "summary_en": "Kenya Kii AA TOP from Kirinyaga offers rich notes of prune, milk chocolate, and herbs with a smooth body and wine-like aroma.",
+      "tags_kr": [
+        "케냐",
+        "건자두",
+        "밀크초콜릿",
+        "허브",
+        "AA",
+        "풍부한 향미",
+        "부드러운 단맛",
+        "스페셜티"
+      ],
+      "tags_en": [
+        "Kenya",
+        "Prune",
+        "Milk Chocolate",
+        "Herbs",
+        "AA",
+        "Rich Flavor",
+        "Smooth Sweetness",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "케냐 피베리 세렝게티 스페셜티",
+    "nameEn": "Kenya Peberry Serengeti Specialty",
+    "thumbnailUrl": "케냐_피베리_세렝게티_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["케냐_피베리_세렝게티_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Kenya",
+        "region": "Nyeri",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m ~ 1,800m",
+        "variety": "SL28, SL34",
+        "process": "Washed",
+        "origin_typicity": "커피 체리 중 둥글게 자라는 희귀한 피베리 원두로 구성된 케냐 스페셜티"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "케냐 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "세척식",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["체리", "포도", "메이플 시럽"],
+      "tasting_note_en": ["Cherry", "Grape", "Maple Syrup"],
+      "keywords_kr": ["피베리", "케냐", "체리", "포도", "메이플 시럽", "스페셜티", "밝은 산미"],
+      "keywords_en": [
+        "Peaberry",
+        "Kenya",
+        "Cherry",
+        "Grape",
+        "Maple Syrup",
+        "Specialty",
+        "Bright Acidity"
+      ],
+      "summary_kr": "희귀한 피베리 원두로 구성된 케냐 스페셜티 커피로, 체리와 포도 풍미가 돋보이며 밝은 산미와 달콤함이 조화를 이루는 제품입니다.",
+      "summary_en": "This Kenya Peaberry specialty coffee from Nyeri features a rare round-shaped bean with vibrant cherry and grape flavors, balanced by bright acidity and sweetness.",
+      "tags_kr": ["피베리", "체리", "포도", "메이플 시럽", "케냐", "산미", "스페셜티"],
+      "tags_en": ["Peaberry", "Cherry", "Grape", "Maple Syrup", "Kenya", "Acidity", "Specialty"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 SHB 허니 제네시스",
+    "nameEn": "Costarica SHB Honey Genesis",
+    "thumbnailUrl": "코스타리카_SHB_허니_제네시스.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["코스타리카_SHB_허니_제네시스.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Costa Rica",
+        "region": "Naranjo de Alajuela",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1500,
+        "altitude_range": "1,500m ~ 1,700m",
+        "variety": "F1 Centroamericano",
+        "process": "Honey",
+        "origin_typicity": "허니 프로세스로 처리된 코스타리카 SHB 원두로, 균형감 있고 부드러운 바디감과 은은한 향미가 특징"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "코스타리카 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "허니 프로세스",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 7,
+      "sweetness": 6,
+      "aroma": 8,
+      "tasting_note_kr": ["다크 체리", "초콜릿", "감귤"],
+      "tasting_note_en": ["Dark Cherry", "Chocolate", "Citrus"],
+      "keywords_kr": [
+        "코스타리카",
+        "허니 프로세스",
+        "다크 체리",
+        "초콜릿",
+        "감귤",
+        "균형 잡힌 바디감"
+      ],
+      "keywords_en": [
+        "Costa Rica",
+        "Honey Process",
+        "Dark Cherry",
+        "Chocolate",
+        "Citrus",
+        "Balanced Body"
+      ],
+      "summary_kr": "코스타리카 나란호 지역의 SHB 허니 프로세스 커피로, 다크 체리와 감귤의 산미와 초콜릿의 부드러움이 조화를 이룹니다.",
+      "summary_en": "A honey-processed SHB coffee from Naranjo, Costa Rica, featuring the acidity of dark cherry and citrus with a smooth chocolate finish.",
+      "tags_kr": ["코스타리카", "허니", "다크 체리", "초콜릿", "감귤", "균형", "산미"],
+      "tags_en": ["Costa Rica", "Honey", "Dark Cherry", "Chocolate", "Citrus", "Balance", "Acidity"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 따라주 SHB",
+    "nameEn": "Costarica Tarrazu SHB",
+    "thumbnailUrl": "코스타리카_따라주_SHB.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["코스타리카_따라주_SHB.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Costa Rica",
+        "region": "Tarrazu",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m ~ 1,900m",
+        "variety": "Caturra, Catuai",
+        "process": "Washed",
+        "origin_typicity": "고산지의 따라주 지역에서 재배된 SHB 원두로, 균형 잡힌 단맛과 부드러운 산미가 조화를 이룸"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "코스타리카 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Fully Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 4,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["바나나", "꿀", "초콜릿"],
+      "tasting_note_en": ["Banana", "Honey", "Chocolate"],
+      "keywords_kr": ["코스타리카", "따라주", "바나나", "꿀", "초콜릿", "데일리 커피"],
+      "keywords_en": ["Costa Rica", "Tarrazu", "Banana", "Honey", "Chocolate", "Daily Coffee"],
+      "summary_kr": "코스타리카 따라주 지역의 SHB 원두로, 바나나의 부드러운 향과 꿀, 초콜릿의 단맛이 은은하게 퍼지는 데일리 커피",
+      "summary_en": "SHB coffee from Tarrazu, Costa Rica, featuring soft banana notes with hints of honey and chocolate, perfect as a daily brew.",
+      "tags_kr": ["코스타리카", "따라주", "바나나", "초콜릿", "꿀", "데일리 커피"],
+      "tags_en": ["Costa Rica", "Tarrazu", "Banana", "Chocolate", "Honey", "Daily Coffee"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 레드허니 파디바",
+    "nameEn": "Costarica RedHoney Fadiva",
+    "thumbnailUrl": "코스타리카_레드허니_파디바.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["코스타리카_레드허니_파디바.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Costa Rica",
+        "region": "Tarrazu",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m ~ 1,900m",
+        "variety": "Catua Rojo, Catua, Amarillo N Caturra",
+        "process": "Red Honey",
+        "origin_typicity": "레드허니 프로세싱을 통해 적당한 산미와 달콤한 과일향이 돋보이는 커피"
+      },
+      "roasting": {
+        "roast_level": "미디엄",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "코스타리카 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "레드 허니",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["복숭아", "파인애플", "땅콩"],
+      "tasting_note_en": ["Peach", "Pineapple", "Peanut"],
+      "keywords_kr": [
+        "코스타리카",
+        "레드허니",
+        "복숭아",
+        "파인애플",
+        "땅콩",
+        "부드러운 바디감",
+        "달콤한 과일향"
+      ],
+      "keywords_en": [
+        "Costa Rica",
+        "Red Honey",
+        "Peach",
+        "Pineapple",
+        "Peanut",
+        "Smooth Body",
+        "Sweet Fruity Aroma"
+      ],
+      "summary_kr": "레드허니 공정을 거친 코스타리카 따라주의 커피로, 복숭아와 파인애플의 달콤함과 땅콩의 고소함이 어우러진 부드러운 커피",
+      "summary_en": "Red Honey processed coffee from Tarrazu, Costa Rica, featuring sweet notes of peach and pineapple with a nutty peanut finish and smooth body.",
+      "tags_kr": [
+        "코스타리카",
+        "레드허니",
+        "복숭아",
+        "파인애플",
+        "땅콩",
+        "스페셜티",
+        "부드러운 커피"
+      ],
+      "tags_en": [
+        "Costa Rica",
+        "Red Honey",
+        "Peach",
+        "Pineapple",
+        "Peanut",
+        "Specialty",
+        "Smooth Coffee"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "코스타리카 엘 망고 워시드 스페셜티",
+    "nameEn": "Costarica El Mango Washed Specialty",
+    "thumbnailUrl": "코스타리카_엘_망고_워시드_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["코스타리카_엘_망고_워시드_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Costa Rica",
+        "region": "Tarrazu",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "1,700m",
+        "variety": "Caturra Catuai",
+        "process": "Washed",
+        "origin_typicity": "따라주의 고산지에서 생산된 고품질 워시드 커피로, 산미와 과일 풍미가 조화롭다"
+      },
+      "roasting": {
+        "roast_level": "미디엄 라이트",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "코스타리카 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 8,
+      "body": 4,
+      "sweetness": 6,
+      "aroma": 8,
+      "tasting_note_kr": ["망고", "살구", "메이플 시럽"],
+      "tasting_note_en": ["Mango", "Apricot", "Maple Syrup"],
+      "keywords_kr": ["코스타리카", "워시드", "망고", "살구", "메이플 시럽", "밝은 산미", "과일향"],
+      "keywords_en": [
+        "Costa Rica",
+        "Washed",
+        "Mango",
+        "Apricot",
+        "Maple Syrup",
+        "Bright Acidity",
+        "Fruity Aroma"
+      ],
+      "summary_kr": "따라주 지역의 고산지에서 재배된 워시드 스페셜티로, 망고와 살구의 과일향과 산뜻한 산미가 특징인 균형 잡힌 커피",
+      "summary_en": "A high-altitude washed specialty coffee from Tarrazu, Costa Rica, with vibrant notes of mango and apricot, balanced by bright acidity.",
+      "tags_kr": ["코스타리카", "워시드", "망고", "살구", "밝은 산미", "과일향", "스페셜티"],
+      "tags_en": [
+        "Costa Rica",
+        "Washed",
+        "Mango",
+        "Apricot",
+        "Bright Acidity",
+        "Fruity",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 나리노 수프리모",
+    "nameEn": "Colombia Narino Supremo",
+    "thumbnailUrl": "콜롬비아_나리노_수프리모.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_나리노_수프리모.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "Narino",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 2500,
+        "altitude_range": "2,500m",
+        "variety": "Caturra Castillo",
+        "process": "Washed",
+        "origin_typicity": "나리노 고산지에서 자란 수프리모 등급의 커피로 고소한 너트류의 향미가 인상적임"
+      },
+      "roasting": {
+        "roast_level": "미디엄 다크",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium Dark"
+      },
+      "process_detail": {
+        "fermentation": "워시드",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 2,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["캐러멜&초콜릿", "아몬드", "군밤"],
+      "tasting_note_en": ["Caramel & Chocolate", "Almond", "Roasted Chestnut"],
+      "keywords_kr": ["콜롬비아", "수프리모", "캐러멜", "초콜릿", "아몬드", "군밤", "고소함"],
+      "keywords_en": [
+        "Colombia",
+        "Supremo",
+        "Caramel",
+        "Chocolate",
+        "Almond",
+        "Roasted Chestnut",
+        "Nutty"
+      ],
+      "summary_kr": "콜롬비아 나리뇨의 고지대에서 자란 수프리모 커피로, 초콜릿과 캐러멜의 단맛과 견과류의 고소함이 조화를 이루는 커피",
+      "summary_en": "A Supremo-grade coffee from the highlands of Nariño, Colombia, with nutty notes and a harmonious blend of caramel and chocolate sweetness.",
+      "tags_kr": ["콜롬비아", "수프리모", "초콜릿", "캐러멜", "아몬드", "군밤", "견과향"],
+      "tags_en": ["Colombia", "Supremo", "Chocolate", "Caramel", "Almond", "Chestnut", "Nutty"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 라 프란시아",
+    "nameEn": "Colombia La Francia",
+    "thumbnailUrl": "콜롬비아_라_프란시아.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_라_프란시아.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "Antioquia",
+        "farm": "",
+        "producer": "",
+        "altitude_m": null,
+        "altitude_range": "1,700~1,800m",
+        "variety": "Castillo",
+        "process": "Washed",
+        "origin_typicity": "연구로 탄생한 부드럽고 부담 없는 콜롬비아산 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["견과류", "자두", "밀크 초콜릿"],
+      "tasting_note_en": ["Nutty", "Plum", "Milk Chocolate"],
+      "keywords_kr": ["견과류", "자두", "밀크초콜릿"],
+      "keywords_en": ["Nutty", "Plum", "Milk Chocolate"],
+      "summary_kr": "연구로 탄생한 부드럽고 부담 없는 콜롬비아산 커피. 중간 바디감과 은은한 자두 풍미, 부드러운 밀크초콜릿 뉘앙스를 갖춤.",
+      "summary_en": "A smooth and easy-drinking Colombian coffee developed through research, with a medium body, delicate plum notes, and a soft milk chocolate nuance.",
+      "tags_kr": ["견과류", "자두", "밀크초콜릿", "부드러운홍차", "부담없는맛"],
+      "tags_en": ["Nutty", "Plum", "Milk Chocolate", "Soft Black Tea", "Mild Taste"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 수프리모",
+    "nameEn": "Colombia Supremo",
+    "thumbnailUrl": "콜롬비아_수프리모.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_수프리모.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "South America",
+        "farm": "",
+        "producer": "",
+        "altitude_m": null,
+        "altitude_range": "1,600~1,800m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "부드러운 단맛과 무난한 산미가 조화로운 콜롬비아 수프리모 원두"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 5,
+      "body": 6.6,
+      "sweetness": 7.4,
+      "aroma": 6,
+      "tasting_note_kr": ["포도", "비스킷", "밀크 초콜릿"],
+      "tasting_note_en": ["Grape", "Biscuit", "Milk Chocolate"],
+      "keywords_kr": ["포도", "비스킷", "밀크초콜릿"],
+      "keywords_en": ["Grape", "Biscuit", "Milk Chocolate"],
+      "summary_kr": "부드러운 단맛과 무난한 산미가 조화로운 콜롬비아 수프리모. 균형 잡힌 바디감과 친숙한 풍미로 한국인이 좋아하는 대표 원두.",
+      "summary_en": "A smooth and well-balanced Colombian Supremo with mild acidity, soft sweetness, and familiar flavors beloved by many Korean coffee drinkers.",
+      "tags_kr": ["포도", "비스킷", "밀크초콜릿", "밸런스", "대중적인"],
+      "tags_en": ["Grape", "Biscuit", "Milk Chocolate", "Balanced", "Popular"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 안티오키아 수프리모",
+    "nameEn": "Colombia Antioquia Supremo",
+    "thumbnailUrl": "콜롬비아_안티오키아_수프리모.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_안티오키아_수프리모.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "Antioquia",
+        "farm": "",
+        "producer": "",
+        "altitude_m": null,
+        "altitude_range": "1,400~1,900m",
+        "variety": "Caturra",
+        "process": "Washed",
+        "origin_typicity": "화사한 산미와 균형 잡힌 맛을 갖춘 콜롬비아 안티오키아 지역의 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 7,
+      "sweetness": 6,
+      "aroma": 4,
+      "tasting_note_kr": ["오렌지", "크림", "밀크 초콜릿"],
+      "tasting_note_en": ["Orange", "Cream", "Milk Chocolate"],
+      "keywords_kr": ["오렌지", "크림", "밀크초콜릿"],
+      "keywords_en": ["Orange", "Cream", "Milk Chocolate"],
+      "summary_kr": "화사한 오렌지의 산미와 고소한 크림 감촉, 밀크 초콜릿의 달콤함이 어우러지는 균형 좋은 콜롬비아 안티오키아 커피.",
+      "summary_en": "A well-balanced Colombian Antioquia coffee with bright orange acidity, creamy mouthfeel, and sweet milk chocolate notes.",
+      "tags_kr": ["오렌지", "크림", "밀크초콜릿", "화사한산미", "균형"],
+      "tags_en": ["Orange", "Cream", "Milk Chocolate", "Bright Acidity", "Balanced"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "콜롬비아 후일라 수프리모",
+    "nameEn": "Colombia Huila Supremo",
+    "thumbnailUrl": "콜롬비아_후일라_수프리모.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["콜롬비아_후일라_수프리모.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Colombia",
+        "region": "Huila",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1700,
+        "altitude_range": "1,700m",
+        "variety": "Caturra, Castillo",
+        "process": "Washed",
+        "origin_typicity": "스모키한 향과 고소한 견과류 풍미가 인상적인 콜롬비아 우일라 지역의 수프리모 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "콜롬비아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": "",
+        "grading": "Supremo"
+      },
+      "acidity": 3,
+      "body": 7,
+      "sweetness": 7,
+      "aroma": 7,
+      "tasting_note_kr": ["호두", "토스트", "아몬드"],
+      "tasting_note_en": ["Walnut", "Toast", "Almond"],
+      "keywords_kr": [
+        "스모키함",
+        "진한초코향",
+        "견과류의고소함",
+        "은은한산미",
+        "산미없고고소한커피"
+      ],
+      "keywords_en": ["Smoky", "Dark Chocolate", "Nutty", "Mild Acidity", "Smooth & Nutty"],
+      "summary_kr": "스모키한 향미와 함께 고소한 견과류의 풍미가 진하게 느껴지는 커피. 은은한 산미와 부드러운 단맛이 조화를 이룬다.",
+      "summary_en": "This Colombian Huila Supremo coffee offers a smoky aroma with deep nutty flavors, soft acidity, and smooth sweetness.",
+      "tags_kr": ["호두", "토스트", "아몬드"],
+      "tags_en": ["Walnut", "Toast", "Almond"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "탄자니아 AAA 아멕스 플러스",
+    "nameEn": "Tanzania AAA Amex Plus",
+    "thumbnailUrl": "탄자니아_AAA_아멕스_플러스.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["탄자니아_AAA_아멕스_플러스.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Tanzania",
+        "region": "Mibinga, Ruvuma",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "1,500m ~ 1,800m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "AAA 등급의 대립종으로 투박하면서도 고급스러운 탄자니아 고산지 원두"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "탄자니아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": "",
+        "grading": "AAA Amex Plus"
+      },
+      "acidity": 8,
+      "body": 7,
+      "sweetness": 6,
+      "aroma": 7,
+      "tasting_note_kr": ["곡물", "오렌지", "드라이 와인"],
+      "tasting_note_en": ["Grain", "Orange", "Dry Wine"],
+      "keywords_kr": ["AAA생두크기", "아멕스플러스등급", "거칠고투박한느낌", "과일산미", "단맛"],
+      "keywords_en": [
+        "AAA Size",
+        "Amex Plus Grade",
+        "Rustic Texture",
+        "Fruity Acidity",
+        "Sweetness"
+      ],
+      "summary_kr": "탄자니아 특유의 풍성한 산미와 함께 투박하면서도 고급스러운 감촉의 원두로, 균형 잡힌 단맛이 어우러진다.",
+      "summary_en": "This Tanzanian AAA Amex Plus coffee features rich fruity acidity with a rustic yet elegant mouthfeel and balanced sweetness.",
+      "tags_kr": ["곡물", "오렌지", "드라이 와인"],
+      "tags_en": ["Grain", "Orange", "Dry Wine"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "탄자니아 AA FAQ NORTH",
+    "nameEn": "Tanzania AA FAQ NORTH",
+    "thumbnailUrl": "탄자니아_AA_FAQ_NORTH.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["탄자니아_AA_FAQ_NORTH.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Tanzania",
+        "region": "Mochi North",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "1,200m ~ 1,800m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "킬리만자로 고산지에서 재배된 AA 등급의 커피로, 부드러운 밸런스와 고급스러운 풍미가 특징"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "탄자니아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": "",
+        "grading": "AA FAQ"
+      },
+      "acidity": 8,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 8,
+      "tasting_note_kr": ["레몬", "우드", "초콜렛"],
+      "tasting_note_en": ["Lemon", "Wood", "Chocolate"],
+      "keywords_kr": [
+        "킬리만자로커피",
+        "좋은밸런스",
+        "독특한원산지의풍미",
+        "커피의신사",
+        "영국왕실커피"
+      ],
+      "keywords_en": [
+        "Kilimanjaro Coffee",
+        "Great Balance",
+        "Distinct Origin Flavor",
+        "Gentleman's Coffee",
+        "Royal Coffee"
+      ],
+      "summary_kr": "밸런스가 뛰어난 고산지 탄자니아 커피로, 레몬의 산미와 초콜릿의 단맛이 조화를 이루며 고급스럽고 신선한 맛을 제공한다.",
+      "summary_en": "This Tanzanian Kilimanjaro AA coffee offers excellent balance with lemony acidity and sweet chocolate tones, providing a refined and refreshing flavor.",
+      "tags_kr": ["레몬", "우드", "초콜렛"],
+      "tags_en": ["Lemon", "Wood", "Chocolate"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "탄자니아 AA 킬리만자로",
+    "nameEn": "Tanzania AA Kilimanjaro",
+    "thumbnailUrl": "탄자니아_AA_킬리만자로.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["탄자니아_AA_킬리만자로.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Tanzania",
+        "region": "Arucha",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1800,
+        "altitude_range": "1,300m ~ 1,800m",
+        "variety": "Bourbon, Kent",
+        "process": "Washed, Sun Dry",
+        "origin_typicity": "아루샤 고지대에서 생산된 버번과 켄트 품종의 커피로, 선건조 방식으로 고소함과 단맛이 강조됨"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "탄자니아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "drying": "Sun Dry",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 4,
+      "body": 6.2,
+      "sweetness": 6.4,
+      "aroma": 6,
+      "tasting_note_kr": ["코코넛", "레몬", "갈색설탕"],
+      "tasting_note_en": ["Coconut", "Lemon", "Brown Sugar"],
+      "keywords_kr": ["코코넛", "레몬", "갈색설탕", "고소함", "산미", "단맛"],
+      "keywords_en": ["Coconut", "Lemon", "Brown Sugar", "Nutty", "Acidity", "Sweetness"],
+      "summary_kr": "코코넛과 레몬의 조화로운 고소함과 산뜻한 단맛이 어우러진 부드러운 바디감의 커피.",
+      "summary_en": "A Tanzanian coffee from Arusha with a soft body, blending coconut nuttiness and lemon brightness with sweet brown sugar tones.",
+      "tags_kr": [
+        "청량감있는커피",
+        "아이스추천",
+        "목직한고소함",
+        "바디감",
+        "풍부한단맛",
+        "커피의신사"
+      ],
+      "tags_en": [
+        "Refreshing",
+        "Iced Recommended",
+        "Nutty Body",
+        "Full Sweetness",
+        "Balanced",
+        "Gentleman's Coffee"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "탄자니아 모시 AA FAQ NORTH",
+    "nameEn": "Tanzania Moshi AA FAQ North",
+    "thumbnailUrl": "탄자니아_모시_AA_FAQ_NORTH.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["탄자니아_모시_AA_FAQ_NORTH.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Tanzania",
+        "region": "Moshi",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m",
+        "variety": "Bourbon Kent",
+        "process": "Washed",
+        "origin_typicity": "킬리만자로 인근 모시 지역에서 재배된 버번·켄트 품종의 워시드 커피로, 산미와 향미 밸런스가 인상적임"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "탄자니아 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 7,
+      "body": 5.6,
+      "sweetness": 6,
+      "aroma": 6,
+      "tasting_note_kr": ["아몬드", "홍차", "메이플 시럽"],
+      "tasting_note_en": ["Almond", "Black Tea", "Maple Syrup"],
+      "keywords_kr": ["아몬드", "홍차", "메이플 시럽", "강한 산미", "밸런스"],
+      "keywords_en": ["Almond", "Black Tea", "Maple Syrup", "Strong Acidity", "Balance"],
+      "summary_kr": "홍차와 아몬드, 메이플 시럽의 고급스러운 향미와 강한 산미가 돋보이는 개성 있는 커피.",
+      "summary_en": "A unique Tanzanian Moshi coffee with elegant notes of black tea, almond, and maple syrup, highlighted by bright acidity.",
+      "tags_kr": ["킬리만자로근처", "모시농장", "고품질평가", "강한신맛", "개성적인향기"],
+      "tags_en": [
+        "Kilimanjaro Region",
+        "Moshi Farm",
+        "Premium Quality",
+        "High Acidity",
+        "Distinctive Aroma"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "파나마 카미노리얼 SHB 스페셜티",
+    "nameEn": "Panama Camino Real SHB Specialty",
+    "thumbnailUrl": "파나마_카미노리얼_SHB_스페셜티.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["파나마_카미노리얼_SHB_스페셜티.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Panama",
+        "region": "Bajo Boquete",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1400,
+        "altitude_range": "1,400m",
+        "variety": "Arabica, Typica",
+        "process": "Washed",
+        "origin_typicity": "파나마 바호 보케테 고지대에서 재배된 아라비카 티피카 품종으로, 다크 초콜릿과 감귤향이 돋보이는 스페셜티 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "파나마 100%",
+        "color_stage": "Medium"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 6,
+      "sweetness": 6,
+      "aroma": 8.4,
+      "tasting_note_kr": ["다크 초콜릿", "감귤", "사탕수수"],
+      "tasting_note_en": ["Dark Chocolate", "Citrus", "Sugar Cane"],
+      "keywords_kr": ["다크 초콜릿", "감귤", "사탕수수", "단맛", "쌉쌀한 여운"],
+      "keywords_en": ["Dark Chocolate", "Citrus", "Sugar Cane", "Sweetness", "Bittersweet Finish"],
+      "summary_kr": "감귤과 사탕수수의 달콤함에 다크 초콜릿의 쌉쌀한 여운이 어우러진 스페셜티 커피.",
+      "summary_en": "A specialty coffee from Panama with citrus and sugar cane sweetness, balanced by a lingering bittersweet dark chocolate finish.",
+      "tags_kr": [
+        "고품질커피",
+        "안셀미트농장",
+        "단일재배",
+        "뛰어난향",
+        "큰잠재력의원두",
+        "스페셜티"
+      ],
+      "tags_en": [
+        "High Quality",
+        "Anselmit Farm",
+        "Single Origin",
+        "Aromatic",
+        "High Potential",
+        "Specialty"
+      ]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "파푸아뉴기니 A 킨뎅",
+    "nameEn": "Papua New Guinea A Kindeng",
+    "thumbnailUrl": "파푸아뉴기니_A_킨뎅.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["파푸아뉴기니_A_킨뎅.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": false,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Papua New Guinea",
+        "region": "Waghi Valley Kindeng",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1550,
+        "altitude_range": "1,550m",
+        "variety": "Arabica",
+        "process": "Washed",
+        "origin_typicity": "파푸아뉴기니 Waghi Valley의 Kindeng에서 생산된 아라비카 커피로, 클린한 산미와 고소한 풍미가 조화를 이루는 균형 잡힌 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium Light",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "파푸아뉴기니 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6,
+      "body": 8,
+      "sweetness": 7,
+      "aroma": 8,
+      "tasting_note_kr": ["레몬민트티", "비스킷", "볶은호두"],
+      "tasting_note_en": ["Lemon Mint Tea", "Biscuit", "Roasted Walnut"],
+      "keywords_kr": ["레몬민트티", "비스킷", "볶은호두", "클린한 산미", "밸런스 좋은 커피"],
+      "keywords_en": [
+        "Lemon Mint Tea",
+        "Biscuit",
+        "Roasted Walnut",
+        "Clean Acidity",
+        "Balanced Coffee"
+      ],
+      "summary_kr": "레몬민트티의 청량함과 고소한 구수함이 어우러진 커피로, 바디감과 클린한 산미가 조화를 이루며 깔끔한 후미를 자랑합니다.",
+      "summary_en": "A clean and balanced coffee from Papua New Guinea, combining the freshness of lemon mint tea with nutty undertones like biscuit and roasted walnut.",
+      "tags_kr": ["레몬민트티", "비스킷", "볶은호두", "클린한산미", "밸런스"],
+      "tags_en": ["Lemon Mint Tea", "Biscuit", "Roasted Walnut", "Clean Acidity", "Balance"]
+    }
+  },
+  {
+    "categoryId": 4,
+    "nameKr": "파푸아뉴기니 시그리 A",
+    "nameEn": "Papua New Guinea Sigri A",
+    "thumbnailUrl": "파푸아뉴기니_시그리_A.png",
+    "price": 6900,
+    "shippingFee": 3000,
+    "optionList": [
+      {
+        "categoryOptionId": 1,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 4,
+            "extraCharge": 0
+          }
+        ]
+      },
+      {
+        "categoryOptionId": 2,
+        "categoryOptionValueList": [
+          {
+            "categoryOptionValueId": 12,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 13,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 14,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 15,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 16,
+            "extraCharge": 0
+          },
+          {
+            "categoryOptionValueId": 17,
+            "extraCharge": 0
+          }
+        ]
+      }
+    ],
+    "imageList": ["파푸아뉴기니_시그리_A.png"],
+    "isSingle": true,
+    "isBlend": false,
+    "isSpecialty": true,
+    "isDecaf": false,
+    "profile": {
+      "origin": {
+        "country": "Papua New Guinea",
+        "region": "Wahgi Valley",
+        "farm": "",
+        "producer": "",
+        "altitude_m": 1600,
+        "altitude_range": "1,500m ~ 1,700m",
+        "variety": "Cafimor, Typica",
+        "process": "Washed",
+        "origin_typicity": "Wahgi Valley의 유기농 방식으로 재배된 커피로 꽃향기와 과일향, 클린컵이 특징인 고산지 커피"
+      },
+      "roasting": {
+        "roast_level": "Medium Light",
+        "roaster": "",
+        "color_track": null,
+        "color_track_version": null,
+        "bean_ratio": "파푸아뉴기니 100%",
+        "color_stage": "Medium Light"
+      },
+      "process_detail": {
+        "fermentation": "Washed",
+        "special_technique": "",
+        "must_usage": ""
+      },
+      "acidity": 6.4,
+      "body": 6,
+      "sweetness": 8,
+      "aroma": 9,
+      "tasting_note_kr": ["꽃향기", "오렌지", "사과"],
+      "tasting_note_en": ["Floral", "Orange", "Apple"],
+      "keywords_kr": ["꽃향기", "오렌지", "사과", "밝은 산미", "클린컵"],
+      "keywords_en": ["Floral", "Orange", "Apple", "Bright Acidity", "Clean Cup"],
+      "summary_kr": "유기농 방식으로 재배된 커피로 꽃향기와 오렌지의 과일향이 인상적이며, 산뜻하고 깔끔한 뒷맛이 특징입니다.",
+      "summary_en": "A high-grown organic coffee from Wahgi Valley, offering a floral aroma and bright citrus notes like orange and apple, with a clean and refreshing finish.",
+      "tags_kr": ["꽃향기", "오렌지", "사과", "유기농", "클린컵"],
+      "tags_en": ["Floral", "Orange", "Apple", "Organic", "Clean Cup"]
+    }
+  }
+]

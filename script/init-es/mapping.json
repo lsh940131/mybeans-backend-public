@@ -1,0 +1,254 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "kr_analyzer": {
+          "type": "custom",
+          "tokenizer": "nori_tokenizer",
+          "filter": ["lowercase"]
+        },
+        "en_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": ["lowercase", "english_stop", "porter_stem"]
+        }
+      },
+      "filter": {
+        "english_stop": {
+          "type": "stop",
+          "stopwords": "_english_"
+        },
+        "porter_stem": {
+          "type": "stemmer",
+          "language": "english"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "dynamic": false,
+    "properties": {
+      "categoryId": {
+        "type": "long"
+      },
+      "categoryParentId": {
+        "type": "long"
+      },
+      "categoryNameKr": {
+        "type": "text",
+        "analyzer": "kr_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "categoryNameEn": {
+        "type": "text",
+        "analyzer": "en_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "sellerId": {
+        "type": "long"
+      },
+      "sellerName": {
+        "type": "text",
+        "analyzer": "kr_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "productId": {
+        "type": "long"
+      },
+      "productNameKr": {
+        "type": "text",
+        "analyzer": "kr_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "productNameEn": {
+        "type": "text",
+        "analyzer": "en_analyzer",
+        "fields": {
+          "keyword": {
+            "type": "keyword",
+            "ignore_above": 256
+          }
+        }
+      },
+      "isBlend": {
+        "type": "boolean"
+      },
+      "isDecaf": {
+        "type": "boolean"
+      },
+      "isSingle": {
+        "type": "boolean"
+      },
+      "isSpecialty": {
+        "type": "boolean"
+      },
+      "profile": {
+        "properties": {
+          "aroma": {
+            "type": "long"
+          },
+          "body": {
+            "type": "long"
+          },
+          "sweetness": {
+            "type": "long"
+          },
+          "acidity": {
+            "type": "long"
+          },
+          "keywordsKr": {
+            "type": "text",
+            "analyzer": "kr_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "keywordsEn": {
+            "type": "text",
+            "analyzer": "en_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "summaryKr": {
+            "type": "text",
+            "analyzer": "kr_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "summaryEn": {
+            "type": "text",
+            "analyzer": "en_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "tagsKr": {
+            "type": "text",
+            "analyzer": "kr_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "tagsEn": {
+            "type": "text",
+            "analyzer": "en_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "tastingNoteKr": {
+            "type": "text",
+            "analyzer": "kr_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "tastingNoteEn": {
+            "type": "text",
+            "analyzer": "en_analyzer",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "origin": {
+            "properties": {
+              "countryKr": {
+                "type": "text",
+                "analyzer": "kr_analyzer",
+                "fields": {
+                  "keyword": {
+                    "type": "keyword",
+                    "ignore_above": 256
+                  }
+                }
+              },
+              "countryEn": {
+                "type": "text",
+                "analyzer": "en_analyzer",
+                "fields": {
+                  "keyword": {
+                    "type": "keyword",
+                    "ignore_above": 256
+                  }
+                }
+              },
+              "originBlend": {
+                "properties": {
+                  "originKr": {
+                    "type": "text",
+                    "analyzer": "kr_analyzer",
+                    "fields": {
+                      "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                      }
+                    }
+                  },
+                  "originEn": {
+                    "type": "text",
+                    "analyzer": "en_analyzer",
+                    "fields": {
+                      "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                      }
+                    }
+                  },
+                  "ratio": {
+                    "type": "long"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
